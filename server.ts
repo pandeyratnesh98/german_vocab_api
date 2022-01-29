@@ -11,6 +11,7 @@ if (!server) {
     typeDefs,
     resolvers,
     context: async ({ req }) => {
+      console.log(req.headers);
       const arrayAuth = req.headers.authorization?.split(" ");
       if (arrayAuth && arrayAuth.includes("bearer")) {
         const res = await bcrypt.compare(
