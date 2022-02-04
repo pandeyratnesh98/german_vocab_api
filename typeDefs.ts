@@ -1,6 +1,6 @@
 import { gql } from "apollo-server";
 
-export default gql`
+export default `
   type Vocab {
     german: String!
     english: String!
