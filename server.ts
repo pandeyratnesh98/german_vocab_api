@@ -42,6 +42,7 @@ const verifyIdToken = async (idToken: string) => {
 };
 const loggingMiddleware = (req: any, res: any, next: any) => {
   const authorization = req.headers.authorization;
+  console.log(authorization)
   if (!authorization) {
     return res.status(401).send("You are not authorised to make any request.");
   }
