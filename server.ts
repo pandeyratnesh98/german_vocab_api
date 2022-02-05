@@ -49,7 +49,7 @@ const loggingMiddleware = (req: any, res: any, next: any) => {
   const idToken = authorization.split(" ")[1];
   verifyIdToken(idToken)
     .then((decodedToken) => {
-      console.log(decodedToken.uid);
+      res.locals.userId = decodedToken.uid;
       return next();
     })
     .catch((err) => {
@@ -58,7 +58,7 @@ const loggingMiddleware = (req: any, res: any, next: any) => {
         .send("You are not authorised to make any request.");
     });
 };
-app.use(loggingMiddleware);
+app.use("/checkout", loggingMiddleware);
 app.use(
   "/graphql",
   graphqlHTTP({
@@ -70,9 +70,9 @@ app.use(
 app.get("/playground", expressPlayground({ endpoint: "/graphql" }));
 app.post("/checkout", async (req: any, res: any) => {
   const paymentIntent = await stripe.paymentIntents.create({
-    amount: 499,
+    amount: 499.0,
     currency: "inr",
-    // customer: customer.id,
+    customer: res.locals.userId,
     automatic_payment_methods: {
       enabled: true,
     },
@@ -83,6 +83,7 @@ app.post("/checkout", async (req: any, res: any) => {
     publishableKey: process.env.PUBLISABLE_KEY,
   });
 });
+
 app.listen(process.env.PORT || 4000, () => {
   console.log("server is running...");
 });
