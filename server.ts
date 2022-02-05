@@ -42,7 +42,7 @@ const verifyIdToken = async (idToken: string) => {
 };
 const loggingMiddleware = (req: any, res: any, next: any) => {
   const authorization = req.headers.authorization;
-  console.log(authorization)
+  console.log(authorization);
   if (!authorization) {
     return res.status(401).send("You are not authorised to make any request.");
   }
@@ -70,8 +70,8 @@ app.use(
 app.get("/playground", expressPlayground({ endpoint: "/graphql" }));
 app.post("/checkout", async (req: any, res: any) => {
   const paymentIntent = await stripe.paymentIntents.create({
-    amount: 10,
-    currency: "eur",
+    amount: 499,
+    currency: "inr",
     // customer: customer.id,
     automatic_payment_methods: {
       enabled: true,
