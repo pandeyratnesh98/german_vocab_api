@@ -70,8 +70,11 @@ app.use(
 app.get("/playground", expressPlayground({ endpoint: "/graphql" }));
 app.post("/checkout", async (req: any, res: any) => {
   const paymentIntent = await stripe.paymentIntents.create({
-    amount: 499.0,
+    amount: 19900,
     currency: "inr",
+    metadata: {
+      uid: res.locals.userId,
+    },
     automatic_payment_methods: {
       enabled: true,
     },
@@ -79,7 +82,6 @@ app.post("/checkout", async (req: any, res: any) => {
 
   return res.json({
     paymentIntent: paymentIntent.client_secret,
-    customerId: res.locals.userId,
     publishableKey: process.env.PUBLISABLE_KEY,
   });
 });
