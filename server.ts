@@ -6,6 +6,11 @@ import resolvers from "./resolvers";
 // import { ApolloServerPluginLandingPageDisabled } from "apollo-server-core";
 import { graphqlHTTP } from "express-graphql";
 import { buildSchema } from "graphql";
+import { makeExecutableSchema } from "@graphql-tools/schema";
+const schema = makeExecutableSchema({
+  typeDefs,
+  resolvers,
+});
 // const bcrypt = require("bcrypt");
 // let server = null;
 const expressPlayground =
@@ -59,15 +64,16 @@ const loggingMiddleware = (req: any, res: any, next: any) => {
     });
 };
 app.use("/checkout", loggingMiddleware);
+app.use("/graphql", loggingMiddleware);
 app.use(
   "/graphql",
   graphqlHTTP({
-    schema: buildSchema(typeDefs),
-    rootValue: resolvers,
+    schema,
     graphiql: true,
   })
 );
-app.get("/playground", expressPlayground({ endpoint: "/graphql" }));
+
+//checkout payment
 app.post("/checkout", async (req: any, res: any) => {
   const paymentIntent = await stripe.paymentIntents.create({
     amount: 19900,
@@ -86,6 +92,59 @@ app.post("/checkout", async (req: any, res: any) => {
   });
 });
 
+//after payment making person with premium previllages
+app.post(
+  "/webhook",
+  express.raw({ type: "application/json" }),
+  (request: any, response: any) => {
+    const sig = request.headers["stripe-signature"];
+
+    let event;
+
+    try {
+      event = stripe.webhooks.constructEvent(
+        request.body,
+        sig,
+        "whsec_9b8c32ffc3662869710e2a75c00fd4c1ec491c4bee2ae2b31b1933853a659b50"
+      );
+    } catch (err: any) {
+      response.status(400).send(`Webhook Error: ${err.message}`);
+      return;
+    }
+
+    // Handle the event
+    switch (event.type) {
+      case "payment_intent.succeeded":
+        const paymentIntent = event.data.object;
+        if (!paymentIntent.metadata.uid) {
+          response.status(401).send(`Authentication Failed`);
+          return;
+        }
+        admin
+          .auth()
+          .setCustomUserClaims(paymentIntent.metadata.uid, { premium: true })
+          .then(() => {
+            admin
+              .auth()
+              .revokeRefreshTokens(paymentIntent.metadata.uid)
+              .then(() => {
+                response.send("Payment Successfull! You are prime User Now");
+              });
+          })
+          .catch((err) => {
+            response.status(401).send(`Authentication Failed: ${err.message}`);
+          });
+
+        // Then define and call a function to handle the event payment_intent.succeeded
+        break;
+      // ... handle other event types
+      default:
+        response.status(400).send(`Unhandled event type ${event.type}`);
+    }
+  }
+);
+
+//listening server
 app.listen(process.env.PORT || 4000, () => {
   console.log("server is running...");
 });

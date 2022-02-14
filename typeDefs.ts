@@ -8,7 +8,6 @@ export default `
   type Query {
     vocabList(input: String!): [Vocab!]
     getRandomTenVocab: [Vocab!]
-    getTwentyVocab(input: String!): [Vocab!]
     search(input: String!): [Vocab!]
   }
 `;
