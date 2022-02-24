@@ -105,7 +105,7 @@ app.post(
       event = stripe.webhooks.constructEvent(
         request.body,
         sig,
-        "whsec_9b8c32ffc3662869710e2a75c00fd4c1ec491c4bee2ae2b31b1933853a659b50"
+        process.env.WEBHOOK_SIGN_KEY
       );
     } catch (err: any) {
       response.status(400).send(`Webhook Error: ${err.message}`);
