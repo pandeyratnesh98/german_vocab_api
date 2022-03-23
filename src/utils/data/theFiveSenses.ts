@@ -1,7 +1,7 @@
 export default [
   {
-    german: "DER SEHSINN",
-    english: "SIGHT",
+    german: "der sehsinn",
+    english: "sight",
   },
   {
     german: "farbenblind",
@@ -68,8 +68,8 @@ export default [
     english: "night vision",
   },
   {
-    german: "die Aussicht, das Panorama",
-    english: "the view, the panorama",
+    german: "die Aussicht",
+    english: "the view",
   },
   {
     german: "die Braille-Schrift",
@@ -196,8 +196,8 @@ export default [
     english: "see",
   },
   {
-    german: "DAS GEHÖR",
-    english: "HEARING",
+    german: "das Gehör",
+    english: "hearing",
   },
   {
     german: "hörbar",
@@ -332,8 +332,8 @@ export default [
     english: "deaf",
   },
   {
-    german: "NÜTZLICHE VERBS",
-    english: "USEFUL VERBS",
+    german: "nützliche Verben",
+    english: "useful verbs",
   },
   {
     german: "summen",
@@ -368,8 +368,8 @@ export default [
     english: "to hear",
   },
   {
-    german: "stumm / stumm sein",
-    english: "to be silent/quiet",
+    german: "stumm sein",
+    english: "to be silent, quiet",
   },
   {
     german: "wirbeln",
@@ -396,8 +396,8 @@ export default [
     english: "to deafen",
   },
   {
-    german: "DER TASTSINN",
-    english: "TOUCH",
+    german: "der tastsinn",
+    english: "touch",
   },
   {
     german: "heiß",
@@ -452,12 +452,8 @@ export default [
     english: "silky",
   },
   {
-    german: "NÜTZLICHE VERBS",
-    english: "USEFUL VERBS",
-  },
-  {
     german: "schlagen",
-    english: "to knock, to hit",
+    english: "beat",
   },
   {
     german: "schrubben",
@@ -484,8 +480,8 @@ export default [
     english: "to warm",
   },
   {
-    german: "DER GESCHMACKSSINN",
-    english: "TASTE",
+    german: "der Geschmack",
+    english: "taste",
   },
   {
     german: "Appetit",
@@ -600,8 +596,8 @@ export default [
     english: "to sweeten",
   },
   {
-    german: "DER GERUCHSSINN",
-    english: "SMELL",
+    german: "der Geruchssinn",
+    english: "the sense of smell",
   },
   {
     german: "das Parfüm",

@@ -1,50 +1,50 @@
 export default [
   {
-    german: "Alexander le Grand ",
+    german: "Alexander le Grand",
     english: "Alexander the Great",
   },
   {
-    german: "archäologisch ",
+    german: "archäologisch",
     english: "archaeological",
   },
   {
-    german: "Attila der Hunne ",
+    german: "Attila der Hunne",
     english: "Attila the Hun",
   },
   {
-    german: "biblisch ",
+    german: "biblisch",
     english: "biblical",
   },
   {
-    german: "keltisch ",
+    german: "keltisch",
     english: "Celtic",
   },
   {
-    german: "chronologisch ",
+    german: "chronologisch",
     english: "chronologically",
   },
   {
-    german: "kolonial ",
+    german: "kolonial",
     english: "colonial",
   },
   {
-    german: "Zeitgenosse ",
+    german: "Zeitgenosse",
     english: "Contemporary",
   },
   {
-    german: "kulturell ",
+    german: "kulturell",
     english: "cultural",
   },
   {
-    german: "episch ",
+    german: "episch",
     english: "epic",
   },
   {
-    german: "Geschichte ",
+    german: "Geschichte",
     english: "history",
   },
   {
-    german: "illustriert ",
+    german: "illustriert",
     english: "illustrated",
   },
   {
@@ -52,47 +52,47 @@ export default [
     english: "Inca",
   },
   {
-    german: "das Amphitheater ",
+    german: "das Amphitheater",
     english: "the amphitheater",
   },
   {
-    german: "die Amphore ",
+    german: "die Amphore",
     english: "the amphora",
   },
   {
-    german: "der Vorfahr ",
+    german: "der Vorfahr",
     english: "the ancestor",
   },
   {
-    german: "der Antiquitätenhändler ",
+    german: "der Antiquitätenhändler",
     english: "the antique dealer",
   },
   {
-    german: "das Altertum ",
+    german: "das Altertum",
     english: "antiquity",
   },
   {
-    german: "der Aquädukt ",
+    german: "der Aquädukt",
     english: "the aqueduct",
   },
   {
-    german: "die Archäologie ",
+    german: "die Archäologie",
     english: "archeology",
   },
   {
-    german: "der Archäologe ",
+    german: "der Archäologe",
     english: "the archaeologist",
   },
   {
-    german: "die Architektur ",
+    german: "die Architektur",
     english: "architecture",
   },
   {
-    german: "die Armee ",
+    german: "die Armee",
     english: "the army",
   },
   {
-    german: "die Kunst ",
+    german: "die Kunst",
     english: "art",
   },
   {
@@ -104,35 +104,35 @@ export default [
     english: "the author",
   },
   {
-    german: "die Autobiografie ",
+    german: "die Autobiografie",
     english: "the autobiography",
   },
   {
-    german: "das Abenteuer ",
+    german: "das Abenteuer",
     english: "adventure",
   },
   {
-    german: "die Schrift ",
+    german: "die Schrift",
     english: "the font",
   },
   {
-    german: "der Schriftsteller ",
+    german: "der Schriftsteller",
     english: "the writer",
   },
   {
-    german: "der Einsturz ",
+    german: "der Einsturz",
     english: "the collapse",
   },
   {
-    german: "die Ägyptologie ",
+    german: "die Ägyptologie",
     english: "Egyptology",
   },
   {
-    german: "das Reich ",
+    german: "das Reich",
     english: "the Empire",
   },
   {
-    german: "das römische Reich ",
+    german: "das römische Reich",
     english: "the Roman Empire",
   },
   {
@@ -140,19 +140,19 @@ export default [
     english: "the intruder",
   },
   {
-    german: "das Wrack ",
+    german: "das Wrack",
     english: "the wreck",
   },
   {
-    german: "das Schwert ",
+    german: "das Schwert",
     english: "the sword",
   },
   {
-    german: "die Episode ",
+    german: "die Episode",
     english: "the episode",
   },
   {
-    german: "die Ära ",
+    german: "die Ära",
     english: "the era",
   },
   {
@@ -189,7 +189,7 @@ export default [
   },
   {
     german: "der Entdeckungsreisende",
-    english: "the explorer, the explorer",
+    english: "the explorer",
   },
   {
     german: "die Ausstellung",
@@ -808,8 +808,12 @@ export default [
     english: "prehistoric",
   },
   {
-    german: "echt, authentisch",
-    english: "real, authentic",
+    german: "echt",
+    english: "real",
+  },
+  {
+    german: "authentisch",
+    english: "authentic",
   },
   {
     german: "alt",

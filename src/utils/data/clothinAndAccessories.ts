@@ -40,6 +40,10 @@ export default [
     english: "well dressed/ badly dressed",
   },
   {
+    german: "schlecht gekleidet",
+    english: "poorly dressed",
+  },
+  {
     german: "schreit",
     english: "shouting",
   },
@@ -308,12 +312,12 @@ export default [
     english: "the blazer",
   },
   {
-    german: "der Overall / die Latzhose",
-    english: "the blue work/ the overalls",
+    german: "der Overall, die Latzhose",
+    english: "the overalls",
   },
   {
     german: "die Jacke",
-    english: "the jacket, the jacket",
+    english: "the jacket",
   },
   {
     german: "die Bademütze",
@@ -353,7 +357,7 @@ export default [
   },
   {
     german: "die Schuhcreme",
-    english: "shoe polish (for shoe)",
+    english: "shoe polish",
   },
   {
     german: "der Kragen",
@@ -377,7 +381,11 @@ export default [
   },
   {
     german: "das Kostüm, den Anzug",
-    english: "the suit, the suit",
+    english: "the costume, the suit",
+  },
+  {
+    german: "den Anzug",
+    english: "the suit",
   },
   {
     german: "die Baumwolle",
@@ -476,6 +484,10 @@ export default [
     english: "the bathrobe/ the dressing gown",
   },
   {
+    german: "Morgenmantel",
+    english: "the dressing gown",
+  },
+  {
     german: "der Punkt",
     english: "the point",
   },
@@ -488,8 +500,8 @@ export default [
     english: "the garter belt",
   },
   {
-    german: "der Pullover/Pullover",
-    english: "the sweater/ the sweater",
+    german: "der Pullover",
+    english: "the sweater",
   },
   {
     german: "der Schlafanzug",
@@ -524,7 +536,7 @@ export default [
     english: "the underwear",
   },
   {
-    german: "der Büstenhalter, der BH",
+    german: "der Büstenhalter",
     english: "the bra",
   },
   {
@@ -657,7 +669,7 @@ export default [
   },
   {
     german: "Kleidung für Männer/Damen",
-    english: "men's/ women's clothing",
+    english: "Clothing for men / women",
   },
   {
     german: "Sportbekleidung",
@@ -792,8 +804,12 @@ export default [
     english: "retouch",
   },
   {
-    german: "Ärmel hochkrempeln / aufziehen",
-    english: "roll up/ roll up sleeves",
+    german: "Ärmel hochkrempeln",
+    english: "roll up sleeves",
+  },
+  {
+    german: "aufziehen",
+    english: "raise, wind up",
   },
   {
     german: "sich anziehen",

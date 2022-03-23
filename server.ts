@@ -16,9 +16,7 @@ const schema = makeExecutableSchema({
 const expressPlayground =
   require("graphql-playground-middleware-express").default;
 const app = express();
-const stripe = require("stripe")(
-  "sk_test_51KNJ2FSBPFLa6VsBCMITKY4e4Oq4V3yl7FMQGRYf1PYXMxKUCFjCN5yjrQ72Znb6yiOduJtEiTr253mIO3rnRiBQ00TH5btEGA"
-);
+const stripe = require("stripe")(process.env.STRIPE_SECRET);
 import * as admin from "firebase-admin";
 admin.initializeApp({
   credential: admin.credential.cert({
@@ -76,7 +74,7 @@ app.use(
 //checkout payment
 app.post("/checkout", async (req: any, res: any) => {
   const paymentIntent = await stripe.paymentIntents.create({
-    amount: 19900,
+    amount: process.env.SERVICE_PRICE,
     currency: "inr",
     metadata: {
       uid: res.locals.userId,

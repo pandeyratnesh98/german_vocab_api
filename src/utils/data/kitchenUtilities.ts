@@ -44,10 +44,6 @@ export default [
     english: "beat egg whites to snow",
   },
   {
-    german: "schlagen, schlagen (aus Eiern)",
-    english: "beat, whisk (of eggs)",
-  },
-  {
     german: "buttern",
     english: "to butter",
   },
@@ -56,7 +52,7 @@ export default [
     english: "to grease a baking tin with butter",
   },
   {
-    german: "kochen/kochen",
+    german: "kochen",
     english: "to boil",
   },
   {
@@ -93,7 +89,7 @@ export default [
   },
   {
     german: "konfektionieren",
-    english: "to prepare, to make",
+    english: "to assemble",
   },
   {
     german: "abschalten",
@@ -105,7 +101,7 @@ export default [
   },
   {
     german: "würfeln",
-    english: "to dice, to cube",
+    english: "dice",
   },
   {
     german: "halbieren",
@@ -137,7 +133,7 @@ export default [
   },
   {
     german: "Fleisch schneiden",
-    english: "to carve (meat)",
+    english: "to carve",
   },
   {
     german: "auftauen",
@@ -201,14 +197,14 @@ export default [
   },
   {
     german: "verbrühen",
-    english: "to boil, to scald",
+    english: "to scald",
   },
   {
     german: "abschälen",
     english: "to scale",
   },
   {
-    german: "zerdrücken, zu Püree zerkleinern",
+    german: "zerdrücken",
     english: "to mash",
   },
   {
@@ -265,7 +261,7 @@ export default [
   },
   {
     german: "aufwischen",
-    english: "to sponge",
+    english: "to wipe up",
   },
   {
     german: "schleudern",
@@ -276,8 +272,8 @@ export default [
     english: "to wipe the dishes",
   },
   {
-    german: "wischen, wischen",
-    english: "to wipe (to clean with a sponge)",
+    german: "wischen",
+    english: "to wipe",
   },
   {
     german: "verteilen",
@@ -321,11 +317,11 @@ export default [
   },
   {
     german: "abwaschen",
-    english: "to do the dishes, to do the washing-up",
+    english: "to wash up",
   },
   {
     german: "leicht anbraten",
-    english: "to brown/ to fry lightly",
+    english: "lightly fry",
   },
   {
     german: "in Öl bräunen",
@@ -336,7 +332,7 @@ export default [
     english: "to roast",
   },
   {
-    german: "füllen, füllen",
+    german: "füllen",
     english: "to stuff",
   },
   {
@@ -380,12 +376,12 @@ export default [
     english: "to taste",
   },
   {
-    german: "grillen, grillen",
+    german: "grillen",
     english: "to grill",
   },
   {
-    german: "zerkleinern (aus Fleisch), zerkleinern",
-    english: "to chop, to mince",
+    german: "zerkleinern",
+    english: "to chop",
   },
   {
     german: "ölen",
@@ -401,7 +397,7 @@ export default [
   },
   {
     german: "werfen",
-    english: "to throw, to discard",
+    english: "to throw",
   },
   {
     german: "waschen",
@@ -444,7 +440,7 @@ export default [
     english: "to turn up the heat",
   },
   {
-    german: "Mahlen, Zerkleinern, Zerdrücken",
+    german: "Mahlen",
     english: "to grind",
   },
   {
@@ -470,10 +466,6 @@ export default [
   {
     german: "panieren",
     english: "to bread",
-  },
-  {
-    german: "panieren",
-    english: "to coat with breadcrumbs",
   },
   {
     german: "parfümieren",
@@ -581,7 +573,7 @@ export default [
   },
   {
     german: "reiben",
-    english: "to grate, to shred",
+    english: "to rub",
   },
   {
     german: "sammeln",
@@ -589,7 +581,7 @@ export default [
   },
   {
     german: "aufwärmen",
-    english: "to warm up, to reheat",
+    english: "to warm up",
   },
   {
     german: "wieder anfangen",
@@ -624,16 +616,20 @@ export default [
     english: "to shake",
   },
   {
-    german: "umrühren, mischen",
+    german: "umrühren",
     english: "to stir",
   },
   {
-    german: "umstürzen (der Gang)",
-    english: "to spill (a dish)",
+    german: "mischen",
+    english: "to mix",
+  },
+  {
+    german: "umstürzen",
+    english: "to topple",
   },
   {
     german: "verteilen",
-    english: "to distribute, to divide",
+    english: "to distribute",
   },
   {
     german: "ruhen",
@@ -660,7 +656,7 @@ export default [
     english: "to rinse",
   },
   {
-    german: "braten / rösten",
+    german: "rösten",
     english: "to roast",
   },
   {
@@ -680,7 +676,7 @@ export default [
     english: "to salt",
   },
   {
-    german: "bestreuen, bestreuen",
+    german: "bestreuen",
     english: "to sprinkle",
   },
   {
@@ -729,7 +725,7 @@ export default [
   },
   {
     german: "einweichen",
-    english: "to dip, to soak",
+    english: "to soak",
   },
   {
     german: "sortieren",
@@ -764,8 +760,8 @@ export default [
     english: "the paper towel",
   },
   {
-    german: "der Teller, das Gericht",
-    english: "the plate, the plate",
+    german: "der Teller",
+    english: "the plate",
   },
   {
     german: "die Bilanz",
@@ -836,12 +832,12 @@ export default [
     english: "the tablespoon",
   },
   {
-    german: "der Suppenlöffel (zum Essen von Suppe)",
-    english: "the tablespoon (to eat soup)",
+    german: "der Suppenlöffel",
+    english: "the tablespoon",
   },
   {
-    german: "der Löffel oder der Löffel",
-    english: "the spoon or spoon",
+    german: "der Löffel",
+    english: "the spoon",
   },
   {
     german: "der herd",
@@ -884,8 +880,8 @@ export default [
     english: "the pot",
   },
   {
-    german: "die Messung (Container)",
-    english: "the measurement (container)",
+    german: "die Messung",
+    english: "the measurement",
   },
   {
     german: "der Langsamkocher",
@@ -944,16 +940,8 @@ export default [
     english: "the salt shaker",
   },
   {
-    german: "die Pfanne / Bratpfanne",
-    english: "the skillet/ frying pan",
-  },
-  {
     german: "die Serviette",
     english: "the table towel",
-  },
-  {
-    german: "die Untertasse/Untertasse",
-    english: "the sub cup/ the saucer",
   },
   {
     german: "der Spachtel",
@@ -1100,20 +1088,16 @@ export default [
     english: "the timer",
   },
   {
-    german: "der Mischer, die Mühle, der Mixer",
-    english: "the mixer, grinder, mixer",
-  },
-  {
-    german: "der Mischer, der elektrische Mixer",
-    english: "the mixer, the electric mixer",
+    german: "der Mischer",
+    english: "the mixer",
   },
   {
     german: "die Kuchenform",
     english: "the cake pan",
   },
   {
-    german: "die Tortenform / die Kuchenform",
-    english: "the pie mould/ the cake mould",
+    german: "die Tortenform",
+    english: "the pie mold",
   },
   {
     german: "die Pfeffermühle",
@@ -1132,8 +1116,8 @@ export default [
     english: "aluminium foil",
   },
   {
-    german: "Backpapier / Pergamentpapier",
-    english: "baking paper/ parchment paper",
+    german: "Backpapier",
+    english: "baking paper",
   },
   {
     german: "der Krug",
@@ -1244,8 +1228,12 @@ export default [
     english: "kitchen equipment",
   },
   {
-    german: "Backofen-/Backhandschuhe",
-    english: "oven/ cooking gloves",
+    german: "Backofen",
+    english: "oven",
+  },
+  {
+    german: "Backhandschuhe",
+    english: "baking gloves",
   },
   {
     german: "Messbecher",

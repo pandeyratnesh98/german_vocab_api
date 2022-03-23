@@ -5,7 +5,7 @@ export default [
   },
   {
     german: "Abflüge",
-    english: "departures (on the billboard)",
+    english: "departures",
   },
   {
     german: "an Bord",
@@ -17,7 +17,7 @@ export default [
   },
   {
     german: "Verspätet",
-    english: "delayed (a flight)",
+    english: "delayed, Late",
   },
   {
     german: "annulliert",
@@ -104,9 +104,14 @@ export default [
     english: "rush hour",
   },
   {
-    german: "die Stewardess; der Flugbegleiter",
-    english: "flight attendant; flight attendant",
+    german: "die Stewardess",
+    english: "flight attendant",
   },
+  {
+    german: "der Flugbegleiter",
+    english: "flight attendant",
+  },
+
   {
     german: "das Fluggebiet",
     english: "the flight area",
@@ -217,7 +222,7 @@ export default [
   },
   {
     german: "die Start-/Landebahn",
-    english: "take-off/landing runway",
+    english: "the take-off/landing runway",
   },
   {
     german: "die Luftblase",
@@ -265,7 +270,7 @@ export default [
   },
   {
     german: "der Notausgang",
-    english: "emergency exit / emergency exit",
+    english: "the emergency exit",
   },
   {
     german: "den Gepäckraum",
@@ -352,8 +357,8 @@ export default [
     english: "the exchange office",
   },
   {
-    german: "das Informationsbüro; Information",
-    english: "information office; information office",
+    german: "das Informationsbüro",
+    english: "the information office",
   },
   {
     german: "das Gepäckband",
@@ -579,10 +584,7 @@ export default [
     german: "der Langstreckenflug",
     english: "the long-haul flight",
   },
-  {
-    german: "die Klappe (für die Landung)",
-    english: "the (landing) flap",
-  },
+
   {
     german: "die Reise",
     english: "the trip",
@@ -625,7 +627,7 @@ export default [
   },
   {
     german: "pünktlich sein",
-    english: "to be on schedule / to be on time",
+    english: "to be on time",
   },
   {
     german: "einschiffen",
@@ -653,7 +655,7 @@ export default [
   },
   {
     german: "Gepäck etikettieren",
-    english: "to label (labelled)",
+    english: "Luggage labeling",
   },
   {
     german: "landen",

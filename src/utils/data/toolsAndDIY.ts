@@ -1,9 +1,5 @@
 export default [
   {
-    german: "DAS HEIMWERKEN",
-    english: "DIY",
-  },
-  {
     german: "Tischlerei",
     english: "the woodwork",
   },
@@ -17,7 +13,7 @@ export default [
   },
   {
     german: "die Farbe",
-    english: "the paint, the paintwork, the painting",
+    english: "the painting",
   },
   {
     german: "Rohrleitungen",
@@ -88,8 +84,12 @@ export default [
     english: "a nail",
   },
   {
-    german: "der Nagel / die Spitze",
+    german: "der Nagel",
     english: "a nail",
+  },
+  {
+    german: "die Spitze",
+    english: "the tip",
   },
   {
     german: "der Kompass",
@@ -156,12 +156,16 @@ export default [
     english: "a spirit level",
   },
   {
-    german: "die Brechstange, der Hebel",
-    english: "a pry bar",
+    german: "die Brechstange",
+    english: "a Crowbar",
+  },
+  {
+    german: "der Hebel",
+    english: "the lever",
   },
   {
     german: "der Pinsel",
-    english: "a brush, the paint brush",
+    english: "a brush",
   },
   {
     german: "die Stemmpistole",
@@ -216,7 +220,7 @@ export default [
     english: "a wheelbarrow",
   },
   {
-    german: "der Werkzeugkasten, die Toolbox",
+    german: "der Werkzeugkasten",
     english: "a toolbox",
   },
   {
@@ -233,7 +237,7 @@ export default [
   },
   {
     german: "die Rohrzange",
-    english: "a damper / a pipe wrench",
+    english: "a pipe wrench",
   },
   {
     german: "der Schraubenschlüssel",
@@ -245,7 +249,7 @@ export default [
   },
   {
     german: "das Seil",
-    english: "a cord, the rope",
+    english: "the rope",
   },
   {
     german: "der Amboss",
@@ -317,7 +321,7 @@ export default [
   },
   {
     german: "die Zange",
-    english: "a crimper / the plier",
+    english: "the pliers",
   },
   {
     german: "die Schneidzange",
@@ -468,7 +472,7 @@ export default [
     english: "to dismantle",
   },
   {
-    german: "Abisolieren (das Kabel)",
+    german: "Abisolieren",
     english: "to strip a cable",
   },
   {
@@ -481,7 +485,7 @@ export default [
   },
   {
     german: "abschrauben",
-    english: "to screw down, to unscrew",
+    english: "to unscrew",
   },
   {
     german: "festsetzen",
@@ -525,7 +529,7 @@ export default [
   },
   {
     german: "reparieren",
-    english: "to repair / to mend",
+    english: "to repair, to mend",
   },
   {
     german: "wiederherstellen",

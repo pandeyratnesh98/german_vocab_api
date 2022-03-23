@@ -176,16 +176,16 @@ export default [
     english: "the claim",
   },
   {
-    german: "die Ermäßigung, die Ermäßigung",
-    english: "the reduction, the rebate",
+    german: "die Ermäßigung",
+    english: "the reduction",
   },
   {
     german: "der Ausgang",
     english: "the exit",
   },
   {
-    german: "die Größe (der Kleidung, der Schuhe)",
-    english: "size (clothing, shoes)",
+    german: "die Größe",
+    english: "size",
   },
   {
     german: "die Mehrwertsteuer",
@@ -268,8 +268,8 @@ export default [
     english: "the basket",
   },
   {
-    german: "die Brieftasche/Geldbörse",
-    english: "the wallet/ the wallet",
+    german: "die Brieftasche, Geldbörse",
+    english: "the wallet",
   },
   {
     german: "die Reinigung",
@@ -312,8 +312,12 @@ export default [
     english: "the caterer",
   },
   {
-    german: "der Verkäufer, der Angestellte",
-    english: "the seller, the employee",
+    german: "der Verkäufer",
+    english: "the seller",
+  },
+  {
+    german: "der Angestellte",
+    english: "the employee",
   },
   {
     german: "die Öffnungszeiten",
@@ -372,8 +376,8 @@ export default [
     english: "window shopping",
   },
   {
-    german: "Shoppen, einkaufen, einkaufen",
-    english: "shopping, shopping, shopping, shopping",
+    german: "einkaufen",
+    english: "shopping",
   },
   {
     german: "shoppen",

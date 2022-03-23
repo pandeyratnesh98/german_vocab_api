@@ -240,8 +240,8 @@ export default [
     english: "the attached file",
   },
   {
-    german: "der DVD-/Blueray-Brenner",
-    english: "the DVD/ Blueray burner",
+    german: "der DVD",
+    english: "the DVD",
   },
   {
     german: "Phishing per E-Mail",

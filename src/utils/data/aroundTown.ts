@@ -116,12 +116,12 @@ export default [
     english: "the cathedral",
   },
   {
-    german: "the pavement, the sidewalk",
-    english: "die Kathedrale",
+    german: "die Straße",
+    english: "the street",
   },
   {
-    german: "die Straße, der Bürgersteig",
-    english: "the pavement, the sidewalk",
+    german: "der Bürgersteig",
+    english: "the sidewalk",
   },
   {
     german: "die Abweichung",
@@ -148,8 +148,8 @@ export default [
     english: "the bus station",
   },
   {
-    german: "die Sackgasse, die Sackgasse",
-    english: "the impasse, the dead track",
+    german: "die Sackgasse",
+    english: "the impasse, the dead end",
   },
   {
     german: "die Waschsalon",
@@ -161,7 +161,7 @@ export default [
   },
   {
     german: "das Rathaus",
-    english: "the town hall, the town hall",
+    english: "the town hall",
   },
   {
     german: "die Moschee",
@@ -193,7 +193,7 @@ export default [
   },
   {
     german: "der Platz",
-    english: "the square, the square",
+    english: "the square",
   },
   {
     german: "der Mülleimer",
@@ -210,10 +210,6 @@ export default [
   {
     german: "die Residenz",
     english: "the residence",
-  },
-  {
-    german: "die Straße",
-    english: "the street",
   },
   {
     german: "die Einbahnstraße",
@@ -244,8 +240,8 @@ export default [
     english: "the building society",
   },
   {
-    german: "die Tankstelle, die T",
-    english: "the gas station, the gas station",
+    german: "die Tankstelle",
+    english: "the gas station, the service station",
   },
   {
     german: "der Taxistand",
@@ -288,11 +284,11 @@ export default [
     english: "the wine bar",
   },
   {
-    german: "das Gebäude, das Gebäude,",
-    english: "the building, the building",
+    german: "das Gebäude",
+    english: "the building",
   },
   {
-    german: "das Elendsviertel, der Slum",
+    german: "das Elendsviertel",
     english: "the slum",
   },
   {
@@ -321,7 +317,7 @@ export default [
   },
   {
     german: "das Internet-Café, das Cybercafé",
-    english: "internet café, internet café",
+    english: "internet café",
   },
   {
     german: "die Rinne",
@@ -336,8 +332,12 @@ export default [
     english: "the mall",
   },
   {
-    german: "das Behandlungszentrum, die Arztpraxis,",
-    english: "the care center, the medical office",
+    german: "das Behandlungszentrum",
+    english: "the treatment  center",
+  },
+  {
+    german: "die Arztpraxis",
+    english: "the doctor's office",
   },
   {
     german: "das Stadtzentrum",
@@ -353,11 +353,11 @@ export default [
   },
   {
     german: "das Kino",
-    english: "the cinema, the cinema",
+    english: "the cinema",
   },
   {
-    german: "die Ecke, die S",
-    english: "the corner, the corner",
+    german: "die Ecke",
+    english: "the corner",
   },
   {
     german: "das Polizeirevier",
@@ -365,7 +365,7 @@ export default [
   },
   {
     german: "der Hausmeister",
-    english: "the caretaker, the caretaker",
+    english: "the caretaker",
   },
   {
     german: "der Stadtrat",
@@ -376,8 +376,12 @@ export default [
     english: "the tennis court",
   },
   {
-    german: "die Kreuzung, der Scheideweg",
-    english: "the crossing, the crossroads",
+    german: "die Kreuzung",
+    english: "the crossing",
+  },
+  {
+    german: "der Scheideweg",
+    english: "the crossroads",
   },
   {
     german: "der Geldautomat",
@@ -405,7 +409,7 @@ export default [
   },
   {
     german: "die Turnhalle",
-    english: "the gym, the gym",
+    english: "the gym",
   },
   {
     german: "der Zeitungsstand",
@@ -413,7 +417,7 @@ export default [
   },
   {
     german: "der Laternenpfahl",
-    english: "the lamppost, the lamppost",
+    english: "the lamppost",
   },
   {
     german: "der Mieter",
@@ -512,8 +516,8 @@ export default [
     english: "the residential area",
   },
   {
-    german: "die Aufschüttung, die Böschung",
-    english: "the embankment, the embankment",
+    german: "die Böschung",
+    english: "the slope, the embankment",
   },
   {
     german: "das Restaurant",
@@ -557,11 +561,11 @@ export default [
   },
   {
     german: "der Verkehr",
-    english: "the traffic, the traffic",
+    english: "the traffic",
   },
   {
     german: "das Gericht",
-    english: "the courthouse, the courthouse",
+    english: "the courthouse",
   },
   {
     german: "der Bürgersteig",
@@ -596,8 +600,8 @@ export default [
     english: "the sewers",
   },
   {
-    german: "die Orte, die wir sehen wollen",
-    english: "the places to see",
+    german: "die Orte",
+    english: "the places",
   },
   {
     german: "die Umgebung",
@@ -628,6 +632,10 @@ export default [
     english: "peaceful, quiet",
   },
   {
+    german: "ruhig",
+    english: "quiet, calm",
+  },
+  {
     german: "malerisch",
     english: "picturesque",
   },
@@ -648,7 +656,7 @@ export default [
     english: "sure",
   },
   {
-    german: "überfüllt, überfüllt",
+    german: "überfüllt",
     english: "overcrowded, crowded",
   },
   {
@@ -657,7 +665,7 @@ export default [
   },
   {
     german: "um die Ecke",
-    english: "at the corner of the street",
+    english: "around the corner",
   },
   {
     german: "laut",
@@ -682,10 +690,6 @@ export default [
   {
     german: "stark frequentiert",
     english: "busy",
-  },
-  {
-    german: "NÜTZLICHE VERBS",
-    english: "USEFUL VERBS",
   },
   {
     german: "überqueren",

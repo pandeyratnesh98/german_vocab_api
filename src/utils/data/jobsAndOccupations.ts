@@ -4,12 +4,16 @@ export default [
     english: "the buyer",
   },
   {
-    german: "der Schauspieler / die Schauspielerin",
-    english: "The actor/ the actress",
+    german: "der Schauspieler",
+    english: "The actor",
+  },
+  {
+    german: "die Schauspielerin",
+    english: "the actress",
   },
   {
     german: "der Flugbegleiter",
-    english: "the flight attendant, the steward",
+    english: "the flight attendant",
   },
   {
     german: "der Sicherheitsbeauftragte",
@@ -20,8 +24,8 @@ export default [
     english: "the travel agent",
   },
   {
-    german: "der Zollbeamte, der Zollbeamte",
-    english: "the customs officer, the customs officer",
+    german: "der Zollbeamte",
+    english: "the customs officer",
   },
   {
     german: "der Immobilienmakler",
@@ -53,15 +57,15 @@ export default [
   },
   {
     german: "der Krankenpfleger, die Krankenschwester",
-    english: "the nurse, the nurse",
+    english: "the nurse",
   },
   {
     german: "die Näherin",
     english: "the dressmaker",
   },
   {
-    german: "die Schreibmaschine (Graphik)",
-    english: "the typewriter (graph)",
+    german: "die Schreibmaschine",
+    english: "the typewriter",
   },
   {
     german: "die Putzfrau",
@@ -104,8 +108,8 @@ export default [
     english: "the lumberjack",
   },
   {
-    german: "der Kassierer, der Kassierer",
-    english: "the cashier, the cashier",
+    german: "der Kassierer",
+    english: "the cashier",
   },
   {
     german: "der Kameramann",
@@ -121,7 +125,7 @@ export default [
   },
   {
     german: "der Zimmermann",
-    english: "the carpenter, the carpenter",
+    english: "the carpenter",
   },
   {
     german: "der Busfahrer",
@@ -181,7 +185,7 @@ export default [
   },
   {
     german: "der Fahrer",
-    english: "the driver, the driver",
+    english: "the driver",
   },
   {
     german: "der Berater",
@@ -212,8 +216,8 @@ export default [
     english: "the retailer",
   },
   {
-    german: "der Entwickler, der Promotor",
-    english: "the developer, the developer",
+    german: "der Entwickler",
+    english: "the developer",
   },
   {
     german: "der Schreiner",
@@ -264,8 +268,8 @@ export default [
     english: "the keeper",
   },
   {
-    german: "der Geschäftsführer, ein Direktor",
-    english: "the manager",
+    german: "der Geschäftsführer",
+    english: "the Managing Director",
   },
   {
     german: "der Großhändler",
@@ -321,11 +325,11 @@ export default [
   },
   {
     german: "der Arzt",
-    english: "the doctor, the doctor",
+    english: "the doctor",
   },
   {
     german: "der Beruf",
-    english: "the trade, the profession",
+    english: "the profession",
   },
   {
     german: "der Schreiner",
@@ -433,7 +437,7 @@ export default [
   },
   {
     german: "der Gemüsehändler",
-    english: "the primeur, the vegetable merchant",
+    english: "the vegetable merchant",
   },
   {
     german: "der Erzeuger",
@@ -465,7 +469,7 @@ export default [
   },
   {
     german: "der Retter",
-    english: "the rescuer, the lifeguard",
+    english: "the rescuer",
   },
   {
     german: "der Sekretär",
@@ -492,8 +496,8 @@ export default [
     english: "the operator",
   },
   {
-    german: "der Schneider, ein Couturier",
-    english: "the tailor, a dressmaker",
+    german: "der Schneider",
+    english: "the tailor",
   },
   {
     german: "die Reinigung",
@@ -512,8 +516,12 @@ export default [
     english: "work, the job",
   },
   {
-    german: "der Verkäufer, die Verkäuferin",
-    english: "the seller, the saleswoman",
+    german: "der Verkäufer",
+    english: "the seller",
+  },
+  {
+    german: "die Verkäuferin",
+    english: "the saleswoman",
   },
   {
     german: "der Tierarzt",

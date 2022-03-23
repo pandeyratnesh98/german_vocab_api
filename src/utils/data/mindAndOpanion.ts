@@ -52,20 +52,16 @@ export default [
     english: "estimate",
   },
   {
-    german: "schätzen, schätzen, schätzen",
-    english: "estimate, estimate, estimate",
+    german: "schätzen",
+    english: "estimate",
   },
   {
-    german: "bewerten, schätzen",
-    english: "evaluate, estimate",
+    german: "bewerten",
+    english: "evaluate",
   },
   {
     german: "fehlerhaft",
     english: "faulty",
-  },
-  {
-    german: "Faux_",
-    english: "faux_",
   },
   {
     german: "sicher",
@@ -84,8 +80,8 @@ export default [
     english: "impossible",
   },
   {
-    german: "mit anderen Worten, ... mit anderen Worten...",
-    english: "in other words ... in other words ...",
+    german: "mit anderen Worten",
+    english: "in other words",
   },
   {
     german: "unglaublich",
@@ -96,8 +92,12 @@ export default [
     english: "intolerant",
   },
   {
-    german: "Messen, Bewerten von Personen",
-    english: "measure, evaluate people",
+    german: "Messen",
+    english: "measure",
+  },
+  {
+    german: "Bewerten von Personen",
+    english: "evaluate people",
   },
   {
     german: "offen",
@@ -108,8 +108,12 @@ export default [
     english: "perhaps",
   },
   {
-    german: "polemisch, umstritten",
-    english: "polemical, controversial",
+    german: "polemisch",
+    english: "polemical",
+  },
+  {
+    german: "umstritten",
+    english: "controversial",
   },
   {
     german: "positiv",
@@ -124,8 +128,12 @@ export default [
     english: "probably",
   },
   {
-    german: "fraglich, anfechtbar",
-    english: "questionable, contestable",
+    german: "fraglich",
+    english: "questionable",
+  },
+  {
+    german: "anfechtbar",
+    english: "contestable",
   },
   {
     german: "echt",

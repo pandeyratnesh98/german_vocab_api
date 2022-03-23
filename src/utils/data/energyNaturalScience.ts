@@ -32,8 +32,12 @@ export default [
     english: "economical",
   },
   {
-    german: "wirksam/ineffizient",
-    english: "effective / inefficient",
+    german: "wirksam",
+    english: "effective",
+  },
+  {
+    german: "ineffizient",
+    english: "inefficient",
   },
   {
     german: "elektrisch",
@@ -68,8 +72,8 @@ export default [
     english: "gas heated",
   },
   {
-    german: "global/global",
-    english: "global / global",
+    german: "global",
+    english: "global",
   },
   {
     german: "unerschöpflich",
@@ -144,8 +148,12 @@ export default [
     english: "rare",
   },
   {
-    german: "erneuerbar/nicht erneuerbar",
-    english: "renewable / non renewable",
+    german: "erneuerbar",
+    english: "renewable",
+  },
+  {
+    german: "nicht erneuerbar",
+    english: "non renewable",
   },
   {
     german: "erneuerbare Energiequellen",

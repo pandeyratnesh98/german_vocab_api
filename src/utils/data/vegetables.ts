@@ -140,12 +140,12 @@ export default [
     english: "the pepper",
   },
   {
-    german: "der roter / grüner Paprika",
-    english: "red/green pepper",
+    german: "grüner Paprika",
+    english: "green pepper",
   },
   {
     german: "der Kürbis",
-    english: "the pumpkin, the pumpkin",
+    english: "the pumpkin",
   },
   {
     german: "der Radieschen",
@@ -176,8 +176,8 @@ export default [
     english: "the green beans",
   },
   {
-    german: "die Gemüseart / das Gemüse",
-    english: "the vegetable/ the vegetables",
+    german: "die Gemüseart, das Gemüse",
+    english: "the vegetable",
   },
   {
     german: "getrocknetes Gemüse",

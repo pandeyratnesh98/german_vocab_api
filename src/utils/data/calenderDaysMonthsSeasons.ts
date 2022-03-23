@@ -1,7 +1,7 @@
 export default [
   {
-    german: "TAGE DER WOCHE",
-    english: "DAYS OF THE WEEK",
+    german: "Tage der woche",
+    english: "Days of the week",
   },
   {
     german: "Montag",
@@ -32,8 +32,8 @@ export default [
     english: "Sunday",
   },
   {
-    german: "DIE MONATE",
-    english: "MONTHS",
+    german: "die monate",
+    english: "the months",
   },
   {
     german: "Januar",
@@ -84,8 +84,8 @@ export default [
     english: "December",
   },
   {
-    german: "DIE JAHRESZEITEN",
-    english: "SEASONS",
+    german: "die jahreszeiten",
+    english: "seasons",
   },
   {
     german: "der Frühling",

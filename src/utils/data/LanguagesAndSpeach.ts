@@ -32,8 +32,12 @@ export default [
     english: "grunt",
   },
   {
-    german: "Plaudern, tratschen und tratschen",
-    english: "Chat, gossip ",
+    german: "Plaudern",
+    english: "chat ",
+  },
+  {
+    german: "tratschen",
+    english: "gossip ",
   },
   {
     german: "den Akzent",
@@ -56,8 +60,12 @@ export default [
     english: "the freedom",
   },
   {
-    german: "der Euphemismus, die Anspielung...",
-    english: "euphemism, the allusion ...",
+    german: "der Euphemismus",
+    english: "euphemism",
+  },
+  {
+    german: "die Anspielung",
+    english: "the allusion",
   },
   {
     german: "der Ausdruck",

@@ -28,8 +28,8 @@ export default [
     english: "the grandchildren",
   },
   {
-    german: "der Vater / der Papa",
-    english: "the father/ dad",
+    german: "der Vater, der Papa",
+    english: "the father, dad",
   },
   {
     german: "die Mutter",
@@ -120,20 +120,24 @@ export default [
     english: "the girlfriend",
   },
   {
-    german: "die Verlobte/der Verlobte",
-    english: "the fiancé/fiancée",
+    german: "die Verlobte",
+    english: "the fiancé",
   },
   {
     german: "der Bräutigam",
     english: "the groom",
   },
   {
-    german: "der Ehemann/der Ehemann",
-    english: "the spouse/husband",
+    german: "der Ehemann",
+    english: "the husband",
   },
   {
-    german: "die Frau/die Ehefrau",
-    english: "the woman/wife",
+    german: "die Frau",
+    english: "Ms., Mrs.",
+  },
+  {
+    german: "die Ehefrau",
+    english: "the woman, wife",
   },
   {
     german: "die Schwiegereltern",
@@ -157,7 +161,7 @@ export default [
   },
   {
     german: "der Schwiegersohn",
-    english: "the son-in-law/ the son-in-law",
+    english: "the son-in-law",
   },
   {
     german: "das schöne Mädchen",

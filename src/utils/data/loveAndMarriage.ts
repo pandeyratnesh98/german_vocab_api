@@ -61,11 +61,11 @@ export default [
   },
   {
     german: "Der Anzug",
-    english: "the costume (of the groom)",
+    english: "the suit",
   },
   {
-    german: "Der Verlobte, die Verlobte",
-    english: "the fiancé, the fiancée",
+    german: "Der Verlobte",
+    english: "the fiancé",
   },
   {
     german: "der Bräutigam",
@@ -97,7 +97,7 @@ export default [
   },
   {
     german: "Der Ehemann",
-    english: "the husband/spouse",
+    english: "the husband",
   },
   {
     german: "romantisch",

@@ -148,8 +148,12 @@ export default [
     english: "vandalism",
   },
   {
-    german: "Raubüberfall, Diebstahl",
-    english: "the snatch and grab",
+    german: "Raubüberfall",
+    english: "robbery",
+  },
+  {
+    german: "Diebstahl",
+    english: "Theft",
   },
   {
     german: "Ladendiebstahl",
@@ -244,8 +248,8 @@ export default [
     english: "insider trading",
   },
   {
-    german: "die Umleitung (von Flugzeugen)",
-    english: "hijacking (of aircraft)",
+    german: "die Umleitung von Flugzeugen",
+    english: "hijacking of aircraft",
   },
   {
     german: "Vergiftung",
@@ -300,8 +304,8 @@ export default [
     english: "the outlaw",
   },
   {
-    german: "Brandstiftung/ Brandstiftung und Brandstiftung",
-    english: "arson/arson activity",
+    german: "Brandstiftung",
+    english: "arson",
   },
   {
     german: "Kindesmord",
@@ -573,7 +577,7 @@ export default [
   },
   {
     german: "gegen Kaution freigelassen werden",
-    english: "be released/released on bail",
+    english: "be released on bail",
   },
   {
     german: "Erpressung",
@@ -621,7 +625,7 @@ export default [
   },
   {
     german: "brennen",
-    english: "set fire to, set fire to",
+    english: "set fire to",
   },
   {
     german: "stechen",

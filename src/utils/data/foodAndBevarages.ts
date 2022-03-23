@@ -108,8 +108,8 @@ export default [
     english: "the chocolate box",
   },
   {
-    german: "Die Suppenbox / Sardinen",
-    english: "the soup/sardine can",
+    german: "Die Suppenbox",
+    english: "the soup box",
   },
   {
     german: "La Zimt",
@@ -172,8 +172,8 @@ export default [
     english: "the semolina",
   },
   {
-    german: "die Suppe / die Suppe",
-    english: "the soup/ the soup",
+    german: "die Suppe",
+    english: "the soup",
   },
   {
     german: "die Tafel Schokolade",
@@ -240,8 +240,8 @@ export default [
     english: "the ketchup",
   },
   {
-    german: "Milch (halb entrahmt)",
-    english: "milk (semi-skimmed)",
+    german: "Milch",
+    english: "milk",
   },
   {
     german: "Honig",
@@ -284,8 +284,12 @@ export default [
     english: "the sliced bread",
   },
   {
-    german: "das Brot, der Laib Brot",
-    english: "the bread, the loaf of bread",
+    german: "das Brot",
+    english: "the bread",
+  },
+  {
+    german: "der Laib Brot",
+    english: "the loaf of bread",
   },
   {
     german: "die Biscuit-Packung",
@@ -397,7 +401,7 @@ export default [
   },
   {
     german: "gerade zur rechten Zeit",
-    english: "point",
+    english: "just in time",
   },
   {
     german: "durchgebacken",
@@ -440,8 +444,8 @@ export default [
     english: "white meat",
   },
   {
-    german: "Fleisch kalt / gekocht",
-    english: "cold/cooked meat",
+    german: "Fleisch kalt",
+    english: "cold meat",
   },
   {
     german: "das Hackfleisch",
@@ -516,8 +520,8 @@ export default [
     english: "the stew",
   },
   {
-    german: "Braten / das Filet",
-    english: "the roast/ the filet",
+    german: "Braten",
+    english: "the roast",
   },
   {
     german: "Kalbfleisch",
@@ -604,8 +608,8 @@ export default [
     english: "the lobster",
   },
   {
-    german: "der Wolf / die Bar",
-    english: "the wolf/ the bar",
+    german: "der Wolf",
+    english: "the wolf",
   },
   {
     german: "Makrele",
@@ -628,8 +632,12 @@ export default [
     english: "the smoked fish",
   },
   {
-    german: "Das Meerbarbe / das Maultier",
-    english: "the mullet/ the mule",
+    german: "Das Meerbarbe",
+    english: "the mullet",
+  },
+  {
+    german: "das Maultier",
+    english: "the mule",
   },
   {
     german: "Lachs",
@@ -716,16 +724,16 @@ export default [
     english: "the Greek yogurt",
   },
   {
-    german: "das Joghurt / der Joghurt",
-    english: "the yogurt/ the yogurt",
+    german: "das Joghurt",
+    english: "the yogurt",
   },
   {
     german: "pasteurisiert",
     english: "pasteurized",
   },
   {
-    german: "DIE GETRÄNKE",
-    english: "THE DRINKS",
+    german: "die Getränke",
+    english: "the drinks",
   },
   {
     german: "Alkohol",
@@ -776,8 +784,12 @@ export default [
     english: "the infusion",
   },
   {
-    german: "Limonade; kohlensäurehaltiges Getränk",
-    english: "lemonade; soft drink",
+    german: "Limonade",
+    english: "lemonade",
+  },
+  {
+    german: "Erfrischungsgetränk",
+    english: "soft drink",
   },
   {
     german: "der Likör",
@@ -800,12 +812,20 @@ export default [
     english: "the coffee",
   },
   {
-    german: "der gemahlene / lösliche Kaffee",
-    english: "ground/ soluble coffee",
+    german: "der gemahlene",
+    english: "the ground",
   },
   {
-    german: "Kaffee schwarz / Kaffee mit Milch",
-    english: "black coffee/ coffee with milk",
+    german: "lösliche Kaffee",
+    english: "instant coffee",
+  },
+  {
+    german: "Kaffee schwarz",
+    english: "black coffee",
+  },
+  {
+    german: "Kaffee mit Milch",
+    english: "coffee with milk",
   },
   {
     german: "Le Champagne",
@@ -876,8 +896,8 @@ export default [
     english: "the sherry",
   },
   {
-    german: "Tee (mit Milch/Zitrone)",
-    english: "Tea (with milk/lemon)",
+    german: "Tee",
+    english: "Tea",
   },
   {
     german: "das Glas",
@@ -892,8 +912,8 @@ export default [
     english: "the sparkling wine",
   },
   {
-    german: "Wein in Rot/Rosé/Weiß",
-    english: "Wine in red/rosé/white",
+    german: "Wein in Rot",
+    english: "Wine in red",
   },
   {
     german: "Whisky",
@@ -912,12 +932,20 @@ export default [
     english: "non-alcoholic",
   },
   {
-    german: "sprudelnd; gasförmig",
-    english: "effervescent; in gaseous form",
+    german: "sprudelnd",
+    english: "bubbly, fizzy",
   },
   {
-    german: "trocken; brutto",
-    english: "dry; gross",
+    german: "gasförmig",
+    english: "in gaseous form",
+  },
+  {
+    german: "trocken",
+    english: "dry",
+  },
+  {
+    german: "brutto",
+    english: "gross",
   },
   {
     german: "die Sahne",
@@ -1020,12 +1048,12 @@ export default [
     english: "to go",
   },
   {
-    german: "aromatisieren (mit)",
-    english: "aromatize (with)",
+    german: "aromatisieren",
+    english: "aromatize",
   },
   {
-    german: "würzen (mit)",
-    english: "seasoning (with)",
+    german: "würzen",
+    english: "seasoning",
   },
   {
     german: "hungrig",
@@ -1064,8 +1092,16 @@ export default [
     english: "eat locally",
   },
   {
-    german: "Frühstück / Mittagessen / Abendessen",
-    english: "Breakfast / lunch / dinner ",
+    german: "Frühstück",
+    english: "Breakfast",
+  },
+  {
+    german: "Mittagessen",
+    english: "lunch",
+  },
+  {
+    german: "Abendessen",
+    english: "dinner",
   },
   {
     german: "Essen schnell zubereiten",
@@ -1086,5 +1122,694 @@ export default [
   {
     german: "abführen",
     english: "drain off",
+  },
+  {
+    german: "Appetit",
+    english: "appetite",
+  },
+  {
+    german: "guten Appetit!",
+    english: "enjoy your meal!",
+  },
+  {
+    german: "Durst",
+    english: "thirst",
+  },
+  {
+    german: "Flamme",
+    english: "flame",
+  },
+  {
+    german: "Flasche",
+    english: "bottle",
+  },
+  {
+    german: "frisch",
+    english: "fresh",
+  },
+  {
+    german: "Frühstück",
+    english: "breakfast",
+  },
+  {
+    german: "Gabel",
+    english: "fork",
+  },
+  {
+    german: "gemischt",
+    english: "mixed",
+  },
+  {
+    german: "Geschirr",
+    english: "crockery",
+  },
+  {
+    german: "Getränk",
+    english: "drink",
+  },
+  {
+    german: "Glas",
+    english: "Jar",
+  },
+  {
+    german: "grillen",
+    english: "to grill",
+  },
+  {
+    german: "Imbiss",
+    english: "snack",
+  },
+  {
+    german: "Kännchen",
+    english: "small pot",
+  },
+  {
+    german: "Kantine",
+    english: "canteen",
+  },
+  {
+    german: "Küche",
+    english: "kitchen",
+  },
+  {
+    german: "lecker",
+    english: "delicious",
+  },
+  {
+    german: "Löffel",
+    english: "spoon",
+  },
+  {
+    german: "Mahlzeit",
+    english: "meal",
+  },
+  {
+    german: "Messer",
+    english: "knife",
+  },
+  {
+    german: "Mittagessen",
+    english: "lunch",
+  },
+  {
+    german: "Nachtisch",
+    english: "dessert",
+  },
+  {
+    german: "schmecken",
+    english: "to taste",
+  },
+  {
+    german: "schnell",
+    english: "quick",
+  },
+  {
+    german: "Schnellimbiss",
+    english: "fast food restaurant",
+  },
+  {
+    german: "Schüssel",
+    english: "bowl",
+  },
+  {
+    german: "Selbstbedienung",
+    english: "self-service",
+  },
+  {
+    german: "Speisekarte",
+    english: "menu",
+  },
+  {
+    german: "Speisewagen",
+    english: "dining car",
+  },
+  {
+    german: "Supermarkt",
+    english: "supermarket",
+  },
+  {
+    german: "süß",
+    english: "sweet",
+  },
+  {
+    german: "Speisekarte",
+    english: "menu",
+  },
+  {
+    german: "Tasse",
+    english: "cup",
+  },
+  {
+    german: "Teller",
+    english: "plate",
+  },
+  {
+    german: "trinken",
+    english: "to drink",
+  },
+  {
+    german: "Untertasse",
+    english: "saucer",
+  },
+  {
+    german: "Vorspeise",
+    english: "starter, Appetizer",
+  },
+  {
+    german: "zum Mitnehmen",
+    english: "take away meals",
+  },
+  {
+    german: "zum Wohl!",
+    english: "cheers!",
+  },
+  {
+    german: "alkohol",
+    english: "alcohol",
+  },
+  {
+    german: "alkohol frei",
+    english: "non-alcoholic",
+  },
+  {
+    german: "Bier",
+    english: "beer",
+  },
+  {
+    german: "Cola",
+    english: "coke",
+  },
+  {
+    german: "Fruchtsaft",
+    english: "fruit juice",
+  },
+  {
+    german: "Limonade",
+    english: "lemonade",
+  },
+  {
+    german: "Milch",
+    english: "milk",
+  },
+  {
+    german: "Saft",
+    english: "juice",
+  },
+  {
+    german: "Schnaps",
+    english: "Liquor",
+  },
+  {
+    german: "Sekt",
+    english: "champagne",
+  },
+  {
+    german: "Sprudel",
+    english: "bubbles",
+  },
+  {
+    german: "Wasser",
+    english: "water",
+  },
+  {
+    german: "Wein",
+    english: "wine",
+  },
+  {
+    german: "Ananas",
+    english: "pineapple",
+  },
+  {
+    german: "Apfel",
+    english: "apple",
+  },
+  {
+    german: "Apfelsine",
+    english: "orange",
+  },
+  {
+    german: "Aprikose",
+    english: "apricot",
+  },
+  {
+    german: "Aufschnitt",
+    english: "sliced meats",
+  },
+  {
+    german: "Birne",
+    english: "pear, bulb",
+  },
+  {
+    german: "Blumenkohl",
+    english: "cauliflower",
+  },
+  {
+    german: "Bockwurst",
+    english: "boiled sausage",
+  },
+  {
+    german: "Bohnen",
+    english: "beans",
+  },
+  {
+    german: "Bonbons",
+    english: "sweets",
+  },
+  {
+    german: "braten",
+    english: "to roast",
+  },
+  {
+    german: "Bratkartoffeln",
+    english: "fried potatoes",
+  },
+  {
+    german: "Bratpfanne",
+    english: "frying pan",
+  },
+  {
+    german: "Bratwurst",
+    english: "sausage",
+  },
+  {
+    german: "Brot",
+    english: "bread",
+  },
+  {
+    german: "Brötchen",
+    english: "bread roll",
+  },
+  {
+    german: "Butterbrot",
+    english: "sandwich",
+  },
+  {
+    german: "Kartoffelschips",
+    english: "Potato chips",
+  },
+  {
+    german: "Cornflakes",
+    english: "cereals",
+  },
+  {
+    german: "Ei",
+    english: "egg",
+  },
+  {
+    german: "Eintopf",
+    english: "stew",
+  },
+  {
+    german: "Eis",
+    english: "ice",
+  },
+  {
+    german: "Erbsen",
+    english: "peas",
+  },
+  {
+    german: "Erdbeere",
+    english: "strawberry",
+  },
+  {
+    german: "essen",
+    english: "to eat",
+  },
+  {
+    german: "Essig",
+    english: "vinegar",
+  },
+  {
+    german: "Fleisch",
+    english: "meat",
+  },
+  {
+    german: "Forelle",
+    english: "trout",
+  },
+  {
+    german: "Frikadelle",
+    english: "meatball",
+  },
+  {
+    german: "Gans",
+    english: "goose",
+  },
+  {
+    german: "gekochtes Ei",
+    english: "boiled egg",
+  },
+  {
+    german: "Gemüse",
+    english: "vegetables",
+  },
+  {
+    german: "Gewürz",
+    english: "spice",
+  },
+  {
+    german: "Gurke",
+    english: "cucumber",
+  },
+  {
+    german: "Hähnchen",
+    english: "chicken",
+  },
+  {
+    german: "Himbeere",
+    english: "raspberry",
+  },
+  {
+    german: "Honig",
+    english: "honey",
+  },
+  {
+    german: "Kalbfleisch",
+    english: "veal",
+  },
+  {
+    german: "Karotte",
+    english: "carrot",
+  },
+  {
+    german: "Kartoffel",
+    english: "potato",
+  },
+  {
+    german: "Kartoffelbrei püree",
+    english: "mashed potato",
+  },
+  {
+    german: "Käse",
+    english: "cheese",
+  },
+  {
+    german: "Kaugummi",
+    english: "chewing gum",
+  },
+  {
+    german: "Kekse",
+    english: "biscuits",
+  },
+  {
+    german: "Kirsche",
+    english: "cherry",
+  },
+  {
+    german: "Kohl",
+    english: "cabbage",
+  },
+  {
+    german: "Kopfsalat",
+    english: "lettuce",
+  },
+  {
+    german: "Kotelett",
+    english: "chop, cutlet",
+  },
+  {
+    german: "Kuchen",
+    english: "cake",
+  },
+  {
+    german: "Lachs",
+    english: "salmon",
+  },
+  {
+    german: "Lammffleisch",
+    english: "lamb meat",
+  },
+  {
+    german: "Leber",
+    english: "liver",
+  },
+  {
+    german: "Marmelade",
+    english: "jam",
+  },
+  {
+    german: "Nudeln",
+    english: "noodles",
+  },
+  {
+    german: "Nuss",
+    english: "nut",
+  },
+  {
+    german: "Erdnuss",
+    english: "peanut",
+  },
+  {
+    german: "Obst",
+    english: "fruit",
+  },
+  {
+    german: "Ol",
+    english: "oil",
+  },
+  {
+    german: "Orangenmarmelade",
+    english: "marmelade",
+  },
+  {
+    german: "Pampelmuse",
+    english: "grapefruit",
+  },
+  {
+    german: "Pfeffer",
+    english: "pepper",
+  },
+  {
+    german: "Pfirsich",
+    english: "peach",
+  },
+  {
+    german: "Pflaume",
+    english: "plum",
+  },
+  {
+    german: "Pilz",
+    english: "mushroom",
+  },
+  {
+    german: "Pommes",
+    english: "French fries",
+  },
+  {
+    german: "Pralinen",
+    english: "chocolates",
+  },
+  {
+    german: "Rindfleisch",
+    english: "beef",
+  },
+  {
+    german: "Rosenkohl",
+    english: "brussel sprouts",
+  },
+  {
+    german: "Salz",
+    english: "salt",
+  },
+  {
+    german: "Salzkartoffeln",
+    english: "boiled potatoes",
+  },
+  {
+    german: "Sauerkraut",
+    english: "pickled cabbage",
+  },
+  {
+    german: "Schaschlick",
+    english: "kebab",
+  },
+  {
+    german: "Scheibe",
+    english: "slice",
+  },
+  {
+    german: "Schinken",
+    english: "ham",
+  },
+  {
+    german: "Schlagsahne",
+    english: "whipped cream",
+  },
+
+  {
+    german: "Schokolade",
+    english: "chocolate",
+  },
+  {
+    german: "schwarze Johannisbeere",
+    english: "blackcurrant",
+  },
+  {
+    german: "Schweinefleisch",
+    english: "pork",
+  },
+  {
+    german: "Senf",
+    english: "mustard",
+  },
+  {
+    german: "Soße",
+    english: "gravy, sauce",
+  },
+  {
+    german: "Speck",
+    english: "bacon",
+  },
+  {
+    german: "Spiegelei",
+    english: "fried egg",
+  },
+  {
+    german: "Spinat",
+    english: "spinach",
+  },
+  {
+    german: "Suppe",
+    english: "soup",
+  },
+  {
+    german: "Süßigkeiten",
+    english: "sweets",
+  },
+  {
+    german: "Toastbrot",
+    english: "toast",
+  },
+  {
+    german: "Traube",
+    english: "grape",
+  },
+  {
+    german: "Truthahn",
+    english: "turkey",
+  },
+  {
+    german: "Wurst",
+    english: "sausage",
+  },
+  {
+    german: "Zitrone",
+    english: "lemon",
+  },
+  {
+    german: "Zucker",
+    english: "sugar",
+  },
+  {
+    german: "Zwiebel",
+    english: "onion",
+  },
+  {
+    german: "Buchse",
+    english: "can",
+  },
+  {
+    german: "Dose",
+    english: "can",
+  },
+  {
+    german: "nöffner",
+    english: "opener",
+  },
+  {
+    german: "Karton",
+    english: "cardboard box",
+  },
+  {
+    german: "Korb",
+    english: "basket",
+  },
+  {
+    german: "Packung",
+    english: "packet",
+  },
+  {
+    german: "Portion",
+    english: "portion",
+  },
+  {
+    german: "Schachtel",
+    english: "box",
+  },
+  {
+    german: "Tüte",
+    english: "bag",
+  },
+  {
+    german: "Besteck",
+    english: "cutlery",
+  },
+  {
+    german: "bestehen aus",
+    english: "to consist of",
+  },
+  {
+    german: "Diät",
+    english: "diet",
+  },
+  {
+    german: "eine Diät halten",
+    english: "to be on a diet",
+  },
+  {
+    german: "dienen",
+    english: "to serve",
+  },
+  {
+    german: "enthalten",
+    english: "to contain",
+  },
+  {
+    german: "Fett",
+    english: "fat, grease",
+  },
+  {
+    german: "Geflügel",
+    english: "poultry",
+  },
+  {
+    german: "Geschmack",
+    english: "taste",
+  },
+  {
+    german: "gießen",
+    english: "to pour",
+  },
+  {
+    german: "pikant",
+    english: "spicy",
+  },
+  {
+    german: "probieren",
+    english: "to try",
+  },
+  {
+    german: "satt",
+    english: "full",
+  },
+  {
+    german: "schälen",
+    english: "to peel",
+  },
+  {
+    german: "Spargel",
+    english: "asparagus",
+  },
+  {
+    german: "Vegetarier",
+    english: "vegetarian",
+  },
+  {
+    german: "Verpackung",
+    english: "packaging",
+  },
+  {
+    german: "Weinprobe",
+    english: "wine-tasting",
   },
 ];

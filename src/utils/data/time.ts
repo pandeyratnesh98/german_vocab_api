@@ -1,7 +1,7 @@
 export default [
   {
-    german: "DIE ZEIT",
-    english: "TIME",
+    german: "die zeit",
+    english: "time",
   },
   {
     german: "das Jahrhundert",
@@ -28,8 +28,12 @@ export default [
     english: "a diary",
   },
   {
-    german: "das Haushaltsjahr/ das Steuerjahr",
-    english: "a fiscal year",
+    german: "das Haushaltsjahr",
+    english: "a Financial year",
+  },
+  {
+    german: "das Steuerjahr",
+    english: "The fiscal year",
   },
   {
     german: "die vierzehn tage",
@@ -85,14 +89,14 @@ export default [
   },
   {
     german: "das Quartal",
-    english: "a quarter / a term",
+    english: "a quarter",
   },
   {
     german: "die Viertelstunde",
     english: "a quarter of an hour",
   },
   {
-    german: "das Programm, die Zeitpläne",
+    german: "die Zeitpläne",
     english: "a schedule",
   },
   {
@@ -132,8 +136,8 @@ export default [
     english: "a week",
   },
   {
-    german: "die Zeitnische (Zeit)",
-    english: "a window, a slot",
+    german: "die Zeitnische",
+    english: "a window, a time slot",
   },
   {
     german: "das Jahr",
@@ -156,7 +160,7 @@ export default [
     english: "always",
   },
   {
-    german: "die Zeit, die Ära",
+    german: "die Ära",
     english: "an era",
   },
   {
@@ -176,7 +180,7 @@ export default [
     english: "at the same time",
   },
   {
-    german: "vor, bevor",
+    german: "bevor",
     english: "before",
   },
   {
@@ -225,11 +229,11 @@ export default [
   },
   {
     german: "ewiger",
-    english: "everlasting, eternal",
+    english: "everlasting",
   },
   {
-    german: "alt / Vorgänger",
-    english: "former",
+    german: "Vorgänger",
+    english: "Predecessor",
   },
   {
     german: "seit",
@@ -260,12 +264,12 @@ export default [
     english: "lasting",
   },
   {
-    german: "spät, zu spät",
+    german: "spät",
     english: "late",
   },
   {
     german: "frisch",
-    english: "latest, most recent",
+    english: "fresh",
   },
   {
     german: "Mittag",
@@ -280,7 +284,7 @@ export default [
     english: "modern",
   },
   {
-    german: "momentan, vorläufig",
+    german: "momentan",
     english: "momentary",
   },
   {
@@ -321,7 +325,7 @@ export default [
   },
   {
     german: "die Sommerzeit",
-    english: "summer time / daylight saving time",
+    english: "the summer time, daylight saving time",
   },
   {
     german: "bei Sonnenaufgang",
@@ -341,14 +345,14 @@ export default [
   },
   {
     german: "die Hauptverkehrszeit",
-    english: "The rush hour / peak hours",
+    english: "The rush hour, peak hours",
   },
   {
     german: "dann",
     english: "then",
   },
   {
-    german: "Zeit zu gehen / Zeit zu gehen!",
+    german: "Zeit zu gehen!",
     english: "time to go!",
   },
   {
@@ -356,20 +360,20 @@ export default [
     english: "Time-consuming",
   },
   {
-    german: "aktualisiert, auf den neuesten S",
+    german: "aktualisiert",
     english: "up-to-date",
   },
   {
     german: "gebracht",
-    english: "tand",
+    english: "brought to you",
   },
   {
     german: "die Besuchszeiten",
     english: "visiting time",
   },
   {
-    german: "WANN?",
-    english: "WHEN ?",
+    german: "wann?",
+    english: "when?",
   },
   {
     german: "nach",
@@ -377,7 +381,7 @@ export default [
   },
   {
     german: "vor langer Zeit",
-    english: "a long time ago / long ago",
+    english: "a long time ago, long ago",
   },
   {
     german: "vor einer Woche",
@@ -468,7 +472,7 @@ export default [
     english: "last week",
   },
   {
-    german: "letztes Jahr, letztes Jahr",
+    german: "letztes Jahr",
     english: "last year",
   },
   {
@@ -484,8 +488,12 @@ export default [
     english: "later on",
   },
   {
-    german: "in der Nebensaison / ausserhalb der Saison",
-    english: "low/ off season",
+    german: "in der Nebensaison",
+    english: "low season",
+  },
+  {
+    german: "ausserhalb der Saison",
+    english: "off season",
   },
   {
     german: "morgens",
@@ -528,7 +536,7 @@ export default [
     english: "nowadays",
   },
   {
-    german: "rechtzeitig und fristgerecht",
+    german: "rechtzeitig, fristgerecht",
     english: "on time",
   },
   {
@@ -572,7 +580,7 @@ export default [
     english: "the day before yesterday",
   },
   {
-    german: "Die Zukunft, die Zukunft",
+    german: "Die Zukunft",
     english: "the future",
   },
   {
@@ -625,8 +633,8 @@ export default [
     english: "yesterday",
   },
   {
-    german: "DIE FREQUENZ",
-    english: "FREQUENCY",
+    german: "die frequenz",
+    english: "frequency",
   },
   {
     german: "den ganzen Tag",
@@ -666,7 +674,7 @@ export default [
   },
   {
     german: "stundenlang",
-    english: "for hours on end / for hours at a time",
+    english: "for hours",
   },
   {
     german: "seit zwei Wochen",
@@ -753,12 +761,20 @@ export default [
     english: "sometimes",
   },
   {
-    german: "immer wieder, sehr oft",
-    english: "time and time again",
+    german: "immer wieder",
+    english: "again and again",
   },
   {
-    german: "gewöhnlich, normalerweise",
+    german: "sehr oft",
+    english: "very often",
+  },
+  {
+    german: "gewöhnlich",
     english: "usually",
+  },
+  {
+    german: "normalerweise",
+    english: "normally",
   },
   {
     german: "sehr oft",
@@ -790,7 +806,7 @@ export default [
   },
   {
     german: "das Rädchen",
-    english: "a cog (wheel)",
+    english: "a cog",
   },
   {
     german: "das Zifferblatt",
@@ -841,8 +857,12 @@ export default [
     english: "an hourglass",
   },
   {
-    german: "die Zeiger (einer Uhr)",
-    english: "the hands (of a clock)",
+    german: "die Zeiger",
+    english: "the hands",
+  },
+  {
+    german: "einer Uhr",
+    english: "a clock",
   },
   {
     german: "die kleine Nadel",
@@ -851,10 +871,6 @@ export default [
   {
     german: "die große Nadel",
     english: "the minute hand",
-  },
-  {
-    german: "der Trawler",
-    english: "the second / sweep hand",
   },
   {
     german: "pünktlich eintreffen",
@@ -869,12 +885,12 @@ export default [
     english: "to curtail",
   },
   {
-    german: "passieren, passieren",
-    english: "to happen, to occur",
+    german: "passieren",
+    english: "pass, pass through",
   },
   {
     german: "vorankommen",
-    english: "to be fast",
+    english: "moving forward",
   },
   {
     german: "stattfinden",
@@ -886,7 +902,7 @@ export default [
   },
   {
     german: "stoppen",
-    english: "to time",
+    english: "stop",
   },
   {
     german: "anfangen",
@@ -897,7 +913,7 @@ export default [
     english: "to continue",
   },
   {
-    german: "Totzeit beantragen (eine Pause)",
+    german: "Totzeit beantragen",
     english: "to ask for a time out",
   },
   {
@@ -921,7 +937,7 @@ export default [
     english: "to be reliable",
   },
   {
-    german: "genau, genau sein",
+    german: "genau sein",
     english: "to be accurate",
   },
   {
@@ -930,7 +946,7 @@ export default [
   },
   {
     german: "Zeit gewinnen",
-    english: "to save time / to gain time",
+    english: "to save time",
   },
   {
     german: "unterbrechen",
@@ -949,8 +965,8 @@ export default [
     english: "to update",
   },
   {
-    german: "Zeit mit mir verbringen...",
-    english: "to spend time doing...",
+    german: "Zeit mit mir verbringen",
+    english: "Spend time with me",
   },
   {
     german: "die Zeit verbringen",
@@ -958,7 +974,7 @@ export default [
   },
   {
     german: "auslaufen",
-    english: "to elapse / to go by",
+    english: "to elapse",
   },
   {
     german: "Zeit verlieren",
@@ -974,7 +990,7 @@ export default [
   },
   {
     german: "programmieren",
-    english: "to plan / to programme",
+    english: "to plan, to programme",
   },
   {
     german: "verlängern",

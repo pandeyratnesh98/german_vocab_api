@@ -12,8 +12,12 @@ export default [
     english: "the snail",
   },
   {
-    german: "der Insektenschutz / das Mückenbekämpfungsmittel",
-    english: "anti-insect/ mosquito repellent",
+    german: "der Insektenschutz ",
+    english: "anti-insect",
+  },
+  {
+    german: "das Mückenbekämpfungsmittel",
+    english: "mosquito repellent",
   },
   {
     german: "die Raupe",
@@ -76,8 +80,8 @@ export default [
     english: "the hive",
   },
   {
-    german: "die Heuschrecke/Gricket",
-    english: "the grasshopper/cricket",
+    german: "die Heuschrecke",
+    english: "the grasshopper",
   },
   {
     german: "die Zecke",
@@ -152,7 +156,7 @@ export default [
     english: "the scorpion",
   },
   {
-    german: "die Pferdebremse",
+    german: "die Pferdebremse",
     english: "the taon",
   },
   {
@@ -160,8 +164,8 @@ export default [
     english: "the termite",
   },
   {
-    german: "der Wurm / die Made",
-    english: "the worm/ the maggot",
+    german: "der Wurm",
+    english: "the worm",
   },
   {
     german: "die Laus",

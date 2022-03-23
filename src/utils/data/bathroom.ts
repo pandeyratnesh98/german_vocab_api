@@ -33,7 +33,7 @@ export default [
   },
   {
     german: "der Rasierschaum",
-    english: "the cream/ shaving mousse",
+    english: "the shaving cream",
   },
   {
     german: "der Feuchtcreme",
@@ -76,8 +76,8 @@ export default [
     english: "the sanitary towel",
   },
   {
-    german: "das Färben von Haaren",
-    english: "hair dye",
+    german: "das Färben",
+    english: "The dyeing, The coloring",
   },
   {
     german: "das Mundwasser",

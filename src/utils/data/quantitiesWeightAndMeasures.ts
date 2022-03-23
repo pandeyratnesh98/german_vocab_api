@@ -4,7 +4,7 @@ export default [
     english: "very",
   },
   {
-    german: "alles, alle",
+    german: "alles",
     english: "all",
   },
   {
@@ -37,7 +37,7 @@ export default [
   },
   {
     german: "Wie viel?",
-    english: "how much ? / how many ?",
+    english: "how much?",
   },
   {
     german: "mehr oder weniger",
@@ -206,10 +206,6 @@ export default [
   {
     german: "den Löffel Salz",
     english: "a spoonful of salt",
-  },
-  {
-    german: "DAS GEWICHT",
-    english: "THE WEIGHT",
   },
   {
     german: "das Gramm",

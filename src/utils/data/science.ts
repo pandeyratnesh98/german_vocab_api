@@ -4,8 +4,12 @@ export default [
     english: "the science",
   },
   {
-    german: "akut/stumpf",
-    english: "acute/obtuse",
+    german: "akut",
+    english: "acute",
+  },
+  {
+    german: "stumpf",
+    english: "blunt, dull",
   },
   {
     german: "gasförmig",
@@ -24,8 +28,8 @@ export default [
     english: "the right angle",
   },
   {
-    german: "der Astronaut, der Kosmonaut…",
-    english: "the astronaut, the cosmonaut",
+    german: "der Astronaut",
+    english: "the astronaut",
   },
   {
     german: "der Astronom",
@@ -161,7 +165,7 @@ export default [
   },
   {
     german: "die Linse, das Objektiv",
-    english: "the lens, the lens",
+    english: "the lens",
   },
   {
     german: "die gerade Linie",
@@ -360,8 +364,12 @@ export default [
     english: "perpendicular",
   },
   {
-    german: "fest / flüssig",
-    english: "solid/ liquid",
+    german: "fest",
+    english: "solid",
+  },
+  {
+    german: "flüssig",
+    english: "liquid",
   },
   {
     german: "summieren",

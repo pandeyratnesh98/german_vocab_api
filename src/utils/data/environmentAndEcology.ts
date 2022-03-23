@@ -36,8 +36,12 @@ export default [
     english: "the opponent",
   },
   {
-    german: "das Argument für/gegen",
-    english: "the argument for/against",
+    german: "das Argument für",
+    english: "the argument for",
+  },
+  {
+    german: "gegen",
+    english: "against",
   },
   {
     german: "der Ökologe",
@@ -426,5 +430,545 @@ export default [
   {
     german: "gefährdet sein",
     english: "be in danger",
+  },
+  {
+    german: "Abfall",
+    english: "waste",
+  },
+  {
+    german: "Ampel",
+    english: "traffic lights",
+  },
+  {
+    german: "Angst haben",
+    english: "to be frightened",
+  },
+  {
+    german: "anspringen",
+    english: "to start",
+  },
+  {
+    german: "arm",
+    english: "poor",
+  },
+  {
+    german: "Blei",
+    english: "lead",
+  },
+  {
+    german: "Brand",
+    english: "fire",
+  },
+  {
+    german: "Erde",
+    english: "earth",
+  },
+  {
+    german: "Grad",
+    english: "degree",
+  },
+  {
+    german: "Grenze",
+    english: "border",
+  },
+  {
+    german: "herrlich",
+    english: "splendid, wonderful",
+  },
+  {
+    german: "Himmel",
+    english: "sky",
+  },
+  {
+    german: "hoch",
+    english: "high",
+  },
+  {
+    german: "Jahr",
+    english: "year",
+  },
+  {
+    german: "jahrlich",
+    english: "annually",
+  },
+  {
+    german: "Luft",
+    english: "air",
+  },
+  {
+    german: "Müll",
+    english: "waste",
+  },
+  {
+    german: "Nachteil",
+    english: "disadvantage",
+  },
+  {
+    german: "niedrig",
+    english: "low",
+  },
+  {
+    german: " Norden",
+    english: "north",
+  },
+  {
+    german: "Osten",
+    english: "east",
+  },
+  {
+    german: "Panne",
+    english: "breakdown",
+  },
+  {
+    german: "Parkhaus",
+    english: "multi-storey car park",
+  },
+  {
+    german: "Parkplatz",
+    english: "parking space",
+  },
+  {
+    german: "Partei",
+    english: "political party",
+  },
+  {
+    german: "Polizei",
+    english: "police",
+  },
+  {
+    german: "Polizist",
+    english: "policeman",
+  },
+  {
+    german: "Portemonnaie",
+    english: "purse",
+  },
+  {
+    german: "Rauch",
+    english: "smoke",
+  },
+  {
+    german: "rauchen",
+    english: "to smoke",
+  },
+  {
+    german: "Recht haben",
+    english: "to be right",
+  },
+  {
+    german: "Rechtsanwalt, anwältin",
+    english: "lawyer",
+  },
+  {
+    german: "Rede",
+    english: "speech",
+  },
+  {
+    german: "reden",
+    english: "to talk",
+  },
+  {
+    german: "Reifen",
+    english: "tyre",
+  },
+  {
+    german: "Reifenpanne",
+    english: "puncture",
+  },
+  {
+    german: "Reparatur",
+    english: "repair",
+  },
+  {
+    german: "reparieren",
+    english: "to repair",
+  },
+  {
+    german: "Scheinwerfer",
+    english: "headlight",
+  },
+  {
+    german: "Schornstein",
+    english: "chimney",
+  },
+  {
+    german: "Strom",
+    english: "electricity",
+  },
+  {
+    german: "Süden",
+    english: "south",
+  },
+  {
+    german: "Umwelt",
+    english: "environment",
+  },
+  {
+    german: "verbieten",
+    english: "to forbid",
+  },
+  {
+    german: "vergessen",
+    english: "to forget",
+  },
+  {
+    german: "Vorteil",
+    english: "advantage",
+  },
+  {
+    german: "Welt",
+    english: "world",
+  },
+  {
+    german: "Westen",
+    english: "west",
+  },
+  {
+    german: "Zigarette",
+    english: "cigarette",
+  },
+  {
+    german: "Zoll",
+    english: "customs",
+  },
+  {
+    german: "Abschleppwagen",
+    english: "breakdown lorry",
+  },
+  {
+    german: "abschliessen",
+    english: "to lock up",
+  },
+  {
+    german: "Altpapier",
+    english: "recycled paper",
+  },
+  {
+    german: "anzünden",
+    english: "to light",
+  },
+  {
+    german: "aufgeben",
+    english: "to stop",
+  },
+  {
+    german: "behandeln",
+    english: "to treat",
+  },
+  {
+    german: "Behandlung",
+    english: "treatment",
+  },
+  {
+    german: "behindert",
+    english: "disabled",
+  },
+  {
+    german: "beklagen",
+    english: "to complain",
+  },
+  {
+    german: "beleuchten",
+    english: "to light up",
+  },
+  {
+    german: "beschädigen",
+    english: "to damage",
+  },
+  {
+    german: "beschäftigt",
+    english: "busy",
+  },
+  {
+    german: "beschließen",
+    english: "to decide",
+  },
+  {
+    german: "beschweren",
+    english: "to complain",
+  },
+  {
+    german: "bessern",
+    english: "to improve",
+  },
+  {
+    german: "Besserung",
+    english: "improvement, getting better",
+  },
+  {
+    german: "bestätigen",
+    english: "to confirm",
+  },
+  {
+    german: "bestehen auf",
+    english: "to insist on",
+  },
+  {
+    german: "betrügen",
+    english: "to deceive",
+  },
+  {
+    german: "betrunken",
+    english: "drunk",
+  },
+  {
+    german: "beweisen",
+    english: "to prove",
+  },
+  {
+    german: "Dieb",
+    english: "thief",
+  },
+  {
+    german: "dringend",
+    english: "urgent",
+  },
+  {
+    german: "drogensüchtig",
+    english: "drug dependent",
+  },
+  {
+    german: "drohen",
+    english: "to threaten",
+  },
+  {
+    german: "Einbrecher",
+    english: "burglar",
+  },
+  {
+    german: "ertrinken",
+    english: "to drown",
+  },
+  {
+    german: "Flaschencontainer",
+    english: "bottle bank",
+  },
+  {
+    german: "Fleck",
+    english: "stain, spot",
+  },
+  {
+    german: "Gefangnis",
+    english: "prison",
+  },
+  {
+    german: "Geldstrafe",
+    english: "fine money",
+  },
+  {
+    german: "Gesetz",
+    english: "law",
+  },
+  {
+    german: "gestattet",
+    english: "permitted",
+  },
+  {
+    german: "Gewohnheit",
+    english: "custom, habit",
+  },
+  {
+    german: "globale Erwarmung",
+    english: "global warming",
+  },
+  {
+    german: "klagen",
+    english: "to complain",
+  },
+  {
+    german: "Kraftwerk",
+    english: "power station",
+  },
+  {
+    german: "löschen",
+    english: "to delete, clear",
+  },
+  {
+    german: "lösen",
+    english: "to solve",
+  },
+  {
+    german: "lügen",
+    english: "to lie",
+  },
+  {
+    german: "Missverständnis",
+    english: "misunderstanding",
+  },
+  {
+    german: "Mond",
+    english: "moon",
+  },
+  {
+    german: "Mord",
+    english: "murder",
+  },
+  {
+    german: "Notfall",
+    english: "emergency",
+  },
+  {
+    german: "Rat",
+    english: "advice, council",
+  },
+  {
+    german: "raten",
+    english: "guess",
+  },
+  {
+    german: "recyceln",
+    english: "to recycle",
+  },
+  {
+    german: "reduzieren",
+    english: "to reduce",
+  },
+  {
+    german: "Regel",
+    english: "rule",
+  },
+  {
+    german: "Regierung",
+    english: "government",
+  },
+  {
+    german: "Retten",
+    english: "to save, rescue",
+  },
+  {
+    german: "Rettung",
+    english: "rescue",
+  },
+  {
+    german: "Risiko",
+    english: "risk",
+  },
+  {
+    german: "Rollstuhl",
+    english: "wheelchair",
+  },
+  {
+    german: "schamen",
+    english: "to be ashamed",
+  },
+  {
+    german: "schulden",
+    english: "to owe",
+  },
+  {
+    german: "schuldig",
+    english: "guilty",
+  },
+  {
+    german: "schützen",
+    english: "to protect",
+  },
+  {
+    german: "Sozialwohnung",
+    english: "council house",
+  },
+  {
+    german: "stehlen",
+    english: "to steal",
+  },
+  {
+    german: "sterben",
+    english: "to die",
+  },
+  {
+    german: "Tod",
+    english: "death",
+  },
+  {
+    german: "töten",
+    english: "to kill",
+  },
+  {
+    german: "trampen, per Anhalter fahren",
+    english: "to hitch-hike",
+  },
+  {
+    german: "Treibhauseffekt",
+    english: "greenhouse effect",
+  },
+  {
+    german: "überschwemmen",
+    english: "to flood",
+  },
+  {
+    german: "umkommen, ums Leben kommen",
+    english: "to perish",
+  },
+  {
+    german: "umtauschen",
+    english: "to exchange",
+  },
+  {
+    german: "Unterschied",
+    english: "difference",
+  },
+  {
+    german: "verbrauchen",
+    english: "to consume, use up",
+  },
+  {
+    german: "verderben",
+    english: "to spoil, pollute",
+  },
+  {
+    german: "vergiften",
+    english: "to poison",
+  },
+  {
+    german: "Vergleich",
+    english: "comparison",
+  },
+  {
+    german: "verhaften",
+    english: "to arrest",
+  },
+  {
+    german: "verirren",
+    english: "to get lost",
+  },
+  {
+    german: "vermeiden",
+    english: "to avoid",
+  },
+  {
+    german: "verschmutzen",
+    english: "to pollute",
+  },
+  {
+    german: "verschwenden",
+    english: "to waste",
+  },
+  {
+    german: "verschwinden",
+    english: "to disappear",
+  },
+  {
+    german: "versichern",
+    english: "to insure",
+  },
+  {
+    german: "verstecken",
+    english: "to hide",
+  },
+  {
+    german: "wegwerfen",
+    english: "to throw away",
+  },
+  {
+    german: "wieder verwerten",
+    english: "to recycle",
+  },
+  {
+    german: "zerstören",
+    english: "to destroy",
+  },
+  {
+    german: "Zeuge",
+    english: "witness",
   },
 ];

@@ -36,11 +36,7 @@ export default [
     english: "the biceps",
   },
   {
-    german: "DIE HAND",
-    english: "THE HAND",
-  },
-  {
-    german: "die Hand",
+    german: "die hand",
     english: "the hand",
   },
   {
@@ -92,7 +88,7 @@ export default [
     english: "the spine",
   },
   {
-    german: "die Brust / der Brustkorb",
+    german: "die Brust, der Brustkorb",
     english: "the chest",
   },
   {
@@ -372,16 +368,12 @@ export default [
     english: "the bone marrow",
   },
   {
-    german: "die Phalanx / Phalangen",
-    english: "the phalange/ the phalanges",
-  },
-  {
     german: "die Patella",
     english: "the patella",
   },
   {
     german: "der Wirbel",
-    english: "the vertebra/ the vertebrae",
+    english: "the vertebra",
   },
   {
     german: "der Schädel",
@@ -512,7 +504,7 @@ export default [
     english: "the vomit",
   },
   {
-    german: "die Glieder / die Gliedermassen",
+    german: "die Glieder",
     english: "the members",
   },
 ];

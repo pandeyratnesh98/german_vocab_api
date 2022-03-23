@@ -28,12 +28,20 @@ export default [
     english: "moving",
   },
   {
-    german: "als Dekor, im Studio",
-    english: "in decor, in studio",
+    german: "als Dekor",
+    english: "in decor",
   },
   {
-    german: "im Aussenbereich, mit natürlichem Dekor",
-    english: "outdoors, in natural decor",
+    german: "im Studio",
+    english: "in studio",
+  },
+  {
+    german: "im Aussenbereich",
+    english: "outdoors",
+  },
+  {
+    german: "mit natürlichem Dekor",
+    english: "in natural decor",
   },
   {
     german: "langweilig",
@@ -44,8 +52,12 @@ export default [
     english: "out of scope",
   },
   {
-    german: "der Schauspieler, die Schauspielerin",
-    english: "the actor, the actress",
+    german: "der Schauspieler",
+    english: "the actor",
+  },
+  {
+    german: "die Schauspielerin",
+    english: "the actress",
   },
   {
     german: "der Winkel der Aufnahme",
@@ -200,8 +212,12 @@ export default [
     english: "the following",
   },
   {
-    german: "den Blockbuster, den Big-Budget-Film...",
-    english: "the blockbuster, the big-budget movie",
+    german: "den Blockbuster",
+    english: "the blockbuster",
+  },
+  {
+    german: "den Big-Budget-Film",
+    english: "the big-budget movie",
   },
   {
     german: "die Trilogie",
@@ -212,8 +228,8 @@ export default [
     english: "the star",
   },
   {
-    german: "die Originalfassung (vo)",
-    english: "the original version (vo)",
+    german: "die Originalfassung",
+    english: "the original version",
   },
   {
     german: "der Rahmen",
@@ -228,8 +244,12 @@ export default [
     english: "the field",
   },
   {
-    german: "Wahl der Rollen, Rollenzuordnung, Rollenverteilung",
-    english: "the choice of roles, assignment of roles, distribution of roles",
+    german: "Wahl der Rollen",
+    english: "the choice of roles",
+  },
+  {
+    german: "Rollenzuordnung, Rollenverteilung",
+    english: "assignment of roles, distribution of roles",
   },
   {
     german: "der Kinoliebhaber",
@@ -253,15 +273,19 @@ export default [
   },
   {
     german: "das Double",
-    english: "the double, the lining",
+    english: "the double",
   },
   {
     german: "die falsche Verbindung",
     english: "the false connection",
   },
   {
-    german: "der Faden der Handlung, die Intrige",
-    english: "the thread of the plot, the plot",
+    german: "der Faden der Handlung",
+    english: "the thread of the plot",
+  },
+  {
+    german: "die Intrige",
+    english: "the plot",
   },
   {
     german: "die Schmelze",
@@ -288,8 +312,12 @@ export default [
     english: "close-up, close-up/close-up",
   },
   {
-    german: "die Abendkasse, die Kasse",
-    english: "the counter, the cash register, the box office",
+    german: "die Abendkasse",
+    english: "the box office",
+  },
+  {
+    german: "die Kasse",
+    english: "the counter, the cash register",
   },
   {
     german: "der Held",
@@ -340,8 +368,8 @@ export default [
     english: "the plan, the catch",
   },
   {
-    german: "die Drehbühne, die Ausstattung",
-    english: "the set, the set",
+    german: "die Drehbühne",
+    english: "Revolving stage",
   },
   {
     german: "der Höhepunkt des Films",
@@ -408,8 +436,12 @@ export default [
     english: "the travelling",
   },
   {
-    german: "die Verfälschung / der Spezialeffekt",
-    english: "the rigging/ special effect",
+    german: "die Verfälschung",
+    english: "the falsification, distortion",
+  },
+  {
+    german: "der Spezialeffekt",
+    english: "special effect",
   },
   {
     german: "das Betrachten",
@@ -505,7 +537,7 @@ export default [
   },
   {
     german: "der Friseur",
-    english: "the hairdresser/ the hairdresser",
+    english: "the hairdresser",
   },
   {
     german: "der Filmkritiker",
@@ -513,7 +545,7 @@ export default [
   },
   {
     german: "der Dekorateur",
-    english: "the decorator/ the decorator",
+    english: "the decorator",
   },
   {
     german: "die Extras",
@@ -528,36 +560,36 @@ export default [
     english: "the sound engineer, the sound taker",
   },
   {
-    german: "der Maskenbildner, die Maskenbildnerin",
-    english: "the make-up artist/ the make-up artist",
+    german: "der Maskenbildner",
+    english: "the make-up artist",
   },
   {
-    german: "der Cutter, die Cutterin",
-    english: "the assembler/ the assembler",
+    german: "der Cutter",
+    english: "the assembler",
   },
   {
     german: "der Tonmonteur",
     english: "the editor his",
   },
   {
-    german: "der Mikrofonassistent, die Mikrofonassistentin",
+    german: "der Mikrofonassistent",
     english: "the perchist",
   },
   {
-    german: "der Produzent, die Produzentin",
-    english: "the producer/ the producer",
+    german: "der Produzent",
+    english: "the producer",
   },
   {
     german: "der Exekutivproduzent",
     english: "the executive producer",
   },
   {
-    german: "der Filmvorführer, die Filmvorführerin",
+    german: "der Filmvorführer",
     english: "the projectionist",
   },
   {
-    german: "der Regisseur, die Regisseurin",
-    english: "the director/ the director",
+    german: "der Regisseur",
+    english: "the director",
   },
   {
     german: "die Nebenrolle",
@@ -625,11 +657,11 @@ export default [
   },
   {
     german: "der Angstfilm",
-    english: "the movie of anguish, suspense",
+    english: "the scary movie",
   },
   {
     german: "der Horrorfilm",
-    english: "the movie of horror, horror",
+    english: "the movie of horror",
   },
   {
     german: "der Gangsterfilm",
@@ -681,11 +713,11 @@ export default [
   },
   {
     german: "die Romantische Komödie",
-    english: "romantic comedy for girls",
+    english: "romantic comedy",
   },
   {
     german: "ins Kino gehen",
-    english: "to go to the cinema, to the pictures (UK), to the movies (US)",
+    english: "to go to the cinema",
   },
   {
     german: "abgleichen",
@@ -694,10 +726,6 @@ export default [
   {
     german: "den Preis verleihen",
     english: "to award a prize",
-  },
-  {
-    german: "Folie ausschneiden, montieren",
-    english: "to edit, to cut",
   },
   {
     german: "verdoppeln",
@@ -725,7 +753,7 @@ export default [
   },
   {
     german: "auftreten",
-    english: "to work as an extra, to do walk-on parts",
+    english: "occur",
   },
   {
     german: "anstehen",
@@ -736,24 +764,28 @@ export default [
     english: "to queue up",
   },
   {
-    german: "vor/zurück zoomen",
-    english: "to zoom in / out",
+    german: "zoomen",
+    english: "zoom in",
   },
   {
-    german: "Film finanzieren, produzieren",
-    english: "to produce a film",
+    german: "Film finanzieren",
+    english: "to finance a film",
   },
   {
-    german: "spielen, interpretieren",
+    german: "produzieren",
+    english: "to produce",
+  },
+  {
+    german: "spielen",
     english: "to act, to play, to perform",
   },
   {
-    german: "Den Star mit...teilen",
-    english: "to co-star with",
+    german: "interpretieren",
+    english: "to interpret",
   },
   {
     german: "Film auf die Leinwand legen",
-    english: "to show a movie, a film",
+    english: "Put film on the screen",
   },
   {
     german: "auf dem Bildschirm tragen",
@@ -761,7 +793,7 @@ export default [
   },
   {
     german: "projizieren",
-    english: "to project, to show",
+    english: "to project",
   },
   {
     german: "Film machen",
@@ -776,8 +808,8 @@ export default [
     english: "to subtitle",
   },
   {
-    german: "Drehen (Film, Szene)",
-    english: "to film, to shoot (a movie, a scene)",
+    german: "Drehen film",
+    english: "Shooting film",
   },
   {
     german: "anschauen",

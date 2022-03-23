@@ -160,8 +160,8 @@ export default [
     english: "cotton",
   },
   {
-    german: "die Leinwand (von Jeans)",
-    english: "denim",
+    german: "die Leinwand",
+    english: "canvas",
   },
   {
     german: "der Filz",
@@ -221,7 +221,7 @@ export default [
   },
   {
     german: "Öl",
-    english: "oil, oil",
+    english: "oil",
   },
   {
     german: "das Elfenbein",

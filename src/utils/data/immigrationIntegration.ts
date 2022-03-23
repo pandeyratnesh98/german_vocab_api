@@ -80,7 +80,7 @@ export default [
     english: "go away",
   },
   {
-    german: "illegal",
+    german: "rechtswidrig",
     english: "illegal",
   },
   {
@@ -116,7 +116,7 @@ export default [
     english: "literacy",
   },
   {
-    german: "sich vermischen ",
+    german: "sich vermischen",
     english: "mix",
   },
   {

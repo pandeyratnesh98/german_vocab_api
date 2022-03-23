@@ -48,8 +48,8 @@ export default [
     english: "enormous, huge",
   },
   {
-    german: "DAS GEWICHT",
-    english: "WEIGHT",
+    german: "das gewicht",
+    english: "the weight",
   },
   {
     german: "wägen",
@@ -77,7 +77,7 @@ export default [
   },
   {
     german: "pummelig, mollig",
-    english: "plump",
+    english: "plump, chubby",
   },
   {
     german: "fett",
@@ -140,8 +140,8 @@ export default [
     english: "stocky",
   },
   {
-    german: "DIE SCHÖNHEIT",
-    english: "BEAUTY",
+    german: "die Schönheit",
+    english: "the beauty",
   },
   {
     german: "schön",
@@ -208,12 +208,16 @@ export default [
     english: "unattractive",
   },
   {
-    german: "gepflegt, makellos",
+    german: "gepflegt",
     english: "well-groomed",
   },
   {
-    german: "ANDERE",
-    english: "OTHERS",
+    german: "makellos",
+    english: "flawless, impeccable",
+  },
+  {
+    german: "andere",
+    english: "others",
   },
   {
     german: "das Aussehen",

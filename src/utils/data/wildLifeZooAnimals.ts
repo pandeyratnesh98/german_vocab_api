@@ -168,8 +168,8 @@ export default [
     english: "the hedgehog",
   },
   {
-    german: "die Eule / der Kauz",
-    english: "the owl/ the owl",
+    german: "die Eule, der Kauz",
+    english: "the owl",
   },
   {
     german: "der Jaguar",

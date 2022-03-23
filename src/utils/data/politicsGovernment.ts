@@ -28,8 +28,8 @@ export default [
     english: "central government",
   },
   {
-    german: "Politiker der",
-    english: "(the man) political",
+    german: "Politiker",
+    english: "Politicians",
   },
   {
     german: "der Missbrauch",
@@ -80,8 +80,8 @@ export default [
     english: "the police state",
   },
   {
-    german: "der Erbe / die Erbin",
-    english: "the heir/ heiress",
+    german: "der Erbe",
+    english: "the heir",
   },
   {
     german: "die Inflation",
@@ -324,8 +324,16 @@ export default [
     english: "the diplomatic corps",
   },
   {
-    german: "die Legislative/Exekutive/Judikative",
-    english: "legislative/executive/judicial body",
+    german: "die Legislative",
+    english: "legislative",
+  },
+  {
+    german: "Exekutive",
+    english: "executive",
+  },
+  {
+    german: "Judikative",
+    english: "judicial",
   },
   {
     german: "die Krönung",
@@ -388,8 +396,12 @@ export default [
     english: "the Ministry of Foreign Affairs",
   },
   {
-    german: "das Ministerium für auswärtige/innere Angelegenheiten",
+    german: "das Ministerium für auswärtige Angelegenheiten",
     english: "the Ministry of Foreign Affairs/Interior",
+  },
+  {
+    german: "das Ministerium für innere Angelegenheiten",
+    english: "the Ministry of Internal Affairs",
   },
   {
     german: "der Bildungsminister",
@@ -581,7 +593,7 @@ export default [
   },
   {
     german: "offiziell",
-    english: "official, officially",
+    english: "official",
   },
   {
     german: "Republikaner",
@@ -652,8 +664,20 @@ export default [
     english: "conclude the agreement",
   },
   {
-    german: "Krise führen/vermeiden/lösen",
-    english: "conduct/avoid/resolve crisis",
+    german: "Krise",
+    english: "crisis",
+  },
+  {
+    german: "führen",
+    english: "conduct",
+  },
+  {
+    german: "vermeiden",
+    english: "avoid",
+  },
+  {
+    german: "lösen",
+    english: "solve",
   },
   {
     german: "den Titel verleihen",
@@ -748,8 +772,8 @@ export default [
     english: "exercise power",
   },
   {
-    german: "werben für/gegen",
-    english: "campaign for/against",
+    german: "werben für",
+    english: "campaign for",
   },
   {
     german: "jemandem vertrauen",

@@ -1,7 +1,7 @@
 export default [
   {
-    german: "DIE GESTEN",
-    english: "GESTURES",
+    german: "die gesten",
+    english: "gestures",
   },
   {
     german: "blinzeln",
@@ -68,8 +68,8 @@ export default [
     english: "to stare",
   },
   {
-    german: "schlagen",
-    english: "to punch, to hit",
+    german: "zum Lochen",
+    english: "to punch",
   },
   {
     german: "die Stirn runzeln",
@@ -108,7 +108,7 @@ export default [
     english: "to tilt your head",
   },
   {
-    german: "umarmen, umarmen",
+    german: "umarmen",
     english: "to hug",
   },
   {
@@ -157,7 +157,7 @@ export default [
   },
   {
     german: "mit verschränkten Armen",
-    english: "arms folded / crossed",
+    english: "arms folded",
   },
   {
     german: "mit gekreuzten Beinen",
@@ -216,10 +216,6 @@ export default [
     english: "a signal",
   },
   {
-    german: "das Zeichen (des Kopfes)",
-    english: "a nod",
-  },
-  {
     german: "das Lächeln",
     english: "a smile",
   },
@@ -257,7 +253,7 @@ export default [
   },
   {
     german: "sitzend",
-    english: "sitting / seated",
+    english: "sitting",
   },
   {
     german: "stehend",
@@ -272,8 +268,8 @@ export default [
     english: "leaning",
   },
   {
-    german: "sich auf/ gegen",
-    english: "leaning on/against",
+    german: "sich auf",
+    english: "focus on",
   },
   {
     german: "sich an den Ellbogen lehnen",

@@ -169,11 +169,11 @@ export default [
   },
   {
     german: "der Junge, das Kind",
-    english: "a kid, a kid",
+    english: "a kid",
   },
   {
     german: "das Erbe, die Erbschaft",
-    english: "an inheritance, an estate",
+    english: "an inheritance",
   },
   {
     german: "der Erbe",
@@ -244,8 +244,8 @@ export default [
     english: "a grave",
   },
   {
-    german: "der Witwer, die Witwe",
-    english: "widow / widower",
+    german: "die Witwe",
+    english: "widow",
   },
   {
     german: "alt",
@@ -260,7 +260,7 @@ export default [
     english: "to adopt a child",
   },
   {
-    german: "entbinden, gebären, gebären",
+    german: "gebären",
     english: "to give birth",
   },
   {
@@ -293,7 +293,7 @@ export default [
   },
   {
     german: "volljährig",
-    english: "to be of (legal) age",
+    english: "to be of age",
   },
   {
     german: "minderjährig",
@@ -349,7 +349,7 @@ export default [
   },
   {
     german: "altern",
-    english: "to get old, to age, to grow old",
+    english: "to get old",
   },
   {
     german: "leben",

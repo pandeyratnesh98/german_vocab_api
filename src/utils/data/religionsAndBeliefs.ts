@@ -172,7 +172,7 @@ export default [
     english: "the Hinduism",
   },
   {
-    german: "der / die Hindu",
+    german: "die Hindu",
     english: "the Hindu",
   },
   {
@@ -289,7 +289,7 @@ export default [
   },
   {
     german: "die Frömmigkeit",
-    english: "the devotion (the piety)",
+    english: "the devotion",
   },
   {
     german: "die Doktrin",
@@ -565,7 +565,7 @@ export default [
   },
   {
     german: "der Fundamentalist",
-    english: "the fundamentalist, the fundamentalist",
+    english: "the fundamentalist",
   },
   {
     german: "der Gründer",
@@ -740,7 +740,7 @@ export default [
     english: "the sacrament",
   },
   {
-    german: "der Heilige, die Heilige",
+    german: "der Heilige",
     english: "the holy",
   },
   {
@@ -832,7 +832,7 @@ export default [
     english: "traditional",
   },
   {
-    german: "der Ketzer, die Ketzerin",
+    german: "der Ketzer",
     english: "the heretic",
   },
   {
@@ -853,7 +853,7 @@ export default [
   },
   {
     german: "Heilige Jungfrau",
-    english: "the blessed virgin, virgin Mary",
+    english: "Holy Virgin",
   },
   {
     german: "zen",
@@ -869,7 +869,7 @@ export default [
   },
   {
     german: "in den Himmel kommen",
-    english: "to go to paradise / heaven",
+    english: "to go to paradise",
   },
   {
     german: "zur Hölle fahren",

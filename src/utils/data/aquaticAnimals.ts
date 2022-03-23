@@ -208,6 +208,10 @@ export default [
     english: "the octopus/ the octopus",
   },
   {
+    german: "der Tintenfisch",
+    english: "the the squid, the octopus",
+  },
+  {
     german: "das Korallenriff",
     english: "the coral reef",
   },

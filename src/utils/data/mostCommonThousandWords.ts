@@ -4007,4 +4007,2131 @@ export default [
     german: "Kontinent",
     english: "continent",
   },
+  {
+    english: "from",
+    german: "ab",
+  },
+  {
+    english: "now and again",
+    german: "ab und zu",
+  },
+  {
+    english: "evening ",
+    german: "Abend",
+  },
+  {
+    english: "when",
+    german: "wenn ",
+  },
+  {
+    english: "soon",
+    german: "bald",
+  },
+  {
+    english: "see you soon",
+    german: "bis bald",
+  },
+  {
+    english: "before",
+    german: "bevor",
+  },
+  {
+    english: "then, at that time",
+    german: "damals ",
+  },
+  {
+    english: "then",
+    german: "dann",
+  },
+  {
+    english: "finally, at last",
+    german: "endlich",
+  },
+  {
+    english: "most ecently, latest",
+    german: "zuletzt ",
+  },
+  {
+    english: "first, only",
+    german: "erst",
+  },
+  {
+    english: "early",
+    german: "früh",
+  },
+  {
+    english: "previously, formerly",
+    german: "früher",
+  },
+  {
+    english: "yesterday",
+    german: "gestern",
+  },
+  {
+    english: "usually",
+    german: "gewöhnlich",
+  },
+  {
+    english: "today",
+    german: "heute",
+  },
+  {
+    english: "always",
+    german: "immer",
+  },
+  {
+    english: "still",
+    german: "noch",
+  },
+  {
+    english: "sometime",
+    german: "manchmal",
+  },
+  {
+    english: "midday",
+    german: "Mittag",
+  },
+  {
+    english: "at midday",
+    german: "mittags",
+  },
+  {
+    english: "middle",
+    german: "Mitte",
+  },
+  {
+    english: "in the middle of",
+    german: "mitten in",
+  },
+  {
+    english: "midnight",
+    german: "Mitternacht",
+  },
+  {
+    english: "month",
+    german: "Monat",
+  },
+  {
+    english: "monthly",
+    german: "monatlich",
+  },
+  {
+    english: "tomorrow",
+    german: "morgen",
+  },
+  {
+    english: "in the morning",
+    german: "Morgen",
+  },
+  {
+    english: "in the morning",
+    german: "morgens",
+  },
+  {
+    english: "after",
+    german: "nachdem",
+  },
+  {
+    english: "afterwards",
+    german: "nachher",
+  },
+  {
+    english: "afternoon",
+    german: "Nachmittag",
+  },
+  {
+    english: "in the afternoon",
+    german: "nachmittags",
+  },
+  {
+    english: "next",
+    german: "nächst",
+  },
+  {
+    english: "recently",
+    german: "neulich",
+  },
+  {
+    english: "no longer",
+    german: "nicht mehr",
+  },
+  {
+    english: "never",
+    german: "nie",
+  },
+  {
+    english: "still",
+    german: "noch",
+  },
+  {
+    english: "not yet",
+    german: "noch nicht",
+  },
+  {
+    english: "suddenly",
+    german: "plötzlich",
+  },
+  {
+    english: "already",
+    german: "schon",
+  },
+  {
+    english: "as soon as",
+    german: "sobald",
+  },
+  {
+    english: "immediately",
+    german: "sofort",
+  },
+  {
+    english: "daily",
+    german: "täglich",
+  },
+  {
+    english: "day after tomorrow",
+    german: "übermorgen",
+  },
+  {
+    english: "day before yesterday",
+    german: "vorgestern",
+  },
+  {
+    english: "before, previously",
+    german: "vorher",
+  },
+  {
+    german: "Vormittag",
+    english: "morning",
+  },
+  {
+    german: "vormittags",
+    english: "in the morning",
+  },
+  {
+    german: "zuerst",
+    english: "at first",
+  },
+  {
+    german: "aber",
+    english: "but",
+  },
+  {
+    german: "jedoch",
+    english: "however",
+  },
+  {
+    german: "alle",
+    english: "all",
+  },
+  {
+    german: "therefore, daher",
+    english: "hence, thus",
+  },
+  {
+    german: "andere",
+    english: "other",
+  },
+  {
+    german: "anderthalb",
+    english: "one and a half",
+  },
+  {
+    german: "anfangen",
+    english: "to begin",
+  },
+  {
+    german: "Antwort",
+    english: "answer",
+  },
+  {
+    german: "antworten",
+    english: "to answer",
+  },
+  {
+    german: "Art",
+    english: "sort, kind",
+  },
+  {
+    german: "auch",
+    english: "also",
+  },
+  {
+    german: "Auf Wiedersehen",
+    english: "good-bye!",
+  },
+  {
+    german: "Augenblick",
+    english: "moment",
+  },
+  {
+    german: "ausgezeichnet",
+    english: "excellent",
+  },
+  {
+    german: "außer",
+    english: "except for",
+  },
+  {
+    german: "befriedigend",
+    english: "satisfactory",
+  },
+  {
+    german: "beginnen",
+    english: "to begin",
+  },
+  {
+    german: "begrüßen",
+    english: "to greet",
+  },
+  {
+    german: "behalten",
+    english: "to keep",
+  },
+  {
+    german: "behandeln",
+    english: "to treat",
+  },
+  {
+    german: "Behandlung",
+    english: "treatment",
+  },
+  {
+    german: "beide",
+    english: "both",
+  },
+  {
+    german: "Beispiel",
+    english: "example",
+  },
+  {
+    german: "bekommen",
+    english: "to receive",
+  },
+  {
+    german: "beliebt",
+    english: "popular",
+  },
+  {
+    german: "bemerken",
+    english: "to notice",
+  },
+  {
+    german: "benutzen",
+    english: "to use",
+  },
+  {
+    german: "bequem",
+    english: "comfortable",
+  },
+  {
+    german: "besitzen",
+    english: "to own",
+  },
+  {
+    german: "besonders",
+    english: "particular",
+  },
+  {
+    german: "besser",
+    english: "better",
+  },
+  {
+    german: "besprechen",
+    english: "to discuss",
+  },
+  {
+    german: "bestimmt",
+    english: "definitely",
+  },
+  {
+    german: "bestrafen",
+    english: "to punish",
+  },
+  {
+    german: "besuchen",
+    english: "to visit",
+  },
+  {
+    german: "bieten, anbieten",
+    english: "to offer",
+  },
+  {
+    german: "billig",
+    english: "cheap",
+  },
+  {
+    german: "bisschen",
+    english: "a little",
+  },
+  {
+    german: "bitte",
+    english: "please",
+  },
+  {
+    german: "brauchen",
+    english: "to need",
+  },
+  {
+    german: "brechen",
+    english: "to break",
+  },
+  {
+    german: "breit",
+    english: "wide",
+  },
+  {
+    german: "bringen",
+    english: "to bring",
+  },
+  {
+    german: "danke",
+    english: "thank you",
+  },
+  {
+    german: "dass",
+    english: "that",
+  },
+  {
+    german: "Datum",
+    english: "date",
+  },
+  {
+    german: "dauern",
+    english: "to last ",
+  },
+  {
+    german: "denken",
+    english: "to think",
+  },
+  {
+    german: "dies",
+    english: "this",
+  },
+  {
+    german: "Ding",
+    english: "thing",
+  },
+  {
+    german: "doch",
+    english: "yes",
+  },
+
+  {
+    german: "drücken",
+    english: "press, push",
+  },
+  {
+    german: "dürfen",
+    english: "to be allowed to, may",
+  },
+  {
+    german: "Dutzend",
+    english: "a dozen",
+  },
+  {
+    german: "eben",
+    english: "just",
+  },
+  {
+    german: "ebenso",
+    english: "just as",
+  },
+  {
+    german: "egal",
+    english: "no matter, never mind",
+  },
+  {
+    german: "das ist mir egal",
+    english: "I don't care!",
+  },
+  {
+    german: "ehemalig",
+    english: "former, previous",
+  },
+  {
+    german: "eigen",
+    english: "own",
+  },
+  {
+    german: "eilen",
+    english: "hurry",
+  },
+  {
+    german: "sich beeilen",
+    english: "hurry up",
+  },
+  {
+    german: "einander",
+    english: "one another, each other",
+  },
+  {
+    german: "einige",
+    english: "some, a few",
+  },
+  {
+    german: "einmal",
+    english: "once",
+  },
+  {
+    german: "noch einmal",
+    english: "once more",
+  },
+  {
+    german: "einverstanden",
+    english: "agreed",
+  },
+  {
+    german: "Ende",
+    english: "end, finish",
+  },
+  {
+    german: "eng",
+    english: "narrow, tight",
+  },
+  {
+    german: "entfernt",
+    english: "removed",
+  },
+  {
+    german: "entschuldigen Sie!",
+    english: "excuse me!",
+  },
+  {
+    german: "sich entschuldigen",
+    english: "apologise",
+  },
+  {
+    german: "Entschuldigung!",
+    english: "sorry!",
+  },
+  {
+    german: "entweder",
+    english: "either",
+  },
+  {
+    german: "oder",
+    english: "or",
+  },
+  {
+    german: "erinnern",
+    english: "remember",
+  },
+  {
+    german: "erkennen",
+    english: "to recognise",
+  },
+  {
+    german: "erzählen",
+    english: "to tell",
+  },
+  {
+    german: "Erzählung",
+    english: "narrative, story",
+  },
+  {
+    german: "es gibt",
+    english: "there is, there are",
+  },
+  {
+    german: "es macht nichts",
+    english: "it doesn't matter",
+  },
+  {
+    german: "etwa, ungefähr",
+    english: "about, roughly, approximately",
+  },
+  {
+    german: "etwas",
+    english: "something",
+  },
+  {
+    german: "irgend etwas",
+    english: "anything",
+  },
+  {
+    german: "fallen",
+    english: "to fall",
+  },
+  {
+    german: "lassen",
+    english: "let, leave",
+  },
+  {
+    german: "falsch",
+    english: "wrong",
+  },
+  {
+    german: "fast",
+    english: "almost",
+  },
+  {
+    german: "fehlen",
+    english: "to be missing",
+  },
+  {
+    german: "Fehler",
+    english: "mistake",
+  },
+  {
+    german: "fertig",
+    english: "ready, finished",
+  },
+  {
+    german: "finden",
+    english: "to find",
+  },
+  {
+    german: "folgen",
+    english: "to follow",
+  },
+  {
+    german: "Frage",
+    english: "question",
+  },
+  {
+    german: "fragen",
+    english: "to ask",
+  },
+  {
+    german: "gar nicht",
+    english: "not at all",
+  },
+  {
+    german: "geben",
+    english: "to give",
+  },
+  {
+    german: "es gibt",
+    english: "there is, there are",
+  },
+  {
+    german: "genau",
+    english: "exactly",
+  },
+  {
+    german: "genug",
+    english: "enough",
+  },
+  {
+    german: "gern",
+    english: "glad",
+  },
+  {
+    german: "geschlossen",
+    english: "closed",
+  },
+  {
+    german: "getrennt",
+    english: "separate",
+  },
+  {
+    german: "glauben",
+    english: "to think, believe",
+  },
+  {
+    german: "gleich",
+    english: "same",
+  },
+  {
+    german: "glücklich",
+    english: "happy",
+  },
+  {
+    german: "Glück",
+    english: "luck",
+  },
+  {
+    german: "Gott",
+    english: "God",
+  },
+  {
+    german: "gratulieren",
+    english: "to congratulate",
+  },
+  {
+    german: "Grund",
+    english: "ground, reason",
+  },
+  {
+    german: "Gruss",
+    english: "greeting",
+  },
+  {
+    german: "günstig",
+    english: "favourable",
+  },
+  {
+    german: "gut",
+    english: "good",
+  },
+  {
+    german: "haben",
+    english: "to have",
+  },
+  {
+    german: "halb",
+    english: "half",
+  },
+  {
+    german: "Hälfte",
+    english: "a half",
+  },
+  {
+    german: "halten",
+    english: "to hold",
+  },
+  {
+    german: "hier",
+    english: "here",
+  },
+  {
+    german: "hochachtungsvoll",
+    english: "yours faithfully",
+  },
+  {
+    german: "hoffen",
+    english: "to hope",
+  },
+  {
+    german: "Idee",
+    english: "idea",
+  },
+  {
+    german: "in Ordnung",
+    english: "alright, ok",
+  },
+  {
+    german: "klar!",
+    english: "clear!",
+  },
+  {
+    german: "inbegriffen",
+    english: "included",
+  },
+  {
+    german: "irgendwo",
+    english: "somewhere",
+  },
+  {
+    german: "ja",
+    english: "yes",
+  },
+  {
+    german: "je",
+    english: "each",
+  },
+  {
+    german: "das Stück",
+    english: "apiece",
+  },
+  {
+    german: "jeder",
+    english: "each, every, any",
+  },
+  {
+    german: "jemand",
+    english: "someone, somebody",
+  },
+  {
+    german: "jener",
+    english: "that",
+  },
+  {
+    german: "jetzt",
+    english: "now",
+  },
+  {
+    german: "kaputt",
+    english: "broken",
+  },
+  {
+    german: "kein",
+    english: "no",
+  },
+  {
+    german: "klar",
+    english: "clear",
+  },
+  {
+    german: "können",
+    english: "to be able to can",
+  },
+  {
+    german: "kriegen",
+    english: "to get",
+  },
+  {
+    german: "lang",
+    english: "long",
+  },
+  {
+    german: "lange",
+    english: "long",
+  },
+  {
+    german: "langsam",
+    english: "slow",
+  },
+  {
+    german: "leider",
+    english: "unfortunately",
+  },
+  {
+    german: "leid tun",
+    english: "to feel sorry for",
+  },
+  {
+    german: "es tut mir leid",
+    english: "I'm sorry",
+  },
+  {
+    german: "leihen",
+    english: "to lend",
+  },
+  {
+    german: "letzt",
+    english: "last",
+  },
+  {
+    german: "machen",
+    english: "to do, make ",
+  },
+  {
+    german: "mal",
+    english: "times",
+  },
+  {
+    german: "zweimal",
+    english: "twice",
+  },
+  {
+    german: "mäßig",
+    english: "moderate",
+  },
+  {
+    german: "mehr",
+    english: "more",
+  },
+  {
+    german: "mehrere",
+    english: "several",
+  },
+  {
+    german: "Meinung",
+    english: "opinion",
+  },
+  {
+    german: "mit freundlichen Grüßen",
+    english: "yours sincerely",
+  },
+  {
+    german: "mögen",
+    english: "to like",
+  },
+  {
+    german: "möglich",
+    english: "possible",
+  },
+  {
+    german: "müssen",
+    english: "to have to, must",
+  },
+  {
+    german: "natürlich",
+    english: "of course",
+  },
+  {
+    german: "nehmen",
+    english: "to take",
+  },
+  {
+    german: "nein",
+    english: "no",
+  },
+  {
+    german: "neu",
+    english: "new",
+  },
+  {
+    german: "nicht",
+    english: "not",
+  },
+  {
+    german: "nichts",
+    english: "nothing",
+  },
+  {
+    german: "niemand",
+    english: "no-one, nobody",
+  },
+  {
+    german: "Nummer",
+    english: "number",
+  },
+  {
+    german: "nur",
+    english: "only",
+  },
+  {
+    german: "oder",
+    english: "or",
+  },
+  {
+    german: "offen",
+    english: "open",
+  },
+  {
+    german: "öffnen",
+    english: "to open",
+  },
+  {
+    german: "oft",
+    english: "often",
+  },
+  {
+    german: "ohne",
+    english: "without",
+  },
+  {
+    german: "Paar",
+    english: "a pair, couple ",
+  },
+
+  {
+    german: "prima!",
+    english: "great!, cool!",
+  },
+  {
+    german: "pro",
+    english: "per",
+  },
+  {
+    german: "Prost!",
+    english: "Cheers!",
+  },
+  {
+    german: "Prozent",
+    english: "per cent",
+  },
+  {
+    german: "Qualität",
+    english: "quality",
+  },
+  {
+    german: "Quatsch",
+    english: "nonsense",
+  },
+  {
+    german: "rufen",
+    english: "to call, shout",
+  },
+  {
+    german: "ruhig",
+    english: "quiet",
+  },
+  {
+    german: "Ruhe",
+    english: "rest",
+  },
+  {
+    german: "rund",
+    english: "round",
+  },
+  {
+    german: "sagen",
+    english: "to say, tell ",
+  },
+  {
+    german: "Schade!",
+    english: "a pity!",
+  },
+  {
+    german: "schlecht",
+    english: "bad",
+  },
+  {
+    german: "schließen",
+    english: "to close",
+  },
+  {
+    german: "abschließen",
+    english: "lock",
+  },
+  {
+    german: "schließlich",
+    english: "finally",
+  },
+  {
+    german: "schlimm",
+    english: "bad",
+  },
+  {
+    german: "schrecklich",
+    english: "terrible",
+  },
+  {
+    german: "schreien",
+    english: "to shout, scream",
+  },
+  {
+    german: "sehr",
+    english: "very",
+  },
+  {
+    german: "sein",
+    english: "to be",
+  },
+  {
+    german: "seitdem",
+    english: "since",
+  },
+  {
+    german: "Sekunde",
+    english: "second",
+  },
+  {
+    german: "selbe",
+    english: "same",
+  },
+  {
+    german: "sicher",
+    english: "certain, sure",
+  },
+  {
+    german: "sogar",
+    english: "even",
+  },
+  {
+    german: "sollen",
+    english: "ought to, should",
+  },
+  {
+    german: "sonst",
+    english: "otherwise ",
+  },
+  {
+    german: "sowohl",
+    english: "both",
+  },
+  {
+    german: "als auch",
+    english: "as well as",
+  },
+  {
+    german: "toll!",
+    english: "great! cool!",
+  },
+  {
+    german: "Tschüs!",
+    english: "cheerio!, bye!, see you! ",
+  },
+  {
+    german: "tun",
+    english: "to do",
+  },
+  {
+    german: "überall",
+    english: "everywhere",
+  },
+  {
+    german: "Uhr",
+    english: "clock, watch",
+  },
+  {
+    german: "und",
+    english: "and",
+  },
+  {
+    german: "unmöglich",
+    english: "impossible",
+  },
+  {
+    german: "verschieden",
+    english: "different, various",
+  },
+  {
+    german: "Verzeihung!",
+    english: "Sorry!",
+  },
+  {
+    german: "viel",
+    english: "a lot, much, many",
+  },
+  {
+    german: "vielleicht",
+    english: "perhaps",
+  },
+  {
+    german: "Viertel",
+    english: "a quarter",
+  },
+  {
+    german: "voll",
+    english: "full",
+  },
+  {
+    german: "wahr",
+    english: "true",
+  },
+  {
+    german: "nicht wahr?",
+    english: "isn't it?",
+  },
+  {
+    german: "wechseln",
+    english: "to change",
+  },
+  {
+    german: "weil",
+    english: "because",
+  },
+  {
+    german: "Weise",
+    english: "way",
+  },
+  {
+    german: "auf diese Weise",
+    english: "in this way",
+  },
+  {
+    german: "wenig",
+    english: "little",
+  },
+  {
+    german: "wenigstens",
+    english: "at least",
+  },
+  {
+    german: "wenn",
+    english: "when",
+  },
+  {
+    german: "werden",
+    english: "to become",
+  },
+  {
+    german: "wichtig",
+    english: "important ",
+  },
+  {
+    german: "wie",
+    english: "as, like ",
+  },
+  {
+    german: "Wie bitte?",
+    english: "pardon? ",
+  },
+  {
+    german: "Wie geht's? ",
+    english: "how are you? ",
+  },
+  {
+    german: "wieder",
+    english: "again",
+  },
+  {
+    german: "wiederholen",
+    english: "to repeat",
+  },
+  {
+    german: "willkommen",
+    english: "welcome",
+  },
+  {
+    german: "wirklich",
+    english: "really",
+  },
+  {
+    german: "wollen",
+    english: "to want to",
+  },
+  {
+    german: "wunderbar",
+    english: "wonderful",
+  },
+  {
+    german: "Wunsch",
+    english: "wish",
+  },
+  {
+    german: "wünschen",
+    english: "to wish",
+  },
+  {
+    german: "Zahl",
+    english: "figure, number",
+  },
+  {
+    german: "ziehen",
+    english: "to pull",
+  },
+  {
+    german: "Ziel",
+    english: "aim",
+  },
+  {
+    german: "ziemlich",
+    english: "quite, fairly ",
+  },
+  {
+    german: "zu",
+    english: "too",
+  },
+  {
+    german: "zufrieden",
+    english: "contented",
+  },
+  {
+    german: "zumachen",
+    english: "to close",
+  },
+  {
+    german: "zusammen",
+    english: "together",
+  },
+  {
+    german: "die Behörden",
+    english: "the authorities",
+  },
+  {
+    german: "ansprechend",
+    english: "appealing",
+  },
+  {
+    german: "Willkommen",
+    english: "welcome",
+  },
+  {
+    german: "auslösen",
+    english: "trigger",
+  },
+  {
+    german: "benachteiligt",
+    english: "disadvantaged",
+  },
+  {
+    german: "entwurzelt",
+    english: "uprooted",
+  },
+  {
+    german: "der Entbehrungen",
+    english: "the hardships",
+  },
+  {
+    german: "diskriminieren",
+    english: "discriminate",
+  },
+  {
+    german: "verschuldet",
+    english: "indebted",
+  },
+  {
+    german: "fair",
+    english: "fair",
+  },
+  {
+    german: "ethnisch",
+    english: "ethnic",
+  },
+  {
+    german: "Feministin",
+    english: "feminist",
+  },
+  {
+    german: "vermögend",
+    english: "wealthy",
+  },
+  {
+    german: "gentechnisch verändert",
+    english: "genetically modified",
+  },
+  {
+    german: "homosexuell",
+    english: "homosexual",
+  },
+  {
+    german: "rechtswidrig",
+    english: "illegal",
+  },
+  {
+    german: "selbstständig",
+    english: "independently",
+  },
+  {
+    german: "die Verwaltung",
+    english: "the administration",
+  },
+  {
+    german: "der Zustrom",
+    english: "the influx",
+  },
+  {
+    german: "die Konfrontation",
+    english: "the confrontation",
+  },
+  {
+    german: "der Magnet",
+    english: "the magnet",
+  },
+  {
+    german: "Alkoholismus",
+    english: "alcoholism",
+  },
+  {
+    german: "die Beihilfe",
+    english: "the aid",
+  },
+  {
+    german: "Ehrgeiz",
+    english: "ambition",
+  },
+  {
+    german: "staatenlos",
+    english: "stateless",
+  },
+  {
+    german: "den sozialen Aufstieg",
+    english: "social advancement",
+  },
+  {
+    german: "Asyl",
+    english: "asylum",
+  },
+  {
+    german: "die Vereinigung",
+    english: "the union",
+  },
+  {
+    german: "der Trumpf",
+    english: "the trump card",
+  },
+  {
+    german: "der Anschlag",
+    english: "the attack",
+  },
+  {
+    german: "Selbstmordattentäter",
+    english: "suicide bombers",
+  },
+  {
+    german: "die Verlockung",
+    english: "the temptation",
+  },
+  {
+    german: "die Genehmigung",
+    english: "approval",
+  },
+  {
+    german: "Abtreibung",
+    english: "abortion",
+  },
+  {
+    german: "die Wirtschaft",
+    english: "the economy",
+  },
+  {
+    german: "Gleichheit",
+    english: "equality",
+  },
+  {
+    german: "Aufstand",
+    english: "revolt",
+  },
+  {
+    german: "Unruhestifter",
+    english: "troublemaker",
+  },
+  {
+    german: "Emigrant",
+    english: "emigrant",
+  },
+  {
+    german: "Emigration",
+    english: "emigration",
+  },
+  {
+    german: "Kernenergie",
+    english: "nuclear energy",
+  },
+  {
+    german: "jung",
+    english: "young",
+  },
+  {
+    german: "alt",
+    english: "old",
+  },
+  {
+    german: "leer",
+    english: "empty",
+  },
+  {
+    german: "Fülle",
+    english: "full",
+  },
+  {
+    german: "vertikal",
+    english: "vertical",
+  },
+  {
+    german: "waagerecht",
+    english: "horizontal",
+  },
+  {
+    german: "nützlich",
+    english: "useful",
+  },
+  {
+    german: "nutzlos",
+    english: "useless",
+  },
+  {
+    german: "die Stadt",
+    english: "a city / a town",
+  },
+  {
+    german: "das Dorf",
+    english: "a village",
+  },
+  {
+    german: "die Frage",
+    english: "a question",
+  },
+  {
+    german: "die Antwort",
+    english: "an answer",
+  },
+  {
+    german: "traurig",
+    english: "sad",
+  },
+  {
+    german: "fröhlich",
+    english: "happy",
+  },
+  {
+    german: "alles",
+    english: "everything",
+  },
+  {
+    german: "nichts",
+    english: "nothing",
+  },
+  {
+    german: "Lehrerin",
+    english: "professor",
+  },
+  {
+    german: "Student",
+    english: "student",
+  },
+  {
+    german: "früh",
+    english: "early",
+  },
+  {
+    german: "spät",
+    english: "late",
+  },
+  {
+    german: "offen",
+    english: "open",
+  },
+  {
+    german: "geschlossen",
+    english: "closed",
+  },
+  {
+    german: "erster",
+    english: "first",
+  },
+  {
+    german: "letzter",
+    english: "last",
+  },
+  {
+    german: "sicher",
+    english: "safe",
+  },
+  {
+    german: "gefährlich",
+    english: "dangerous",
+  },
+  {
+    german: "nahe, nah",
+    english: "near / close",
+  },
+  {
+    german: "weit",
+    english: "far",
+  },
+  {
+    german: "Zuckers",
+    english: "sugar",
+  },
+  {
+    german: "Salz",
+    english: "salt",
+  },
+  {
+    german: "trocken",
+    english: "dry",
+  },
+  {
+    german: "nass",
+    english: "wet",
+  },
+  {
+    german: "feucht",
+    english: "humid",
+  },
+  {
+    german: "oft",
+    english: "often",
+  },
+  {
+    german: "selten",
+    english: "seldom",
+  },
+  {
+    german: "immer",
+    english: "always",
+  },
+  {
+    german: "nie",
+    english: "never",
+  },
+  {
+    german: "dergleichen",
+    english: "same",
+  },
+  {
+    german: "andersartig",
+    english: "different",
+  },
+  {
+    german: "schmutzig",
+    english: "dirty",
+  },
+  {
+    german: "sauber",
+    english: "clean",
+  },
+  {
+    german: "abends",
+    english: "evening",
+  },
+  {
+    german: "morgens",
+    english: "morning",
+  },
+  {
+    german: "klein",
+    english: "small, little",
+  },
+  {
+    german: "groß",
+    english: "tall",
+  },
+  {
+    german: "reich",
+    english: "rich",
+  },
+  {
+    german: "arm",
+    english: "poor",
+  },
+  {
+    german: "die Decke",
+    english: "the ceiling",
+  },
+  {
+    german: "am Boden",
+    english: "the ground",
+  },
+  {
+    german: "das Tier",
+    english: "animal",
+  },
+  {
+    german: "der Mensch",
+    english: "human",
+  },
+  {
+    german: "schuldig",
+    english: "guilty",
+  },
+  {
+    german: "unschuldig",
+    english: "innocent",
+  },
+  {
+    german: "hier",
+    english: "here",
+  },
+  {
+    german: "dort",
+    english: "there",
+  },
+  {
+    german: "Hunger",
+    english: "hunger",
+  },
+  {
+    german: "durstig",
+    english: "thirst",
+  },
+  {
+    german: "die Sonne",
+    english: "the sun",
+  },
+  {
+    german: "der Mond",
+    english: "the moon",
+  },
+  {
+    german: "die Schwester",
+    english: "sister",
+  },
+  {
+    german: "der Bruder",
+    english: "brother",
+  },
+  {
+    german: "Frieden",
+    english: "peace",
+  },
+  {
+    german: "Krieg",
+    english: "war",
+  },
+  {
+    german: "winzig",
+    english: "tiny",
+  },
+  {
+    german: "riesig",
+    english: "huge",
+  },
+  {
+    german: "schwer",
+    english: "heavy",
+  },
+  {
+    german: "leicht",
+    english: "light",
+  },
+  {
+    german: "antik",
+    english: "ancient",
+  },
+  {
+    german: "neu",
+    english: "new",
+  },
+  {
+    german: "leicht",
+    english: "easy",
+  },
+  {
+    german: "schwierig",
+    english: "difficult, hard",
+  },
+  {
+    german: "normal",
+    english: "begin",
+  },
+  {
+    german: "merkwürdig",
+    english: "strange, curious",
+  },
+  {
+    german: "seltsam",
+    english: "strange",
+  },
+  {
+    german: "Freund",
+    english: "friend",
+  },
+  {
+    german: "Feindes",
+    english: "enemy",
+  },
+  {
+    german: "gestern",
+    english: "yesterday",
+  },
+  {
+    german: "morgen",
+    english: "tomorrow",
+  },
+  {
+    german: "dick",
+    english: "thick",
+  },
+  {
+    german: "Ende",
+    english: "thin",
+  },
+  {
+    german: "der Eingang",
+    english: "entrance",
+  },
+  {
+    german: "der Ausgang",
+    english: "exit",
+  },
+  {
+    german: "Kälte",
+    english: "cool, cold",
+  },
+  {
+    german: "heiß",
+    english: "warm, hot",
+  },
+  {
+    german: "rechter",
+    english: "right",
+  },
+  {
+    german: "links",
+    english: "left",
+  },
+  {
+    german: "die Frau",
+    english: "a woman",
+  },
+  {
+    german: "der Mann",
+    english: "a man",
+  },
+  {
+    german: "innen",
+    english: "inside",
+  },
+  {
+    german: "außen",
+    english: "outside",
+  },
+  {
+    german: "langsam",
+    english: "slow",
+  },
+  {
+    german: "schnell",
+    english: "fast",
+  },
+  {
+    german: "verheirateter",
+    english: "married",
+  },
+  {
+    german: "unverheiratet",
+    english: "single",
+  },
+  {
+    german: "falsch",
+    english: "wrong",
+  },
+  {
+    german: "Ja",
+    english: "yes",
+  },
+  {
+    german: "nein",
+    english: "no",
+  },
+  {
+    german: "tiefgehend",
+    english: "deep",
+  },
+  {
+    german: "seicht",
+    english: "shallow",
+  },
+  {
+    german: "gut",
+    english: "good",
+  },
+  {
+    german: "schlecht",
+    english: "bad",
+  },
+  {
+    german: "stark",
+    english: "strong",
+  },
+  {
+    german: "schwach",
+    english: "weak",
+  },
+  {
+    german: "sanft",
+    english: "soft",
+  },
+  {
+    german: "hart",
+    english: "hard",
+  },
+  {
+    german: "sehr viel",
+    english: "a lot of, many",
+  },
+  {
+    german: "wenig",
+    english: "few",
+  },
+  {
+    german: "oben",
+    english: "up",
+  },
+  {
+    german: "unten",
+    english: "down",
+  },
+  {
+    german: "genau",
+    english: "exactly",
+  },
+  {
+    german: "ungefähr",
+    english: "approximately",
+  },
+  {
+    german: "wahrscheinlich",
+    english: "probably",
+  },
+  {
+    german: "vor",
+    english: "before",
+  },
+  {
+    german: "nach",
+    english: "after",
+  },
+  {
+    german: "weiß",
+    english: "white",
+  },
+  {
+    german: "schwarz",
+    english: "black",
+  },
+  {
+    german: "teuer",
+    english: "expensive",
+  },
+  {
+    german: "billig, nicht teuer",
+    english: "cheap",
+  },
+  {
+    german: "laut",
+    english: "noisy",
+  },
+  {
+    german: "Ruhe",
+    english: "calm",
+  },
+  {
+    german: "kompliziert",
+    english: "complicated",
+  },
+  {
+    german: "einfach",
+    english: "simple",
+  },
+  {
+    german: "rau",
+    english: "rough",
+  },
+  {
+    german: "glatt",
+    english: "smooth",
+  },
+  {
+    german: "lang",
+    english: "long",
+  },
+  {
+    german: "kurz",
+    english: "short",
+  },
+  {
+    german: "jetzt",
+    english: "now",
+  },
+  {
+    german: "später",
+    english: "later",
+  },
+  {
+    german: "eng",
+    english: "narrow",
+  },
+  {
+    german: "breit",
+    english: "wide",
+  },
+  {
+    german: "draußen",
+    english: "outside, outdoor",
+  },
+  {
+    german: "hinein",
+    english: "in, inside",
+  },
+  {
+    german: "leuchtend",
+    english: "light",
+  },
+  {
+    german: "dunkel",
+    english: "dark",
+  },
+  {
+    german: "interessant",
+    english: "interesting",
+  },
+  {
+    german: "langweilig",
+    english: "boring",
+  },
+
+  {
+    german: "gehen",
+    english: "to walk",
+  },
+  {
+    german: "laufen",
+    english: "to run",
+  },
+  {
+    german: "befestigen",
+    english: "to attach, fasten",
+  },
+  {
+    german: "fesseln",
+    english: "captivate",
+  },
+  {
+    german: "losbinden",
+    english: "to detach",
+  },
+  {
+    german: "hinaufkommen",
+    english: "to go up",
+  },
+  {
+    german: "absteigen",
+    english: "to go down",
+  },
+  {
+    german: "zunehmen",
+    english: "to increase",
+  },
+  {
+    german: "herabsetzen",
+    english: "to decrease",
+  },
+  {
+    german: "stoppen",
+    english: "to stop",
+  },
+  {
+    german: "fortsetzen",
+    english: "to continue",
+  },
+  {
+    german: "abheben",
+    english: "to take off",
+  },
+  {
+    german: "landen",
+    english: "to landing",
+  },
+  {
+    german: "legen",
+    english: "to put on",
+  },
+  {
+    german: "wegnehmen",
+    english: "to remove",
+  },
+  {
+    german: "vorankommen",
+    english: "to move forward",
+  },
+  {
+    german: "zurückweichen",
+    english: "to back up",
+  },
+  {
+    german: "vergessen",
+    english: "to forget",
+  },
+  {
+    german: "sich erinnern",
+    english: "to remember",
+  },
+  {
+    german: "zeigen",
+    english: "to show",
+  },
+  {
+    german: "verstecken",
+    english: "to hide",
+  },
+  {
+    german: "einsparen",
+    english: "to save money",
+  },
+  {
+    german: "ausgeben",
+    english: "to spend",
+  },
+  {
+    german: "bauen",
+    english: "to build",
+  },
+  {
+    german: "zerstören",
+    english: "to destroy",
+  },
+  {
+    german: "ankommen",
+    english: "to arrive",
+  },
+  {
+    german: "weggehen",
+    english: "to leave",
+  },
+  {
+    german: "eintreten",
+    english: "to enter",
+  },
+  {
+    german: "hinausgehen",
+    english: "to go out",
+  },
+  {
+    german: "lachen",
+    english: "to laugh",
+  },
+  {
+    german: "betrauern",
+    english: "to cry",
+  },
+  {
+    german: "verkaufen",
+    english: "to sell",
+  },
+  {
+    german: "kaufen",
+    english: "to buy",
+  },
+  {
+    german: "brechen",
+    english: "to break",
+  },
+  {
+    german: "reparieren",
+    english: "to fix",
+  },
+  {
+    german: "leihen",
+    english: "to lend",
+  },
+  {
+    german: "leihen",
+    english: "to borrow",
+  },
+  {
+    german: "gewinnen",
+    english: "to win",
+  },
+  {
+    german: "verlieren",
+    english: "to lose",
+  },
+  {
+    german: "verlangsamen",
+    english: "to slow down",
+  },
+  {
+    german: "beschleunigen",
+    english: "to accelerate",
+  },
+  {
+    german: "suchen",
+    english: "to look for",
+  },
+  {
+    german: "finden",
+    english: "to find",
+  },
+  {
+    german: "ziehen",
+    english: "to pull",
+  },
+  {
+    german: "drängen",
+    english: "to push",
+  },
+  {
+    german: "nehmen",
+    english: "to take",
+  },
+  {
+    german: "geben",
+    english: "to give",
+  },
+  {
+    german: "aufwachen",
+    english: "to wake up",
+  },
+  {
+    german: "einschlafen",
+    english: "to fall asleep",
+  },
+  {
+    german: "halten",
+    english: "to hold on",
+  },
+  {
+    german: "locker lassen",
+    english: "ease up, let loose",
+  },
+  {
+    german: "zünden",
+    english: "to turn on",
+  },
+  {
+    german: "ausschalten",
+    english: "to turn off",
+  },
+  {
+    german: "verkaufen",
+    english: "to sell",
+  },
+  {
+    german: "kaufen",
+    english: "to buy",
+  },
+  {
+    german: "schicken",
+    english: "to send",
+  },
+  {
+    german: "empfangen",
+    english: "to receive",
+  },
+  {
+    german: "anfangen",
+    english: "to start",
+  },
+  {
+    german: "aufhören",
+    english: "to finish",
+  },
 ];

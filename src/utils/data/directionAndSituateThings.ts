@@ -40,8 +40,16 @@ export default [
     english: "the back",
   },
   {
-    german: "in, innen, innerhalb",
-    english: "in, inside, within",
+    german: "in",
+    english: "in",
+  },
+  {
+    german: "innen",
+    english: "inside",
+  },
+  {
+    german: "innerhalb",
+    english: "within",
   },
   {
     german: "hinter",
@@ -49,7 +57,7 @@ export default [
   },
   {
     german: "vor",
-    english: "in front of",
+    english: "from",
   },
   {
     german: "zwischen",
@@ -61,11 +69,15 @@ export default [
   },
   {
     german: "auf",
-    english: "on, onto",
+    english: "on, at",
   },
   {
-    german: "gegen, nahe",
-    english: "toward, near",
+    german: "gegen",
+    english: "toward",
+  },
+  {
+    german: "nahe",
+    english: "near",
   },
   {
     german: "neben",
@@ -96,28 +108,40 @@ export default [
     english: "below, underneath",
   },
   {
-    german: "höher als, über",
-    english: "higher than, above",
+    german: "höher als",
+    english: "higher than",
+  },
+  {
+    german: "über",
+    english: "above",
   },
   {
     german: "um",
     english: "around",
   },
   {
-    german: "unter, am unteren Ende der",
-    english: "below, at the bottom of",
+    german: "unter",
+    english: "below",
+  },
+  {
+    german: "am unteren Ende der",
+    english: "at the bottom of",
   },
   {
     german: "außerhalb",
     english: "outside",
   },
   {
-    german: "vor, gegenüber, gegenüber",
-    english: "In front of, facing, across from",
+    german: "gegenüber",
+    english: "opposite",
   },
   {
-    german: "oben, an der Spitze",
-    english: "above, at the top of",
+    german: "oben",
+    english: "above",
+  },
+  {
+    german: "an der Spitze",
+    english: "at the top of",
   },
   {
     german: "außerhalb",
@@ -131,6 +155,7 @@ export default [
     german: "nah",
     english: "near, close",
   },
+
   {
     german: "gegen",
     english: "against",
@@ -144,8 +169,12 @@ export default [
     english: "next to",
   },
   {
-    german: "Upto, soweit, bis zu",
-    english: "upto, as far as, until",
+    german: "bis zu",
+    english: "upto",
+  },
+  {
+    german: "soweit",
+    english: "as far as",
   },
   {
     german: "in der Mitte",
@@ -165,7 +194,7 @@ export default [
   },
   {
     german: "weit weg",
-    english: "faraway, far-off",
+    english: "faraway",
   },
   {
     german: "abseits der Piste",
@@ -193,7 +222,7 @@ export default [
   },
   {
     german: "die Entfernung",
-    english: "the distance, the remoteness",
+    english: "the distance",
   },
   {
     german: "gerade",
@@ -309,11 +338,7 @@ export default [
   },
   {
     german: "das Weite suchen",
-    english: "to walk away, to move away",
-  },
-  {
-    german: "sich jdm/einer S. nähern",
-    english: "to come closer",
+    english: "to walk away",
   },
   {
     german: "verloren gehen",

@@ -68,7 +68,7 @@ export default [
     english: "legal",
   },
   {
-    german: "die Vereinbarung, die Vereinbarung",
+    german: "die Vereinbarung",
     english: "the agreement, the arrangement",
   },
   {
@@ -76,12 +76,8 @@ export default [
     english: "the prosecution",
   },
   {
-    german: "der Angeklagte",
+    german: "der Angeklagte, der Beschuldigte",
     english: "the accused",
-  },
-  {
-    german: "Der Angeklagte, der Beschuldigte",
-    english: "the accused, the accused",
   },
   {
     german: "Freispruch",
@@ -124,8 +120,8 @@ export default [
     english: "the financial assistance",
   },
   {
-    german: "Prozesskostenhilfe, Rechtshilfe, Rechtsberatung",
-    english: "legal aid, legal aid, legal assistance",
+    german: "Prozesskostenhilfe, Rechtshilfe",
+    english: "legal aid",
   },
   {
     german: "die Vertagung",
@@ -172,8 +168,12 @@ export default [
     english: "the arbitration",
   },
   {
-    german: "das Archiv, den Ordner",
-    english: "the archive, the folder",
+    german: "das Archiv",
+    english: "the archive",
+  },
+  {
+    german: "den Ordner",
+    english: "the folder",
   },
   {
     german: "die Verhaftung",
@@ -248,10 +248,6 @@ export default [
     english: "the investigation",
   },
   {
-    german: "die Untersuchung/die Untersuchung",
-    english: "the investigation/ investigation",
-  },
-  {
     german: "das Justizirrtum",
     english: "the miscarriage of justice",
   },
@@ -264,8 +260,8 @@ export default [
     english: "the medical examination",
   },
   {
-    german: "Der Gerichtsmediziner/ Gerichtsmediziner",
-    english: "the medical examiner/ the medical examiner",
+    german: "Der Gerichtsmediziner",
+    english: "the medical examiner",
   },
   {
     german: "der medizinische Sachverständige",
@@ -360,8 +356,12 @@ export default [
     english: "the cell",
   },
   {
-    german: "die Kammer eines Gerichts/Gerichtssaals",
-    english: "the courtroom/courtroom",
+    german: "die Kammer eines Gerichts",
+    english: "the chamber of a court",
+  },
+  {
+    german: "Gerichtssaals",
+    english: "the courtroom",
   },
   {
     german: "Gnade",
@@ -384,8 +384,12 @@ export default [
     english: "forfeiture of property",
   },
   {
-    german: "die Zuwiderhandlung, die Geldbuße",
-    english: "the ticket, the fine",
+    german: "die Zuwiderhandlung",
+    english: "the violation",
+  },
+  {
+    german: "die Geldbuße",
+    english: "the fine",
   },
   {
     german: "Korruption",
@@ -441,7 +445,7 @@ export default [
   },
   {
     german: "die Weisung",
-    english: "the directive / instruction",
+    english: "the directive, instruction",
   },
   {
     german: "die Offenlegung",
@@ -456,8 +460,8 @@ export default [
     english: "the body search",
   },
   {
-    german: "die Gerichtsbarkeit / Zuständigkeit",
-    english: "the court",
+    german: "die Zuständigkeit",
+    english: "the juridiction",
   },
   {
     german: "die Rechtsprechung",
@@ -501,7 +505,7 @@ export default [
   },
   {
     german: "die Todesstrafe",
-    english: "capital punishment/ death penalty",
+    english: "death penalty",
   },
   {
     german: "Unterhalt",
@@ -588,20 +592,32 @@ export default [
     english: "life imprisonment",
   },
   {
-    german: "Die Belohnung, die Prämie",
-    english: "the reward, the bonus",
+    german: "Die Belohnung",
+    english: "the reward",
   },
   {
-    german: "die Regel/die Verordnung",
-    english: "the rule/regulation",
+    german: "die Prämie",
+    english: "the Premium",
+  },
+  {
+    german: "die Verordnung",
+    english: "the regulation",
+  },
+  {
+    german: "die Regel",
+    english: "the rule",
   },
   {
     german: "Wiedereingliederung",
     english: "the reintegration",
   },
   {
-    german: "die Entspannung/die Befreiung",
-    english: "the release/ the release",
+    german: "die Entspannung",
+    english: "the Relaxation",
+  },
+  {
+    german: "die Befreiung",
+    english: "the release",
   },
   {
     german: "Straferlass",
@@ -664,8 +680,8 @@ export default [
     english: "the bounty hunter",
   },
   {
-    german: "die Anklage, die Anklage",
-    english: "the charge, the charge",
+    german: "die Anklage",
+    english: "the charge",
   },
   {
     german: "der Kommissar",
@@ -729,7 +745,7 @@ export default [
   },
   {
     german: "Der Gefangene",
-    english: "the prisoner, the prisoner",
+    english: "the prisoner",
   },
   {
     german: "das Dokument",
@@ -737,7 +753,7 @@ export default [
   },
   {
     german: "den Schaden",
-    english: "the damage, the damage",
+    english: "the damage",
   },
   {
     german: "die Akte",
@@ -841,7 +857,7 @@ export default [
   },
   {
     german: "der Durchsuchungsbefehl",
-    english: "search warrant, search warrant",
+    english: "search warrant",
   },
   {
     german: "der Gerichtsmediziner",
@@ -876,8 +892,12 @@ export default [
     english: "the litigant",
   },
   {
-    german: "dem Beschwerdeführer, dem Antragsteller",
-    english: "the complainant, the applicant",
+    german: "dem Beschwerdeführer",
+    english: "the complainant",
+  },
+  {
+    german: "dem Antragsteller",
+    english: "the applicant",
   },
   {
     german: "das Phantombild",
@@ -908,44 +928,36 @@ export default [
     english: "the repeat offender",
   },
   {
-    german: "der gesetzliche V",
+    german: "der gesetzliche Vertreter",
     english: "the legal representative",
   },
   {
-    german: "the oath",
-    english: "ertreter",
+    german: "den Eid",
+    english: "the oath",
   },
   {
-    german: "the suspect",
-    english: "den Eid",
+    german: "der Verdächtige",
+    english: "the suspect",
   },
   {
-    german: "the testimony",
-    english: "der Verdächtige",
+    german: "die Aussage",
+    english: "the statement",
   },
   {
-    german: "the witness",
-    english: "die Aussage",
+    german: "der Zeuge",
+    english: "the witness",
   },
   {
-    german: "the eyewitness",
-    english: "der Zeuge",
+    german: "die Augenzeugin",
+    english: "the eyewitness",
   },
   {
-    german: "the key witness",
-    english: "die Augenzeugin",
-  },
-  {
-    german: "the DNA test",
-    english: "der Kronzeuge",
-  },
-  {
-    german: "est",
-    english: "der DNA-T",
+    german: "der Kronzeuge",
+    english: "the key witness",
   },
   {
     german: "den Titel",
-    english: "the legal title",
+    english: "the title",
   },
   {
     german: "das Gericht",
@@ -1144,8 +1156,12 @@ export default [
     english: "defer",
   },
   {
-    german: "entlasten, reinwaschen",
-    english: "exonerate, launder",
+    german: "entlasten",
+    english: "exonerate",
+  },
+  {
+    german: "reinwaschen",
+    english: "cleanwash",
   },
   {
     german: "verfügen",
@@ -1156,7 +1172,7 @@ export default [
     english: "disclose a document",
   },
   {
-    german: "die Dienste eines Rechtsanwalts in Anspruch nehmen",
+    german: "einen Rechtsanwalt beauftragen",
     english: "hire a lawyer",
   },
   {
@@ -1164,7 +1180,7 @@ export default [
     english: "investigate a case",
   },
   {
-    german: "eingesperrt sein, eingesperrt sein",
+    german: "eingesperrt sein",
     english: "be imprisoned, locked up",
   },
   {
@@ -1204,8 +1220,12 @@ export default [
     english: "incriminate",
   },
   {
-    german: "anklagen, vor Gericht stellen",
-    english: "indict, indict, indict",
+    german: "anklagen",
+    english: "indict, accuse",
+  },
+  {
+    german: "vor Gericht stellen",
+    english: "put on trial",
   },
   {
     german: "unterweisen",
@@ -1245,15 +1265,19 @@ export default [
   },
   {
     german: "freigeben",
-    english: "release, release",
+    english: "release",
   },
   {
     german: "bedrohen",
     english: "threaten",
   },
   {
-    german: "neutralisieren, beherrschen",
-    english: "neutralize, master",
+    german: "neutralisieren",
+    english: "neutralize",
+  },
+  {
+    german: "beherrschen",
+    english: "master",
   },
   {
     german: "Handschellen anlegen",
@@ -1348,8 +1372,8 @@ export default [
     english: "recant",
   },
   {
-    german: "verdächtigen, verdächtigen",
-    english: "suspect, suspect",
+    german: "verdächtigen",
+    english: "suspect",
   },
   {
     german: "bezeugen",
@@ -1373,6 +1397,6 @@ export default [
   },
   {
     german: "ermitteln",
-    english: "make an investigation, investigate",
+    english: "make an investigation",
   },
 ];

@@ -32,8 +32,12 @@ export default [
     english: "boring",
   },
   {
-    german: "genau, präzise",
-    english: "exact, precise",
+    german: "genau",
+    english: "exact",
+  },
+  {
+    german: "präzise",
+    english: "precise",
   },
   {
     german: "wöchentlich",
@@ -136,8 +140,12 @@ export default [
     english: "the striking new",
   },
   {
-    german: "die rechte / linke Seite",
-    english: "the right/ left page",
+    german: "die rechte",
+    english: "the right",
+  },
+  {
+    german: "linke Seite",
+    english: "left page",
   },
   {
     german: "die Titelseite",
@@ -160,8 +168,12 @@ export default [
     english: "the professional press",
   },
   {
-    german: "Die regionale / nationale Presse",
-    english: "the regional/ national press",
+    german: "Die regionale",
+    english: "the regional",
+  },
+  {
+    german: "nationale Presse",
+    english: "national press",
   },
   {
     german: "die Fachpresse",
@@ -192,8 +204,8 @@ export default [
     english: "the veracity",
   },
   {
-    german: "unten / oben rechts / links",
-    english: "bottom/ top right/left page",
+    german: "unten",
+    english: "bottom",
   },
   {
     german: "der Kolumnist",
@@ -229,7 +241,7 @@ export default [
   },
   {
     german: "das Frauenmagazin",
-    english: "the women’s magazine",
+    english: "the women's magazine",
   },
   {
     german: "der Medienmogul",
@@ -260,7 +272,7 @@ export default [
     english: "the daily",
   },
   {
-    german: "die Vorderseite, die Front",
+    german: "die Vorderseite",
     english: "the front side",
   },
   {
@@ -320,7 +332,7 @@ export default [
     english: "monthly",
   },
   {
-    german: "populär, beliebt",
+    german: "populär",
     english: "popular",
   },
   {
@@ -328,16 +340,12 @@ export default [
     english: "scandalous",
   },
   {
-    german: "seriöse, ernst",
+    german: "seriöse",
     english: "serious",
   },
   {
     german: "drei Millionen Leser",
     english: "three million readers",
-  },
-  {
-    german: "NÜTZLICHE VERBS",
-    english: "USEFUL VERBS",
   },
   {
     german: "aufmerksam machen",

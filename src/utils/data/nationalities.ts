@@ -320,7 +320,7 @@ export default [
     english: "Salvadorian",
   },
   {
-    german: "Saudi, Saudi Arabien",
+    german: "Saudi Arabien",
     english: "Saudi Arabian",
   },
   {

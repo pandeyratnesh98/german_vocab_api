@@ -176,8 +176,8 @@ export default [
     english: "the peace agreement",
   },
   {
-    german: "der Flugplatz, der Flugplatz",
-    english: "the airfield, the airfield",
+    german: "der Flugplatz",
+    english: "the airfield",
   },
   {
     german: "die Konfrontation",
@@ -757,7 +757,7 @@ export default [
   },
   {
     german: "die Festung",
-    english: "the fortress, the stronghold, the bastion",
+    english: "the fortress, the stronghold, the castle",
   },
   {
     german: "die Befestigung",
@@ -1505,7 +1505,7 @@ export default [
   },
   {
     german: "der Kontrollpunkt",
-    english: "the checkpoint, the checkpoint",
+    english: "the checkpoint",
   },
   {
     german: "der Flugzeugträger",
@@ -1796,10 +1796,6 @@ export default [
     english: "the preparations",
   },
   {
-    german: "die Vorräte, die Rationen",
-    english: "the provisions, the rations",
-  },
-  {
     german: "die Verstärkung",
     english: "the reinforcements",
   },
@@ -1832,7 +1828,7 @@ export default [
     english: "mortal",
   },
   {
-    german: "(der) Munition",
+    german: "der Munition",
     english: "the ammunition",
   },
   {
@@ -1904,8 +1900,12 @@ export default [
     english: "victorious",
   },
   {
-    german: "lebenswichtig, unentbehrlich",
-    english: "vital, indispensable",
+    german: "lebenswichtig",
+    english: "vital",
+  },
+  {
+    german: "unentbehrlich",
+    english: "indispensable",
   },
 
   {
@@ -1913,7 +1913,7 @@ export default [
     english: "aim",
   },
   {
-    german: "einen hinterhalt zu suchen",
+    german: "einen hinterhalt",
     english: "ambush",
   },
   {
@@ -2069,7 +2069,11 @@ export default [
     english: "dread",
   },
   {
-    german: "sich bücken, ausweichen",
+    german: "sich bücken",
+    english: "bend down",
+  },
+  {
+    german: "ausweichen",
     english: "duck",
   },
   {
@@ -2309,8 +2313,12 @@ export default [
     english: "to be at war",
   },
   {
-    german: "transgerzen, vergewaltigen",
-    english: "transgress, violate",
+    german: "transgerzen",
+    english: "transgenic",
+  },
+  {
+    german: "vergewaltigen",
+    english: "rape",
   },
   {
     german: "einen konflikt beginnen",

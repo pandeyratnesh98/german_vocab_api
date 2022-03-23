@@ -185,7 +185,7 @@ export default [
   },
   {
     german: "die Snorkeling",
-    english: "diving with a snorkel and a snorkel",
+    english: "the snorkeling",
   },
   {
     german: "das Heck",
@@ -205,7 +205,11 @@ export default [
   },
   {
     german: "das Ufer, die Küste",
-    english: "the shore, the shore",
+    english: "the shore",
+  },
+  {
+    german: "die Küste",
+    english: "the coast",
   },
   {
     german: "das Handtuch",
@@ -232,8 +236,8 @@ export default [
     english: "the sail",
   },
   {
-    german: "das Rudern; das Rudern",
-    english: "the oar; the oar",
+    german: "das Rudern",
+    english: "the rowing",
   },
   {
     german: "der Strandball",
@@ -252,8 +256,8 @@ export default [
     english: "the fishing vessel",
   },
   {
-    german: "das Schiff; das Schiff",
-    english: "the ship; the ship",
+    german: "das Schiff",
+    english: "the ship",
   },
   {
     german: "der Bikini",
@@ -400,8 +404,8 @@ export default [
     english: "the fish",
   },
   {
-    german: "das Deck (des Schiffes)",
-    english: "the deck (of the ship)",
+    german: "das Deck",
+    english: "the deck",
   },
   {
     german: "der Hafen",
@@ -448,8 +452,8 @@ export default [
     english: "the bucket",
   },
   {
-    german: "die Badehose (für Herren)",
-    english: "bath briefs (for men)",
+    german: "die Badehose",
+    english: "the swimming trunks",
   },
   {
     german: "die Wippe",
@@ -457,7 +461,7 @@ export default [
   },
   {
     german: "das Fährschiff, die Fähre",
-    english: "the ferry, the ferry",
+    english: "the ferry",
   },
   {
     german: "der Schnorchel",
@@ -501,47 +505,43 @@ export default [
   },
   {
     german: "seekrank",
-    english: "to be seasick",
+    english: "seasick",
   },
   {
     german: "kentern",
-    english: "to capsize",
+    english: "capsize",
   },
   {
     german: "fließen",
-    english: "to sink",
+    english: "sink",
   },
   {
     german: "landen",
-    english: "to disembark",
+    english: "disembark",
   },
   {
     german: "spritzen",
-    english: "to splash",
+    english: "splash",
   },
   {
     german: "tauchen",
-    english: "to go scuba diving",
+    english: "scuba diving",
   },
   {
     german: "surfen",
-    english: "to go surfing",
+    english: "surfing",
   },
   {
     german: "flattern",
-    english: "to float",
+    english: "flutter",
   },
   {
     german: "ankern",
-    english: "to drop anchor",
-  },
-  {
-    german: "ankern",
-    english: "to weigh anchor",
+    english: "anchor",
   },
   {
     german: "einsteigen",
-    english: "to go on board",
+    english: "get on board",
   },
   {
     german: "über Bord gehen",
@@ -549,26 +549,26 @@ export default [
   },
   {
     german: "planschen",
-    english: "to wade",
+    english: "splash",
   },
   {
     german: "schälen",
-    english: "to peel",
+    english: "peel",
   },
   {
     german: "sonnenbaden",
-    english: "to sunbathe",
+    english: "sunbathing",
   },
   {
     german: "rudern",
-    english: "to row",
+    english: "row",
   },
   {
     german: "braun werden",
-    english: "to get a tan",
+    english: "tan",
   },
   {
     german: "ertrinken",
-    english: "to drown",
+    english: "drown",
   },
 ];

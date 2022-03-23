@@ -1,7 +1,11 @@
 export default [
   {
-    german: "Fuß (zu Fuß gehen) ",
-    english: "foot (go on foot) ",
+    german: "Fuß",
+    english: "foot",
+  },
+  {
+    german: "zu Fuß gehen",
+    english: "go on foot",
   },
   {
     german: "Rollschuh laufen",
@@ -9,730 +13,1306 @@ export default [
   },
   {
     german: "Auge",
-    english: "eye ",
+    english: "eye",
   },
   {
     german: "Bauch",
-    english: "tummy ",
+    english: "tummy",
   },
   {
     german: "Bein",
-    english: "leg ",
+    english: "leg",
   },
   {
     german: "Gesicht",
-    english: "face ",
+    english: "face",
   },
   {
     german: "Haare",
-    english: "hair ",
+    english: "hair",
   },
   {
     german: "Hals",
-    english: "neck/ throat ",
+    english: "neck",
   },
   {
     german: "Knie",
-    english: "knee ",
+    english: "knee",
   },
   {
     german: "Körper",
-    english: "body ",
+    english: "body",
   },
   {
     german: "Mund",
-    english: "mouth ",
+    english: "mouth",
   },
   {
     german: "Nase",
-    english: "nose ",
+    english: "nose",
   },
   {
     german: "Ohr",
-    english: "ear ",
+    english: "ear",
   },
   {
     german: "Schulter",
-    english: "shoulder ",
+    english: "shoulder",
   },
   {
     german: "angeln",
-    english: "to fish ",
+    english: "to fish",
   },
   {
     german: "Angelrute",
-    english: "fishing rod ",
+    english: "fishing rod",
   },
   {
     german: "Bad",
-    english: "bath ",
+    english: "bath",
   },
   {
     german: "baden",
-    english: "to bathe ",
+    english: "to bathe",
   },
   {
-    german: "Badeanzug/hose",
-    english: "swimming costume/trunks ",
+    german: "Badeanzug",
+    english: "swimming costume",
   },
   {
     german: "Badeort",
-    english: "seaside resort ",
+    english: "seaside resort",
   },
   {
     german: "bewegen",
-    english: "to move ",
+    english: "to move",
   },
   {
     german: "Endspiel",
-    english: "final (e.g. sport) ",
+    english: "final",
   },
   {
     german: "Freibad",
-    english: "swimming pool (open air) ",
+    english: "swimming pool",
   },
   {
     german: "Fußball",
-    english: "football ",
+    english: "football",
   },
   {
     german: "gewinnen",
-    english: "to win ",
+    english: "to win",
   },
   {
     german: "Hallenbad",
-    english: "indoor swimming pool ",
+    english: "indoor swimming pool",
   },
   {
     german: "joggen",
-    english: "to jog ",
+    english: "to jog",
   },
   {
     german: "Kanufahren",
-    english: "canoeing ",
+    english: "canoeing",
   },
   {
     german: "kegeln",
-    english: "to play skittles ",
+    english: "to play skittles",
   },
   {
     german: "klettern",
-    english: "to climb ",
+    english: "to climb",
   },
   {
     german: "laufen",
-    english: "to run ",
+    english: "to run",
   },
   {
     german: "Leichtathletik",
-    english: "athletics ",
+    english: "athletics",
   },
   {
     german: "Liga",
-    english: "league ",
+    english: "league",
   },
   {
     german: "Mannschaft",
-    english: "team ",
+    english: "team",
   },
   {
     german: "Netz",
-    english: "net ",
+    english: "net",
   },
   {
     german: "Reiten",
-    english: "horse riding ",
+    english: "horse riding",
   },
   {
     german: "rennen",
-    english: "to run ",
+    english: "to run",
   },
   {
     german: "Rennen",
-    english: "race ",
+    english: "race",
   },
   {
     german: "Rollbrett",
-    english: "skateboard ",
+    english: "skateboard",
   },
   {
     german: "Roller",
-    english: "scooter ",
+    english: "scooter",
   },
   {
     german: "Ruderboot",
-    english: "rowing boat ",
+    english: "rowing boat",
   },
   {
     german: "rudern",
-    english: "to row ",
+    english: "to row",
   },
   {
     german: "schießen",
-    english: "to shoot ",
+    english: "to shoot",
   },
   {
     german: "schlagen",
-    english: "to hit ",
+    english: "to hit",
   },
   {
     german: "Schläger",
-    english: "racquet / stick / bat ",
+    english: "racket",
   },
   {
     german: "Schließfach",
-    english: "locker ",
+    english: "locker",
   },
   {
     german: "Schlittschuhlaufen",
-    english: "to ice skate ",
+    english: "to ice skate",
   },
   {
     german: "Schwimmbad",
-    english: "swimming pool ",
+    english: "swimming pool",
   },
   {
     german: "schwimmen",
-    english: "to swim ",
+    english: "to swim",
   },
   {
-    german: " See (der/die) (an der See) ",
-    english: "lake / sea (at the sea-side) ",
+    german: " See",
+    english: "lake",
   },
   {
-    german: "segeln ",
-    english: "to sail ",
+    german: "segeln",
+    english: "to sail",
   },
   {
-    german: "Ski fahren ",
-    english: "to ski ",
+    german: "Ski fahren",
+    english: "to ski",
   },
   {
-    german: "Skilehrer/in ",
-    english: "ski instructor ",
+    german: "Skilehrer",
+    english: "ski instructor",
   },
   {
-    german: "spazierengehen ",
-    english: "to go for a walk ",
+    german: "spazierengehen",
+    english: "to go for a walk",
   },
   {
-    german: "Spaziergang ",
-    english: "walk ",
+    german: "Spaziergang",
+    english: "walk",
   },
   {
-    german: "Spiel(film) ",
-    english: "game / match (feature film) ",
+    german: "Spiel",
+    english: "game",
   },
   {
-    german: "spielen ",
-    english: "to play (music / sports / cards) ",
+    german: "spielen",
+    english: "to play",
   },
   {
-    german: "Spieler ",
-    english: "player ",
+    german: "Spieler",
+    english: "player",
   },
   {
-    german: "Spielzeug ",
-    english: "toy(s) ",
+    german: "Spielzeug",
+    english: "toy",
   },
   {
-    german: "Sport treiben ",
-    english: "to do sport ",
+    german: "Sport treiben",
+    english: "to do sport",
   },
   {
-    german: "Sportplatz ",
-    english: "sports ground / school field ",
+    german: "Sportplatz",
+    english: "sports ground, school field",
   },
   {
-    german: "springen ",
-    english: "to jump ",
+    german: "springen",
+    english: "to jump",
   },
   {
-    german: "Stadion ",
-    english: "stadium ",
+    german: "Stadion",
+    english: "stadium",
   },
   {
-    german: "steigen ",
-    english: "to climb ",
+    german: "steigen",
+    english: "to climb",
   },
   {
-    german: "Surfbrett ",
-    english: "surfboard ",
+    german: "Surfbrett",
+    english: "surfboard",
   },
   {
-    german: "Tor (ein Tor schießen) ",
-    english: "gate / goal (to score a goal) ",
+    german: "Tor",
+    english: "gate",
   },
   {
-    german: "Umkleideraum ",
-    english: "changing room ",
+    german: "Umkleideraum",
+    english: "changing room",
   },
   {
-    german: "Verein ",
-    english: "club ",
+    german: "Verein",
+    english: "club",
   },
   {
-    german: "verlieren ",
-    english: "to lose ",
+    german: "verlieren",
+    english: "to lose",
   },
   {
-    german: "wandern ",
-    english: "to hike ",
+    german: "wandern",
+    english: "to hike",
   },
   {
-    german: "Wanderung ",
-    english: "hike ",
+    german: "Wanderung",
+    english: "hike",
   },
   {
-    german: "werfen ",
-    english: "to throw ",
+    german: "werfen",
+    english: "to throw",
   },
   {
-    german: "windsurfen ",
-    english: "to windsurf ",
+    german: "windsurfen",
+    english: "to windsurf",
   },
   {
-    german: "Biene ",
-    english: "bee ",
+    german: "Biene",
+    english: "bee",
   },
   {
-    german: "Erkältung (sich erkälten) ",
-    english: "a cold (to catch a cold) ",
+    german: "Erkältung",
+    english: "a cold",
   },
   {
-    german: "Fieber ",
-    english: "fever /a temperature ",
+    german: "sich erkälten",
+    english: "to catch a cold",
   },
   {
-    german: "Fliege ",
-    english: "fly ",
+    german: "Fieber",
+    english: "fever",
   },
   {
-    german: "fühlen ",
-    english: "to feel ",
+    german: "Fliege",
+    english: "fly",
   },
   {
-    german: "Gefühl ",
-    english: "feeling ",
+    german: "fühlen",
+    english: "to feel",
   },
   {
-    german: "gesund (Gesundheit) ",
-    english: "healthy (health) ",
+    german: "Gefühl",
+    english: "feeling",
   },
   {
-    german: "Grippe ",
-    english: "flu ",
+    german: "gesund",
+    english: "healthy",
   },
   {
-    german: "Halsschmerzen ",
-    english: "sore throat ",
+    german: "Grippe",
+    english: "flu",
   },
   {
-    german: "Hansaplast ",
-    english: "sticking plaster ",
+    german: "Halsschmerzen",
+    english: "sore throat",
   },
   {
-    german: "Heftpflaster ",
-    english: "sticking plaster ",
+    german: "Hansaplast",
+    english: "sticking plaster",
   },
   {
-    german: "helfen (Hilfe!) ",
-    english: "to help (help!) ",
+    german: "Heftpflaster",
+    english: "sticking plaster",
   },
   {
-    german: "Husten ",
-    english: "cough ",
+    german: "helfen",
+    english: "to help",
   },
   {
-    german: "husten ",
-    english: "to cough ",
+    german: "Hilfe!",
+    english: "help!",
   },
   {
-    german: "Kopfschmerzen ",
-    english: "headache ",
+    german: "Husten",
+    english: "cough",
   },
   {
-    german: "krank (Krankheit) ",
-    english: "ill(ness) ",
+    german: "husten",
+    english: "to cough",
   },
   {
-    german: "Krankenhaus ",
-    english: "hospital ",
+    german: "Kopfschmerzen",
+    english: "headache",
   },
   {
-    german: "Krankenpfleger/ Krankenschwester ",
-    english: "nurse(male/female) ",
+    german: "krank",
+    english: "ill",
   },
   {
-    german: "Krankenwagen ",
-    english: "ambulance ",
+    german: "Krankenhaus",
+    english: "hospital",
   },
   {
-    german: "Magen(schmerzen) ",
-    english: "stomach (ache) ",
+    german: "Krankenpfleger",
+    english: "nurse",
   },
   {
-    german: "Medikament ",
-    english: "medicine ",
+    german: "Krankenwagen",
+    english: "ambulance",
   },
   {
-    german: "Operation ",
-    english: "operation (=medical) ",
+    german: "Magen schmerzen",
+    english: "stomach ache",
   },
   {
-    german: "Patient/in ",
-    english: "patient ",
+    german: "Medikament",
+    english: "medicine",
   },
   {
-    german: "Rezept ",
-    english: "prescription / recipe ",
+    german: "Operation",
+    english: "operation",
   },
   {
-    german: "Schmerzen (schmerzhaft) ",
-    english: "pain(ful) ",
+    german: "Patient",
+    english: "patient",
   },
   {
-    german: "Schnupfen ",
-    english: "cold ",
+    german: "Rezept",
+    english: "prescription",
   },
   {
-    german: "seekrank ",
-    english: "seasick ",
+    german: "Schmerzen",
+    english: "pain",
   },
   {
-    german: "sprechen ",
-    english: "to speak ",
+    german: "Schnupfen",
+    english: "cold",
   },
   {
-    german: "Sprechstunde ",
-    english: "surgery hours ",
+    german: "seekrank",
+    english: "seasick",
   },
   {
-    german: "stechen ",
-    english: "to sting ",
+    german: "sprechen",
+    english: "to speak",
   },
   {
-    german: "Stich ",
-    english: "sting ",
+    german: "Sprechstunde",
+    english: "surgery hours",
   },
   {
-    german: "Tablette ",
-    english: "tablet/pill ",
+    german: "stechen",
+    english: "to sting",
   },
   {
-    german: "Unfall ",
-    english: "accident ",
+    german: "Stich",
+    english: "sting",
   },
   {
-    german: "verletzen (sich) ",
-    english: "to injure (o.s.) ",
+    german: "Tablette",
+    english: "tablet",
   },
   {
-    german: "weh tun ",
-    english: "to hurt (e.g. my arm hurts) ",
+    german: "Unfall",
+    english: "accident",
   },
   {
-    german: "Wespe ",
-    english: "wasp ",
+    german: "verletzen",
+    english: "to injure",
   },
   {
-    german: "Wunde ",
-    english: "wound ",
+    german: "weh tun",
+    english: "to hurt",
   },
   {
-    german: "Zahn(schmerzen) ",
-    english: "tooth (ache) ",
+    german: "Wespe",
+    english: "wasp",
   },
   {
-    german: "Zahnarzt / Zahnarztin ",
-    english: "dentist ",
+    german: "Wunde",
+    english: "wound",
   },
   {
-    german: "Zahnbürste ",
-    english: "toothbrush ",
+    german: "Zahn schmerzen",
+    english: "tooth ache",
   },
   {
-    german: "Zahnpasta ",
-    english: "toothpaste ",
+    german: "Zahnarzt",
+    english: "dentist",
   },
   {
-    german: "Anfänger ",
-    english: "beginner ",
+    german: "Zahnbürste",
+    english: "toothbrush",
   },
   {
-    german: "bluten ",
-    english: "to bleed ",
+    german: "Zahnpasta",
+    english: "toothpaste",
   },
   {
-    german: "Blutprobe ",
-    english: "blood test ",
+    german: "Anfänger",
+    english: "beginner",
   },
   {
-    german: "brennen ",
-    english: "to burn ",
+    german: "bluten",
+    english: "to bleed",
   },
   {
-    german: "Brust ",
-    english: "chest ",
+    german: "Blutprobe",
+    english: "blood test",
   },
   {
-    german: "Chirurg(in) ",
-    english: "surgeon ",
+    german: "brennen",
+    english: "to burn",
   },
   {
-    german: "Durchfall ",
-    english: "diarrhoea ",
+    german: "Brust",
+    english: "chest",
   },
   {
-    german: "Ellbogen ",
-    english: "elbow ",
+    german: "Chirurg",
+    english: "surgeon",
   },
   {
-    german: "erbrechen (sich) ",
-    english: "to be sick ",
+    german: "Durchfall",
+    english: "diarrhoea",
   },
   {
-    german: "Ereignis ",
-    english: "event ",
+    german: "Ellbogen",
+    english: "elbow",
   },
   {
-    german: "Erfolg ",
-    english: "success ",
+    german: "erbrechen",
+    english: "vomit",
   },
   {
-    german: "Ergebnis ",
-    english: "result / score ",
+    german: "Ereignis",
+    english: "event",
   },
   {
-    german: "erhalten ",
-    english: "to receive ",
+    german: "Erfolg",
+    english: "success",
   },
   {
-    german: "erholen (sich) ",
-    english: "to recover / get better ",
+    german: "Ergebnis",
+    english: "result",
   },
   {
-    german: "Erleichterung ",
-    english: "relief ",
+    german: "erhalten",
+    english: "to receive",
   },
   {
-    german: "erreichen ",
-    english: "to reach / catch ",
+    german: "erholen",
+    english: "to recover, get better",
   },
   {
-    german: "erste Hilfe ",
-    english: "first aid ",
+    german: "Erleichterung",
+    english: "relief",
   },
   {
-    german: "fangen ",
-    english: "to catch ",
+    german: "erreichen",
+    english: "to reach, achieve",
   },
   {
-    german: "Fußgelenk ",
-    english: "ankle ",
+    german: "erste Hilfe",
+    english: "first aid",
   },
   {
-    german: "Gehirn ",
-    english: "brain ",
+    german: "fangen",
+    english: "to catch",
   },
   {
-    german: "Geruch ",
-    english: "smell ",
+    german: "Fußgelenk",
+    english: "ankle",
   },
   {
-    german: "geschwollen ",
-    english: "swollen ",
+    german: "Gehirn",
+    english: "brain",
   },
   {
-    german: "Gips(verband) ",
-    english: "plaster ",
+    german: "Geruch",
+    english: "smell",
   },
   {
-    german: "Glatze ",
-    english: "bald patch ",
+    german: "geschwollen",
+    english: "swollen",
   },
   {
-    german: "Handgelenk ",
-    english: "wrist ",
+    german: "Gips",
+    english: "plaster",
   },
   {
-    german: "Haut ",
-    english: "skin ",
+    german: "Glatze",
+    english: "bald patch",
   },
   {
-    german: "heben ",
-    english: "to lift / raise ",
+    german: "Handgelenk",
+    english: "wrist",
   },
   {
-    german: "Heimweh ",
-    english: "homesickness ",
+    german: "Haut",
+    english: "skin",
   },
   {
-    german: "Helm ",
-    english: "helmet ",
+    german: "heben",
+    english: "to lift",
   },
   {
-    german: "Heuschnupfen ",
-    english: "hay fever ",
+    german: "Heimweh",
+    english: "homesickness",
   },
   {
-    german: "Höhe ",
-    english: "height ",
+    german: "Helm",
+    english: "helmet",
   },
   {
-    german: "Höhle ",
-    english: "cave ",
+    german: "Heuschnupfen",
+    english: "hay fever",
   },
   {
-    german: "Hustensaft ",
-    english: "cough mixture ",
+    german: "Höhe",
+    english: "height",
   },
   {
-    german: "jagen ",
-    english: "to hunt ",
+    german: "Höhle",
+    english: "cave",
   },
   {
-    german: "Kinn ",
-    english: "chin ",
+    german: "Hustensaft",
+    english: "cough mixture",
   },
   {
-    german: "Knochen ",
-    english: "bone ",
+    german: "jagen",
+    english: "to hunt",
   },
   {
-    german: "leiden ",
-    english: "to suffer ",
+    german: "Kinn",
+    english: "chin",
   },
   {
-    german: "Magenverstimmung ",
-    english: "stomach upset ",
+    german: "Knochen",
+    english: "bone",
   },
   {
-    german: "Meister(schaft) ",
-    english: "champion(ship) ",
+    german: "leiden",
+    english: "to suffer",
   },
   {
-    german: "Menge (Menschenmenge) ",
-    english: "quantity (crowd) ",
+    german: "Magenverstimmung",
+    english: "stomach upset",
   },
   {
-    german: "Messen ",
-    english: "to measure ",
+    german: "Meister",
+    english: "champion",
   },
   {
-    german: "nackt ",
-    english: "naked ",
+    german: "Menge",
+    english: "quantity",
   },
   {
-    german: "Pfeil ",
-    english: "arrow ",
+    german: "Messen",
+    english: "to measure",
   },
   {
-    german: "pflegen ",
-    english: "to look after (patient) ",
+    german: "nackt",
+    english: "naked",
   },
   {
-    german: "Pokal ",
-    english: "cup (trophy) ",
+    german: "Pfeil",
+    english: "arrow",
   },
   {
-    german: "Röntgenbild ",
-    english: "x-ray ",
+    german: "pflegen",
+    english: "maintain",
   },
   {
-    german: "Salbe ",
-    english: "cream / ointment ",
+    german: "Pokal",
+    english: "cup",
   },
   {
-    german: "schaden ",
+    german: "Röntgenbild",
+    english: "x-ray",
+  },
+  {
+    german: "Salbe",
+    english: "cream",
+  },
+  {
+    german: "schaden",
     english: "to do harm",
   },
   {
-    german: "Schaden ",
+    german: "Schaden",
     english: "damage",
   },
   {
-    german: " Schiedsrichter ",
-    english: "referee ",
+    german: "Schiedsrichter",
+    english: "referee",
   },
   {
-    german: "schlucken ",
-    english: "to swallow ",
+    german: "schlucken",
+    english: "to swallow",
   },
   {
-    german: "Sieg ",
-    english: "win / victory ",
+    german: "Sieg",
+    english: "win",
   },
   {
-    german: "Sonnenstich ",
-    english: "sun stroke ",
+    german: "Sonnenstich",
+    english: "sun stroke",
   },
   {
-    german: "Sorge (sich Sorgen machen) ",
-    english: "worry (to worry) ",
+    german: "Sorge",
+    english: "worry",
   },
   {
-    german: "sorgen fur ",
-    english: "to look after ",
+    german: "sich Sorgen machen",
+    english: "to worry",
   },
   {
-    german: "Spritze ",
-    english: "injection ",
+    german: "sorgen fur",
+    english: "to look after",
   },
   {
-    german: "tauchen ",
-    english: "to dive ",
+    german: "Spritze",
+    english: "injection",
   },
   {
-    german: "teilnehmen ",
-    english: "to take part ",
+    german: "tauchen",
+    english: "to dive",
   },
   {
-    german: "Turnier ",
-    english: "tournament ",
+    german: "teilnehmen",
+    english: "to take part",
   },
   {
-    german: "übergeben (sich) ",
-    english: "to be sick ",
+    german: "Turnier",
+    english: "tournament",
   },
   {
-    german: "unentschieden ",
-    english: "undecided / drawn (match) ",
+    german: "übergeben",
+    english: "to be sick",
   },
   {
-    german: "untersuchen ",
-    english: "to examine (patient) ",
+    german: "unentschieden",
+    english: "undecided",
   },
   {
-    german: "Verband ",
-    english: "bandage ",
+    german: "untersuchen",
+    english: "to examine",
   },
   {
-    german: "verstauchen (sich) ",
-    english: "to sprain ",
+    german: "Verband",
+    english: "bandage",
   },
   {
-    german: "verstopft ",
-    english: "constipated ",
+    german: "verstauchen",
+    english: "to sprain",
   },
   {
-    german: "Wange ",
-    english: "cheek ",
+    german: "verstopft",
+    english: "constipated",
   },
   {
-    german: "Wettbewerb ",
-    english: "competition ",
+    german: "Wange",
+    english: "cheek",
   },
   {
-    german: "Wettkampf ",
-    english: "competition ",
+    german: "Wettbewerb",
+    english: "competition",
   },
   {
-    german: "Zeh ",
-    english: "toe ",
+    german: "Wettkampf",
+    english: "competition",
   },
   {
-    german: "Zunge ",
-    english: "tongue ",
+    german: "Zeh",
+    english: "toe",
+  },
+  {
+    german: "Zunge",
+    english: "tongue",
+  },
+  {
+    german: "den Sport",
+    english: "the sport",
+  },
+  {
+    german: "das Bergsteigen",
+    english: "mountaineering",
+  },
+  {
+    german: "der Amateur",
+    english: "the amateur",
+  },
+  {
+    german: "der Schiedsrichter",
+    english: "the arbitrator",
+  },
+  {
+    german: "der Athlet",
+    english: "the athlete",
+  },
+  {
+    german: "das Ruder",
+    english: "the rowing",
+  },
+  {
+    german: "das Aufwärmen",
+    english: "the warm-up",
+  },
+  {
+    german: "die Prüfung",
+    english: "the test",
+  },
+  {
+    german: "die Mannschaft",
+    english: "the team",
+  },
+  {
+    german: "das Reiten",
+    english: "horse riding",
+  },
+  {
+    german: "die Eskalation",
+    english: "rock climbing",
+  },
+  {
+    german: "das Fechten",
+    english: "the fencing",
+  },
+  {
+    german: "das Gewichtheben",
+    english: "weightlifting",
+  },
+  {
+    german: "die Ausbildung",
+    english: "the training",
+  },
+  {
+    german: "der Trainer",
+    english: "the coach",
+  },
+  {
+    german: "das Boxen",
+    english: "the boxing",
+  },
+  {
+    german: "die Konkurrenz",
+    english: "the competition",
+  },
+  {
+    german: "den Schnitt",
+    english: "the cut",
+  },
+  {
+    german: "die Weltmeisterschaft",
+    english: "the World Cup",
+  },
+  {
+    german: "das Laufen",
+    english: "the running",
+  },
+  {
+    german: "das Autorennen",
+    english: "the car race",
+  },
+  {
+    german: "der Wettlauf mit der Zeit",
+    english: "the race against the clock",
+  },
+  {
+    german: "das Pferderennen",
+    english: "the horse race",
+  },
+  {
+    german: "das Autorennen",
+    english: "car racing",
+  },
+  {
+    german: "der Hockeyschläger",
+    english: "hockey",
+  },
+  {
+    german: "die Niederlage",
+    english: "the defeat",
+  },
+  {
+    german: "das Finale",
+    english: "the final",
+  },
+  {
+    german: "die Gymnastik",
+    english: "the gymnastics",
+  },
+  {
+    german: "die Ziellinie",
+    english: "the finish line",
+  },
+  {
+    german: "den Kampf",
+    english: "the struggle",
+  },
+  {
+    german: "die Medaille",
+    english: "the medal",
+  },
+  {
+    german: "die Halbzeit",
+    english: "the half-time",
+  },
+  {
+    german: "das Krafttraining",
+    english: "the bodybuilding",
+  },
+  {
+    german: "das Schwimmen",
+    english: "the swimming",
+  },
+  {
+    german: "die Pause",
+    english: "the break",
+  },
+  {
+    german: "der Stabhochsprung",
+    english: "the pole jump",
+  },
+  {
+    german: "die Skipiste",
+    english: "the ski slope",
+  },
+  {
+    german: "das Windsurfbrett",
+    english: "the windsurfing",
+  },
+  {
+    german: "das Surfbrett",
+    english: "the surfboard",
+  },
+  {
+    german: "das Tauchen",
+    english: "scuba diving",
+  },
+  {
+    german: "der Schläger",
+    english: "the racket",
+  },
+  {
+    german: "die Höhlenforschung",
+    english: "the speleology",
+  },
+  {
+    german: "der Sieg",
+    english: "the victory",
+  },
+  {
+    german: "das Segel",
+    english: "the sail",
+  },
+  {
+    german: "das Badminton",
+    english: "the badminton",
+  },
+  {
+    german: "der Baseball",
+    english: "the baseball",
+  },
+  {
+    german: "der Basketball",
+    english: "basketball",
+  },
+  {
+    german: "den Helm",
+    english: "the helmet",
+  },
+  {
+    german: "der Reiter",
+    english: "the rider",
+  },
+  {
+    german: "die Rennbahn",
+    english: "the racetrack",
+  },
+  {
+    german: "der Champion",
+    english: "the champion",
+  },
+  {
+    german: "die Meisterschaft",
+    english: "the championship",
+  },
+  {
+    german: "die Stoppuhr",
+    english: "the stopwatch",
+  },
+  {
+    german: "der Golfklub",
+    english: "the golf club",
+  },
+  {
+    german: "der Partner",
+    english: "the teammate",
+  },
+  {
+    german: "der Konkurrent",
+    english: "the competitor",
+  },
+  {
+    german: "der Gegner",
+    english: "the opponent",
+  },
+  {
+    german: "das Kricket",
+    english: "the cricket",
+  },
+  {
+    german: "das Curling",
+    english: "curling",
+  },
+  {
+    german: "das Radfahren",
+    english: "cycling",
+  },
+  {
+    german: "der Anfänger",
+    english: "the beginner",
+  },
+  {
+    german: "das Netz",
+    english: "the net",
+  },
+  {
+    german: "der Fußball",
+    english: "football",
+  },
+  {
+    german: "der Gewinner",
+    english: "the winner",
+  },
+  {
+    german: "der Torwart",
+    english: "the goalie",
+  },
+  {
+    german: "das Golf",
+    english: "the golf",
+  },
+  {
+    german: "das Handball",
+    english: "the handball",
+  },
+  {
+    german: "das Eishockey",
+    english: "ice hockey",
+  },
+  {
+    german: "das Spiel",
+    english: "the game",
+  },
+  {
+    german: "das Jogging",
+    english: "the jogging",
+  },
+  {
+    german: "der Spieler",
+    english: "the player",
+  },
+  {
+    german: "das Judo",
+    english: "the judo",
+  },
+  {
+    german: "der Marathon",
+    english: "the marathon",
+  },
+  {
+    german: "das Moto-Cross",
+    english: "the motocross",
+  },
+  {
+    german: "der Korb",
+    english: "the basket",
+  },
+  {
+    german: "der Gleitschirm",
+    english: "the paragliding",
+  },
+  {
+    german: "der Eiskunstlauf",
+    english: "figure skating",
+  },
+  {
+    german: "das Polo",
+    english: "the polo",
+  },
+  {
+    german: "der Preis",
+    english: "the price",
+  },
+  {
+    german: "der Gewerbetreibende",
+    english: "the professional",
+  },
+  {
+    german: "der Weltrekord",
+    english: "the world record",
+  },
+  {
+    german: "der Roller",
+    english: "the roller",
+  },
+  {
+    german: "das Rugby",
+    english: "the rugby",
+  },
+  {
+    german: "der Sprung in Ski",
+    english: "the ski jump",
+  },
+  {
+    german: "der Hochsprung",
+    english: "the high jump",
+  },
+  {
+    german: "der Weitsprung",
+    english: "the long jump",
+  },
+  {
+    german: "das Skilaufen",
+    english: "the ski",
+  },
+  {
+    german: "alpiner Skilauf",
+    english: "alpine skiing",
+  },
+  {
+    german: "der Langlauf",
+    english: "cross-country skiing",
+  },
+  {
+    german: "der Snowboard",
+    english: "the snowboard",
+  },
+  {
+    german: "der Zuschauer",
+    english: "the spectator",
+  },
+  {
+    german: "der Sportler",
+    english: "the sportsman",
+  },
+  {
+    german: "die Sportlerin",
+    english: "the sportswoman",
+  },
+  {
+    german: "das Stadion",
+    english: "the stadium",
+  },
+  {
+    german: "der Erfolg",
+    english: "the success",
+  },
+  {
+    german: "der Anhänger",
+    english: "bear it",
+  },
+  {
+    german: "das Surfen",
+    english: "the surf",
+  },
+  {
+    german: "das Tennis",
+    english: "tennis",
+  },
+  {
+    german: "das Tischtennis",
+    english: "table tennis",
+  },
+  {
+    german: "der Golfplatz",
+    english: "the golf course",
+  },
+  {
+    german: "Bogenschießen",
+    english: "the shot has the bow",
+  },
+  {
+    german: "Sportschießen",
+    english: "sports shooting",
+  },
+  {
+    german: "das Turnier",
+    english: "the tournament",
+  },
+  {
+    german: "die Trophäe",
+    english: "the trophy",
+  },
+  {
+    german: "die Umkleide",
+    english: "the locker room",
+  },
+  {
+    german: "der Volleyball",
+    english: "volleyball",
+  },
+  {
+    german: "der Wasserball",
+    english: "the water polo",
+  },
+  {
+    german: "der Sportschuh",
+    english: "sports shoes",
+  },
+  {
+    german: "die Boxhandschuhe",
+    english: "the boxing gloves",
+  },
+  {
+    german: "die Knieschützer",
+    english: "the knee pads",
+  },
+  {
+    german: "die Hanteln",
+    english: "the dumbbells",
+  },
+  {
+    german: "die Olympischen Spiele",
+    english: "the Olympic Games",
+  },
+  {
+    german: "die Regeln",
+    english: "the rules",
+  },
+  {
+    german: "applaudieren",
+    english: "to applaud",
+  },
+  {
+    german: "schlagen",
+    english: "to beat",
+  },
+  {
+    german: "einen Rekord brechen",
+    english: "to beat a record",
+  },
+  {
+    german: "starten",
+    english: "to start",
+  },
+  {
+    german: "überholen, überholen",
+    english: "to overtake",
+  },
+  {
+    german: "egalisieren",
+    english: "to equalize",
+  },
+  {
+    german: "sich bewegen",
+    english: "to exercise",
+  },
+  {
+    german: "Muskeltraining machen",
+    english: "do weight training",
+  },
+  {
+    german: "dehnen",
+    english: "to stretch",
+  },
+  {
+    german: "joggen",
+    english: "to jog",
+  },
+  {
+    german: "Schlittschuhlaufen",
+    english: "to do ice-skating",
+  },
+  {
+    german: "Sport treiben",
+    english: "to do sport",
+  },
+  {
+    german: "unentschieden spielen, unentschieden sein",
+    english: "draw, tie",
+  },
+  {
+    german: "gewinnen",
+    english: "to win",
+  },
+  {
+    german: "klettern",
+    english: "to climb",
+  },
+  {
+    german: "Golf spielen",
+    english: "to play golf",
+  },
+  {
+    german: "werfen",
+    english: "to throw",
+  },
+  {
+    german: "ins Tor treffen",
+    english: "to score a goal",
+  },
+  {
+    german: "einen Punkt erzielen",
+    english: "to score a point",
+  },
+  {
+    german: "führen",
+    english: "to lead",
+  },
+  {
+    german: "reiten",
+    english: "to ride a horse",
+  },
+  {
+    german: "schwimmen",
+    english: "to swim",
+  },
+  {
+    german: "verlieren",
+    english: "to lose",
+  },
+  {
+    german: "fit werden",
+    english: "to get fit",
+  },
+  {
+    german: "sich aufwärmen",
+    english: "to warm up",
+  },
+  {
+    german: "trainieren",
+    english: "to practice, to train",
+  },
+  {
+    german: "springen",
+    english: "to jump",
+  },
+  {
+    german: "dienen",
+    english: "to serve",
   },
 ];

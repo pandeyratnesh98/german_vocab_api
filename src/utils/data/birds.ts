@@ -128,8 +128,8 @@ export default [
     english: "the cuckoo clock",
   },
   {
-    german: "der Turmfalke (Falke)",
-    english: "the kestrel (falcon)",
+    german: "der Turmfalke",
+    english: "the kestrel",
   },
   {
     german: "der Schwan",
@@ -158,6 +158,10 @@ export default [
   {
     german: "die Eule / der Kauz",
     english: "the owl/ the owl",
+  },
+  {
+    german: "der Kauz",
+    english: "the codger",
   },
   {
     german: "der Kiwi",

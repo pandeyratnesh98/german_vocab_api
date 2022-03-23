@@ -9,7 +9,7 @@ export default [
   },
   {
     german: "günstig, billig",
-    english: "cheap/ not expensive",
+    english: "cheap, not expensive",
   },
   {
     german: "teuer",
@@ -53,7 +53,7 @@ export default [
   },
   {
     german: "den Kontoauszug",
-    english: "the bank statement, the account statement",
+    english: "the bank statement",
   },
   {
     german: "die Banküberweisung",
@@ -68,8 +68,8 @@ export default [
     english: "the blank cheque",
   },
   {
-    german: "die Kassiererin, der Kassierer",
-    english: "the cashier, the cashier",
+    german: "die Kassiererin",
+    english: "the cashier",
   },
   {
     german: "der Scheck",
@@ -101,7 +101,7 @@ export default [
   },
   {
     german: "die Währung",
-    english: "the currency, the currency",
+    english: "the currency",
   },
   {
     german: "die Schuld",
@@ -156,8 +156,12 @@ export default [
     english: "the interest rate",
   },
   {
-    german: "das Darlehen, die Anleihe",
-    english: "the loan, the loan",
+    german: "das Darlehen",
+    english: "the bond, borrow",
+  },
+  {
+    german: "die Anleihe",
+    english: "the loan",
   },
   {
     german: "das Zahlungsmittel",
@@ -176,8 +180,8 @@ export default [
     english: "the private bank",
   },
   {
-    german: "den Satz, den Tarif",
-    english: "the rate, the tariff",
+    german: "den Satz",
+    english: "the rate",
   },
   {
     german: "die Hypothek",
@@ -236,10 +240,6 @@ export default [
     english: "the vending machine",
   },
   {
-    german: "NÜTZLICHE VERBEN",
-    english: "USEFUL VERBS",
-  },
-  {
     german: "um ein Darlehen bitten",
     english: "to apply for a loan",
   },
@@ -268,12 +268,16 @@ export default [
     english: "to buy on credit",
   },
   {
-    german: "Scheck einlösen / Geld kassieren",
+    german: "Scheck einlösen",
     english: "to cash a cheque",
   },
   {
-    german: "Geld wechseln (in Euro)",
-    english: "to change money (into Euros)",
+    german: "Geld kassieren",
+    english: "to Collect money",
+  },
+  {
+    german: "Geld wechseln",
+    english: "to change money",
   },
   {
     german: "in Rechnung stellen",
@@ -324,8 +328,12 @@ export default [
     english: "to save",
   },
   {
-    german: "an der Börse spielen, spekulieren",
-    english: "to speculate, gamble",
+    german: "an der Börse spielen",
+    english: "play the stock market",
+  },
+  {
+    german: "spekulieren",
+    english: "to speculate",
   },
   {
     german: "ausgeben",

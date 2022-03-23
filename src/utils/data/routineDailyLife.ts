@@ -24,8 +24,12 @@ export default [
     english: "to chat",
   },
   {
-    german: "aus der Schule/ aus der Arbeit zurückkehre",
-    english: "to come back from school/work",
+    german: "aus der Schule",
+    english: "from school",
+  },
+  {
+    german: "aus der Arbeit zurückkehre",
+    english: "return from work",
   },
   {
     german: "tanzen",
@@ -76,8 +80,8 @@ export default [
     english: "to fall asleep",
   },
   {
-    german: "Füttern der Katze/ des Hundes",
-    english: "to feed the cat/dog",
+    german: "Füttern der Katze",
+    english: "to feed the cat",
   },
   {
     german: "sich anziehen",
@@ -101,7 +105,7 @@ export default [
   },
   {
     german: "in einen Club gehen",
-    english: "to go to the disco/nightclub",
+    english: "to go to the disco, nightclub",
   },
   {
     german: "ins Fitnessstudio gehen",
@@ -120,8 +124,8 @@ export default [
     english: "to groom oneself",
   },
   {
-    german: "Kaffee/Soda trinken",
-    english: "to have a coffee/soda",
+    german: "Kaffee trinken",
+    english: "to have a coffee",
   },
   {
     german: "ausschlafen",
@@ -176,7 +180,7 @@ export default [
     english: "to make the bed",
   },
   {
-    german: "Freunde treffen/treffen",
+    german: "Freunde treffen",
     english: "to meet friends",
   },
 ];

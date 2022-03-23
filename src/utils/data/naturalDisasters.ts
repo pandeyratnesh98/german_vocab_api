@@ -333,7 +333,7 @@ export default [
   },
   {
     german: "verhungern",
-    english: "to die of hunger, to starve to death",
+    english: "to die of hunger, to starve",
   },
   {
     german: "dürren",
@@ -360,8 +360,12 @@ export default [
     english: "to reach safety",
   },
   {
-    german: "Hilfe bringen, Hilfe holen",
-    english: "to rescue",
+    german: "Hilfe bringen",
+    english: "bring help",
+  },
+  {
+    german: "Hilfe holen",
+    english: "get help",
   },
   {
     german: "Hilfe leisten",
@@ -376,11 +380,11 @@ export default [
     english: "to suffer from famine",
   },
   {
-    german: "mitnehmen, fegen",
-    english: "to sweep away",
+    german: "fegen",
+    english: "to sweep",
   },
   {
     german: "flüchten",
-    english: "to take refuge",
+    english: "flee, escape",
   },
 ];

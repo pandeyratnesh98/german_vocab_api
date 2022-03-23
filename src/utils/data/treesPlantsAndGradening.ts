@@ -165,7 +165,7 @@ export default [
   },
   {
     german: "Kartoffeln",
-    english: "the potato, the potato",
+    english: "the potato",
   },
   {
     german: "Der Rasen",

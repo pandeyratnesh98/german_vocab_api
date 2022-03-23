@@ -4,11 +4,7 @@ export default [
     english: "cheap",
   },
   {
-    german: "teuer",
-    english: "expensive, expensive",
-  },
-  {
-    german: "kostspielig",
+    german: "teuer, kostspielig",
     english: "expensive",
   },
   {
@@ -36,12 +32,20 @@ export default [
     english: "the asset",
   },
   {
-    german: "das Geschäft (der richtige Preis)",
-    english: "the deal (the right price)",
+    german: "das Geschäft",
+    english: "the deal",
   },
   {
-    german: "die Agentur, die Zweigniederlassung",
-    english: "the agency, the branch",
+    german: "der richtige Preis",
+    english: "the right price",
+  },
+  {
+    german: "die Agentur",
+    english: "the agency",
+  },
+  {
+    german: "die Zweigniederlassung",
+    english: "the branch",
   },
   {
     german: "die Werbeanzeige",
@@ -104,8 +108,12 @@ export default [
     english: "the contractor",
   },
   {
-    german: "das Unternehmen, die Firma",
-    english: "the company, the firm",
+    german: "das Unternehmen",
+    english: "the company",
+  },
+  {
+    german: "die Firma",
+    english: "the firm",
   },
   {
     german: "die Ausrüstung",
@@ -144,8 +152,8 @@ export default [
     english: "the export",
   },
   {
-    german: "die Handelsmesse, die Handelsmesse,",
-    english: "commercial exhibition, trade fair",
+    german: "die Handelsmesse",
+    english: "trade fair",
   },
   {
     german: "das Hemd",
@@ -161,7 +169,7 @@ export default [
   },
   {
     german: "der nachteil",
-    english: "the disadvantage/ the disadvantage",
+    english: "the disadvantage",
   },
   {
     german: "die Industrie",
@@ -188,8 +196,12 @@ export default [
     english: "the agenda",
   },
   {
-    german: "Vermögenswert (in der Buchführung)",
-    english: "the asset (in accounting)",
+    german: "Vermögenswert",
+    english: "the asset",
+  },
+  {
+    german: "in der Buchführung",
+    english: "in accounting",
   },
   {
     german: "die Verpackung",
@@ -320,8 +332,12 @@ export default [
     english: "the increase",
   },
   {
-    german: "Das Ideenlabor, die Reflexionsgruppe",
-    english: "the idea lab, the think tank",
+    german: "Das Ideenlabor",
+    english: "the idea lab",
+  },
+  {
+    german: "die Reflexionsgruppe",
+    english: "the reflection group",
   },
   {
     german: "die Lieferung",
@@ -360,8 +376,8 @@ export default [
     english: "the appointment",
   },
   {
-    german: "die Rechnung, die Rechnung (zahlbar)",
-    english: "the bill, the invoice (to be paid)",
+    german: "die Rechnung",
+    english: "the bill, the invoice",
   },
   {
     german: "das Angebot",
@@ -376,8 +392,12 @@ export default [
     english: "the market share",
   },
   {
-    german: "die Strafe, die Verurteilung",
-    english: "the sentence",
+    german: "die Strafe",
+    english: "the Penalty",
+  },
+  {
+    german: "die Verurteilung",
+    english: "the sentence, the conviction",
   },
   {
     german: "der Verlust",
@@ -404,8 +424,12 @@ export default [
     english: "sales promotion",
   },
   {
-    german: "Reduktion, Senkung, Rabattierung",
-    english: "reduction, reduction, remission",
+    german: "Reduktion, Senkung",
+    english: "reduction, reduction",
+  },
+  {
+    german: "Rabattierung",
+    english: "Discounting",
   },
   {
     german: "die Referenz",
@@ -444,12 +468,12 @@ export default [
     english: "the company",
   },
   {
-    german: "die Gesellschaft mit beschränkter Haftung(Gmbh)",
-    english: "the limited liability company (SARL)",
+    german: "die Gesellschaft mit beschränkter Haftung",
+    english: "the limited liability company",
   },
   {
-    german: "die Aktiengesellschaft (SA)",
-    english: "the public limited company (SA)",
+    german: "die Aktiengesellschaft",
+    english: "the public limited company",
   },
   {
     german: "die Zweigniederlassung",
@@ -465,7 +489,7 @@ export default [
   },
   {
     german: "die Mehrwertsteuer",
-    english: "the VAT",
+    english: "the Value added tax",
   },
   {
     german: "der Verkauf",
@@ -621,7 +645,7 @@ export default [
   },
   {
     german: "die Abteilung",
-    english: "the department/ the department",
+    english: "the department",
   },
   {
     german: "der Einzelhändler",
@@ -685,7 +709,7 @@ export default [
   },
   {
     german: "der Geschäftsführer",
-    english: "the p.d.g.",
+    english: "the Managing Director",
   },
   {
     german: "die Zahlung",
@@ -716,8 +740,8 @@ export default [
     english: "the business plan",
   },
   {
-    german: "die Planung / der Zeitplan",
-    english: "the schedule/ the schedule",
+    german: "die Planung, der Zeitplan",
+    english: "the schedule",
   },
   {
     german: "die Verkaufsstelle",
@@ -756,8 +780,8 @@ export default [
     english: "sales quota",
   },
   {
-    german: "den Rabatt, den Rabatt",
-    english: "the discount, the discount",
+    german: "den Rabatt",
+    english: "the discount",
   },
   {
     german: "der Rückkauf",
@@ -856,10 +880,6 @@ export default [
     english: "the support",
   },
   {
-    german: "die Unterstützung, die Unterstützung",
-    english: "the support, the support",
-  },
-  {
     german: "das Statut",
     english: "the status",
   },
@@ -888,8 +908,12 @@ export default [
     english: "the Vice-president",
   },
   {
-    german: "das Volumen, die Menge",
-    english: "the volume, the quantity",
+    german: "das Volumen",
+    english: "the volume",
+  },
+  {
+    german: "die Menge",
+    english: "the quantity",
   },
   {
     german: "das Geschäft",
@@ -920,8 +944,12 @@ export default [
     english: "the general expenses",
   },
   {
-    german: "die Kosten, die Ausgaben",
-    english: "the costs, the expenses",
+    german: "die Kosten",
+    english: "the costs",
+  },
+  {
+    german: "die Ausgaben",
+    english: "the expenses",
   },
   {
     german: "die Gewinne",
@@ -961,8 +989,12 @@ export default [
     english: "to afford",
   },
   {
-    german: "genehmigen, ratifizieren",
+    german: "genehmigen",
     english: "to approve",
+  },
+  {
+    german: "ratifizieren",
+    english: "to ratify",
   },
   {
     german: "Prüfung der Rechnungslegung, Rechnungsprüfung",
@@ -973,8 +1005,12 @@ export default [
     english: "to be broke",
   },
   {
-    german: "im roten Bereich liegen, defizitär sein",
+    german: "im roten Bereich liegen",
     english: "to be in the red",
+  },
+  {
+    german: "defizitär sein",
+    english: "be deficient",
   },
   {
     german: "leihen",
@@ -1017,12 +1053,16 @@ export default [
     english: "to conduct a survey",
   },
   {
-    german: "bestätigen, bestätigen",
+    german: "bestätigen",
     english: "to confirm",
   },
   {
-    german: "erwägen, prüfen, erwägen",
+    german: "erwägen",
     english: "to consider",
+  },
+  {
+    german: "prüfen",
+    english: "to check, examine",
   },
   {
     german: "überzeugen",
@@ -1033,7 +1073,7 @@ export default [
     english: "to cost",
   },
   {
-    german: "reduzieren, reduzieren",
+    german: "reduzieren",
     english: "to decrease",
   },
   {
@@ -1085,8 +1125,16 @@ export default [
     english: "to found a business",
   },
   {
-    german: "gründen, schaffen, errichten",
-    english: "to found, create, establish",
+    german: "gründen",
+    english: "to found",
+  },
+  {
+    german: "schaffen",
+    english: "create",
+  },
+  {
+    german: "errichten",
+    english: "establish",
   },
   {
     german: "finanzieren",
@@ -1169,12 +1217,20 @@ export default [
     english: "to organize",
   },
   {
-    german: "Verpflichtung, Geld zu zahlen",
-    english: "to owe money to...",
+    german: "Verpflichtung",
+    english: "Commitment",
+  },
+  {
+    german: "Geld zu zahlen",
+    english: "Money to pay",
   },
   {
     german: "besitzen, Eigentümer sein",
     english: "to own",
+  },
+  {
+    german: "Eigentümer sein",
+    english: "Be owner",
   },
   {
     german: "bezahlen",
@@ -1193,8 +1249,12 @@ export default [
     english: "to plan",
   },
   {
-    german: "Bearbeitung, Vorgehen",
+    german: "Bearbeitung",
     english: "to process",
+  },
+  {
+    german: "Vorgehen",
+    english: "Procedure",
   },
   {
     german: "erzeugen",
@@ -1214,7 +1274,7 @@ export default [
   },
   {
     german: "kaufen",
-    english: "to purchase / to buy",
+    english: "to purchase, to buy",
   },
   {
     german: "erreichen",
@@ -1225,8 +1285,12 @@ export default [
     english: "to recall products",
   },
   {
-    german: "rekrutieren, einstellen",
+    german: "rekrutieren",
     english: "to recruit",
+  },
+  {
+    german: "einstellen",
+    english: "adjust, set",
   },
   {
     german: "verringern, reduzieren",
@@ -1241,7 +1305,7 @@ export default [
     english: "to sell",
   },
   {
-    german: "versenden, versenden",
+    german: "versenden",
     english: "to ship",
   },
   {

@@ -12,8 +12,8 @@ export default [
     english: "on foot",
   },
   {
-    german: "mit Fahrrad/Fahrrad",
-    english: "By bike/bicycle",
+    german: "mit Fahrrad",
+    english: "By bike, bicycle",
   },
   {
     german: "annulliert",
@@ -28,8 +28,8 @@ export default [
     english: "by boat",
   },
   {
-    german: "per Bus/Bus",
-    english: "by bus/bus",
+    german: "per Bus",
+    english: "by bus",
   },
 
   {
@@ -81,8 +81,12 @@ export default [
     english: "the youth hostel",
   },
   {
-    german: "der Einheimische/Einwohner",
-    english: "the native/ the inhabitant",
+    german: "der Einheimische",
+    english: "the native",
+  },
+  {
+    german: "Einwohner",
+    english: "inhabitant",
   },
   {
     german: "das Einsteigen",
@@ -129,8 +133,12 @@ export default [
     english: "the duty free shop",
   },
   {
-    german: "Die Broschüre / das Faltblatt",
-    english: "the brochure/ leaflet",
+    german: "Die Broschüre",
+    english: "the brochure",
+  },
+  {
+    german: "das Faltblatt",
+    english: "the leaflet",
   },
   {
     german: "die Landschaft",
@@ -213,8 +221,8 @@ export default [
     english: "the border",
   },
   {
-    german: "der Bahnhof (Zug)",
-    english: "the train station (train)",
+    german: "der Bahnhof",
+    english: "the train station",
   },
   {
     german: "der Busbahnhof",
@@ -265,8 +273,8 @@ export default [
     english: "the reception",
   },
   {
-    german: "die Beschwerde / Beschwerde",
-    english: "the complaint/ the complaint",
+    german: "die Beschwerde",
+    english: "the complaint",
   },
   {
     german: "die Reservierung",
@@ -277,8 +285,12 @@ export default [
     english: "the bag",
   },
   {
-    german: "die Hoch/Tief Saison",
-    english: "high/low season",
+    german: "die Hoch",
+    english: "high",
+  },
+  {
+    german: "Tief Saison",
+    english: "low season",
   },
   {
     german: "die Fremdenverkehrssaison",
@@ -309,8 +321,12 @@ export default [
     english: "the guided tour",
   },
   {
-    german: "das Gepäck / der Koffer",
-    english: "the luggage/ the suitcase",
+    german: "das Gepäck",
+    english: "the luggagee",
+  },
+  {
+    german: "der Koffer",
+    english: "the suitcase",
   },
   {
     german: "das Schiff",
@@ -325,8 +341,8 @@ export default [
     english: "the ticket",
   },
   {
-    german: "das Los/das Los",
-    english: "the ticket/ the ticket",
+    german: "das Los",
+    english: "the ticket",
   },
   {
     german: "das Rückfahrticket",
@@ -353,8 +369,12 @@ export default [
     english: "the camping",
   },
   {
-    german: "das Tagebuch/das Reisetagebuch",
-    english: "the travel diary/diary",
+    german: "das Tagebuch",
+    english: "the diary",
+  },
+  {
+    german: "das Reisetagebuch",
+    english: "the travel diary",
   },
   {
     german: "der Kunde",
@@ -405,16 +425,12 @@ export default [
     english: "the time zone",
   },
   {
-    german: "der Schalter, die Kasse",
-    english: "the box office, the box office",
-  },
-  {
     german: "der Gesprächsleitfaden",
     english: "the conversation guide",
   },
   {
-    german: "der Reiseführer (Buch)",
-    english: "the travel guide (book)",
+    german: "der Reiseführer",
+    english: "the travel guide",
   },
   {
     german: "am Feiertag",
@@ -442,7 +458,7 @@ export default [
   },
   {
     german: "der Passagier",
-    english: "the passenger/ the passenger",
+    english: "the passenger",
   },
   {
     german: "der Pass",
@@ -457,8 +473,12 @@ export default [
     english: "the tourist trap",
   },
   {
-    german: "das Deck (auf einem Boot)",
-    english: "the deck (on a boat)",
+    german: "das Deck",
+    english: "the deck",
+  },
+  {
+    german: "auf einem Boot",
+    english: "on a boat",
   },
   {
     german: "der Hafen",
@@ -497,8 +517,12 @@ export default [
     english: "the travel bag",
   },
   {
-    german: "der unverzichtbare touristische Ort/Anziehungspunkt",
-    english: "the must-see tourist site/attraction",
+    german: "der unverzichtbare touristische Ort",
+    english: "the must-see tourist site",
+  },
+  {
+    german: "Anziehungspunkt",
+    english: "attraction",
   },
   {
     german: "die Erinnerung",
@@ -537,8 +561,12 @@ export default [
     english: "the business trip",
   },
   {
-    german: "die organisierte Reise, die Strecke",
-    english: "the organized trip, the tour",
+    german: "die organisierte Reise",
+    english: "the organized trip",
+  },
+  {
+    german: "die Strecke",
+    english: "the route",
   },
   {
     german: "der Reisende",
@@ -549,8 +577,12 @@ export default [
     english: "the baggage",
   },
   {
-    german: "Banknoten / Münzen (Silber)",
-    english: "banknotes/ coins (silver)",
+    german: "Banknoten",
+    english: "banknotes",
+  },
+  {
+    german: "Münzen",
+    english: "coins",
   },
   {
     german: "die Reisedokumente",
@@ -593,8 +625,12 @@ export default [
     english: "the holidays",
   },
   {
-    german: "frei / verfügbar",
-    english: "free/ available",
+    german: "frei",
+    english: "free",
+  },
+  {
+    german: "verfügbar",
+    english: "available",
   },
   {
     german: "Wagennummer",
@@ -613,16 +649,20 @@ export default [
     english: "delayed",
   },
   {
-    german: "gegen Reservation / Reservation im Voraus",
-    english: "on reservation/ advance reservation required",
+    german: "gegen Reservation",
+    english: "on reservation",
+  },
+  {
+    german: "Reservation im Voraus",
+    english: "advance reservation required",
   },
   {
     german: "touristisch",
     english: "tourist",
   },
   {
-    german: "alles inklusive / alles inklusive",
-    english: "all included/ all included",
+    german: "alles inklusive",
+    english: "all included",
   },
   {
     german: "ankommen",
@@ -670,8 +710,12 @@ export default [
     english: "pay the hotel bill",
   },
   {
-    german: "planen/Ferien machen",
-    english: "plan/take a vacation",
+    german: "planen",
+    english: "plan",
+  },
+  {
+    german: "Ferien machen",
+    english: "take a vacation",
   },
   {
     german: "bestätigen",
@@ -682,8 +726,12 @@ export default [
     english: "depend on tourism",
   },
   {
-    german: "Mitfahren / Mitfahren im Auto",
-    english: "deposit/ accompany",
+    german: "Mitfahren",
+    english: "ride along",
+  },
+  {
+    german: "Mitfahren im Auto",
+    english: "Ride in the car",
   },
   {
     german: "Touristen sein",
@@ -747,7 +795,7 @@ export default [
   },
   {
     german: "weggehen, verlassen",
-    english: "leave, leave",
+    english: "leave",
   },
   {
     german: "leicht reisen",
@@ -766,8 +814,8 @@ export default [
     english: "plant the tent",
   },
   {
-    german: "registrieren/registrieren",
-    english: "register/make the record",
+    german: "registrieren",
+    english: "register",
   },
   {
     german: "sich entspannen",

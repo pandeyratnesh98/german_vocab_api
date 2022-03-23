@@ -32,10 +32,6 @@ export default [
     english: "ultraviolet light",
   },
   {
-    german: "trahlen",
-    english: "ultraviolette S",
-  },
-  {
     german: "Außerirdischer",
     english: "alien",
   },
@@ -182,6 +178,10 @@ export default [
   {
     german: "das Raumfahrzeug, die Raumfähre",
     english: "the space shuttle",
+  },
+  {
+    german: "das Raumfahrzeug",
+    english: "the spacecraft",
   },
   {
     german: "die Schifffahrt",
@@ -410,6 +410,10 @@ export default [
   {
     german: "die Aurora Borealis, Nordlicht",
     english: "the aurora borealis",
+  },
+  {
+    german: "Nordlicht",
+    english: "Northern Lights",
   },
   {
     german: "die Katastrophe",

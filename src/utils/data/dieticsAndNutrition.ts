@@ -1,10 +1,10 @@
 export default [
   {
-    german: "ein ausgeglichenes Regime ",
+    german: "ein ausgeglichenes Regime",
     english: "a balanced diet",
   },
   {
-    german: "der Krampf ",
+    german: "der Krampf",
     english: "a cramp",
   },
   {
@@ -16,11 +16,11 @@ export default [
     english: "absorption",
   },
   {
-    german: "der zugesetzte Zucker ",
+    german: "der zugesetzte Zucker",
     english: "added sugar",
   },
   {
-    german: "der Addiction, Sucht ",
+    german: "der Addiction, Sucht",
     english: "addiction",
   },
   {
@@ -28,19 +28,19 @@ export default [
     english: "afternoon tea",
   },
   {
-    german: "das Alter ",
+    german: "das Alter",
     english: "age",
   },
   {
-    german: "das alkoholische Getränk ",
+    german: "das alkoholische Getränk",
     english: "alcoholic drink",
   },
   {
-    german: "die Allergie ",
+    german: "die Allergie",
     english: "allergy",
   },
   {
-    german: "Aminosäuren ",
+    german: "Aminosäuren",
     english: "amino acids",
   },
   {
@@ -48,11 +48,11 @@ export default [
     english: "anti-inflammatory",
   },
   {
-    german: "Antioxidationsmittel ",
+    german: "Antioxidationsmittel",
     english: "antioxidant",
   },
   {
-    german: "der Appetit ",
+    german: "der Appetit",
     english: "appetite",
   },
   {
@@ -64,7 +64,7 @@ export default [
     english: "aspartame",
   },
   {
-    german: "der Automat ",
+    german: "der Automat",
     english: "automatic distributer",
   },
   {
@@ -72,19 +72,19 @@ export default [
     english: "bad habit",
   },
   {
-    german: "ausgeglichen ",
+    german: "ausgeglichen",
     english: "balanced",
   },
   {
-    german: "der Blutdruck ",
+    german: "der Blutdruck",
     english: "blood pressure",
   },
   {
-    german: "das Frühstück ",
+    german: "das Frühstück",
     english: "breakfast",
   },
   {
-    german: "die Butter ",
+    german: "die Butter",
     english: "butter",
   },
   {
@@ -92,11 +92,11 @@ export default [
     english: "caffeine",
   },
   {
-    german: "das Kalzium ",
+    german: "das Kalzium",
     english: "calcium",
   },
   {
-    german: "das Cholesterin ",
+    german: "das Cholesterin",
     english: "cholesterol",
   },
   {
@@ -104,11 +104,11 @@ export default [
     english: "creatine",
   },
   {
-    german: "das Milchprodukt ",
+    german: "das Milchprodukt",
     english: "dairy product",
   },
   {
-    german: "koffeinfreier Kaffee ",
+    german: "koffeinfreier Kaffee",
     english: "decaffeinated",
   },
   {
@@ -120,11 +120,11 @@ export default [
     english: "delicious",
   },
   {
-    german: "das Dessert ",
+    german: "das Dessert",
     english: "dessert",
   },
   {
-    german: "die Zuckerkrankheit ",
+    german: "die Zuckerkrankheit",
     english: "diabetes",
   },
   {
@@ -132,7 +132,7 @@ export default [
     english: "dietary fiber",
   },
   {
-    german: "getrocknet ",
+    german: "getrocknet",
     english: "dried",
   },
   {
@@ -140,12 +140,16 @@ export default [
     english: "eating disorder",
   },
   {
-    german: "ohne Fett ",
+    german: "ohne Fett",
     english: "fat free",
   },
   {
-    german: "die Nahrungsmittel / die Ernährung / Nahrung",
-    english: "food / diet ",
+    german: "die Ernährung",
+    english: "the diet ",
+  },
+  {
+    german: "die Nahrungsmittel, Nahrung",
+    english: "the food",
   },
   {
     german: "das Nahrungsgleichgewicht",
@@ -172,8 +176,12 @@ export default [
     english: "glycemia",
   },
   {
-    german: "die Haselnuss / die Nüsse ",
-    english: "hazelnut / walnuts",
+    german: "die Haselnuss",
+    english: "the hazelnut",
+  },
+  {
+    german: "die Nüsse ",
+    english: "the nuts",
   },
   {
     german: "die Gesundheit ",

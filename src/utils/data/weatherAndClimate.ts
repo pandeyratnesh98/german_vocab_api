@@ -161,7 +161,7 @@ export default [
   },
   {
     german: "die Hitzewelle",
-    english: "the heat wave, the heat wave",
+    english: "the heat wave",
   },
   {
     german: "die Hitze",
@@ -184,8 +184,12 @@ export default [
     english: "the light of the sun",
   },
   {
-    german: "das Wetter, die Wettervorhersagen",
-    english: "the weather, the weather forecast",
+    german: "das Wetter",
+    english: "the weather",
+  },
+  {
+    german: "die Wettervorhersagen",
+    english: "the weather forecast",
   },
   {
     german: "die Meteorologie",
@@ -421,7 +425,7 @@ export default [
   },
   {
     german: "erfrieren",
-    english: "to freeze / to frost",
+    english: "to freeze to frost",
   },
   {
     german: "hageln",
@@ -436,8 +440,8 @@ export default [
     english: "to rain",
   },
   {
-    german: "sich bedecken (die Zeit)",
-    english: "to cloud over",
+    german: "sich bedecken",
+    english: "cover oneself",
   },
   {
     german: "blasen",

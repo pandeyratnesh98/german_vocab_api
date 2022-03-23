@@ -124,7 +124,7 @@ export default [
     english: "cautious",
   },
   {
-    german: "verhaltensgestört, charakterlich",
+    german: "charakterlich",
     english: "character",
   },
   {
@@ -241,11 +241,7 @@ export default [
   },
   {
     german: "köstlich",
-    english: "delectable",
-  },
-  {
-    german: "köstlich",
-    english: "delicious, delicious",
+    english: "delicious",
   },
   {
     german: "demokratisch",
@@ -294,10 +290,6 @@ export default [
   {
     german: "wirkungsvoll",
     english: "effective",
-  },
-  {
-    german: "alt",
-    english: "elderly",
   },
   {
     german: "elektrisch",
@@ -360,7 +352,7 @@ export default [
     english: "faux_",
   },
   {
-    german: "ängstlich, ängstlich",
+    german: "ängstlich",
     english: "fearful",
   },
   {
@@ -772,8 +764,12 @@ export default [
     english: "precise",
   },
   {
-    german: "anmaßend, eingebildet",
+    german: "anmaßend",
     english: "pretentious",
+  },
+  {
+    german: "eingebildet",
+    english: "cocky, smug",
   },
   {
     german: "privat",
@@ -881,7 +877,7 @@ export default [
   },
   {
     german: "ernst",
-    english: "serious, serious",
+    english: "serious",
   },
   {
     german: "kurz",

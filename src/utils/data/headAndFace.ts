@@ -32,8 +32,8 @@ export default [
     english: "the cornea",
   },
   {
-    german: "der Zahn/die Zähne",
-    english: "the tooth/ the teeth",
+    german: "der Zahn",
+    english: "the tooth",
   },
   {
     german: "das Zahnfleisch",
@@ -190,10 +190,6 @@ export default [
   {
     german: "brünett",
     english: "brown",
-  },
-  {
-    german: "braun/rot",
-    english: "chestnut/ red colour",
   },
   {
     german: "kahl",
@@ -368,20 +364,12 @@ export default [
     english: "wide forehead",
   },
   {
-    german: "Die hervorstehende/hervorstehende S",
-    english: "prominent forehead",
-  },
-  {
-    german: "gebogen",
-    english: "arched eyebrows",
-  },
-  {
-    german: "buschig / mit Büscheln übersät",
-    english: "bushy eyebrows",
+    german: "Die hervorstehende",
+    english: "the prominent",
   },
   {
     german: "die feinen Augenbrauen",
-    english: "thin eyebrows",
+    english: "the fine eyebrows",
   },
   {
     german: "Die dicken Augenbrauen",
@@ -393,7 +381,7 @@ export default [
   },
   {
     german: "Die Augenbraue",
-    english: "unibrow / monobrow",
+    english: "the eyebrow",
   },
   {
     german: "Brauen in den Himmel erheben",
@@ -434,7 +422,7 @@ export default [
   },
   {
     german: "die schwarzen Augen",
-    english: "black / dark eyes",
+    english: "black eyes",
   },
   {
     german: "die großen Augen",
@@ -534,7 +522,7 @@ export default [
   },
   {
     german: "hochgekrempelte Nase",
-    english: "a snub nose / a turned-up nose",
+    english: "a turned-up nose",
   },
   {
     german: "mit flacher Nase",
@@ -550,7 +538,7 @@ export default [
   },
   {
     german: "klappern",
-    english: "to chatter (teeth)",
+    english: "rattle",
   },
   {
     german: "Hasenzähne",
@@ -585,8 +573,8 @@ export default [
     english: "thin lips",
   },
   {
-    german: "mit gefüllten / fleischigen Lippen",
-    english: "full lips",
+    german: "fleischigen Lippen",
+    english: "fleshy lips",
   },
   {
     german: "die Lippen eingeklemmt",
@@ -605,12 +593,12 @@ export default [
     english: "hollow cheeks",
   },
   {
-    german: "Runde Wangen / Runde Wangen",
+    german: "Runde Wangen",
     english: "round cheeks",
   },
   {
     german: "Wangen",
-    english: "pinky / rosy cheeks",
+    english: "cheeks",
   },
   {
     german: "Wangenknochen",
@@ -645,16 +633,24 @@ export default [
     english: "have a pleasant physique",
   },
   {
-    german: "gutaussehend, gutaussehend",
-    english: "handsome, handsome man",
+    german: "gutaussehend",
+    english: "handsome",
   },
   {
-    german: "gutaussehend, hübsch, attraktiv, süß",
-    english: "beautiful, attractive, cute",
+    german: "hübsch",
+    english: "preety",
   },
   {
-    german: "schön, hübsch (e)",
-    english: "beautiful, pretty (e)",
+    german: "attraktiv",
+    english: "attractive",
+  },
+  {
+    german: "süß",
+    english: "sweet, cute",
+  },
+  {
+    german: "schön",
+    english: "beautiful",
   },
   {
     german: "hässlich",
@@ -679,10 +675,6 @@ export default [
   {
     german: "mit makellosem Gesicht",
     english: "the impeccable face",
-  },
-  {
-    german: "Das gefüllte/potente/pralle Gesicht",
-    english: "the face chubby/bouncy",
   },
   {
     german: "langes Gesicht",
@@ -741,10 +733,6 @@ export default [
     english: "a face lift",
   },
   {
-    german: "den Knopf",
-    english: "spots/pimples",
-  },
-  {
     german: "pickelig",
     english: "spotty",
   },
@@ -797,8 +785,8 @@ export default [
     english: "suntanned",
   },
   {
-    german: "Braune / matte Haut",
-    english: "dark-skinned",
+    german: "Braune Haut",
+    english: "brown-skinned",
   },
   {
     german: "braune Haut",
@@ -806,11 +794,11 @@ export default [
   },
   {
     german: "helle Haut",
-    english: "fair-skinned / light-skinned",
+    english: "fair-skinned, light-skinned",
   },
   {
     german: "einen hellen Teint haben",
-    english: "to be fair-skinned",
+    english: "have a fair complexion",
   },
   {
     german: "einer Brille",
@@ -850,7 +838,7 @@ export default [
   },
   {
     german: "farbig werden",
-    english: "to go red/to blush",
+    english: "to go red, to blush",
   },
   {
     german: "erröten",

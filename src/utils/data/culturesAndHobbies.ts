@@ -93,7 +93,7 @@ export default [
   },
   {
     german: "die Freizeit",
-    english: "spare time / leisure time",
+    english: "spare time, leisure time",
   },
   {
     german: "Tätigkeiten im Außenbereich",
@@ -152,7 +152,7 @@ export default [
     english: "an exhibition",
   },
   {
-    german: "das Fest / den Abend",
+    german: "das Fest",
     english: "a party",
   },
   {
@@ -177,7 +177,7 @@ export default [
   },
   {
     german: "ins Kino gehen",
-    english: "to go to the movies / cinema",
+    english: "to go to the cinema",
   },
   {
     german: "ins Theater gehen",
@@ -357,7 +357,7 @@ export default [
   },
   {
     german: "mit Freunden ausgehen",
-    english: "to go out with friends / to hang out with friends",
+    english: "to go out with friends",
   },
   {
     german: "betrügen",

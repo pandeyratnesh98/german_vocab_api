@@ -1,9 +1,5 @@
 export default [
   {
-    german: "Zeit (in Musik)",
-    english: "a beat",
-  },
-  {
     german: "die Lautsprecher",
     english: "speakers",
   },
@@ -25,7 +21,7 @@ export default [
   },
   {
     german: "die Skala",
-    english: "a scale",
+    english: "the scale",
   },
   {
     german: "die Musik",
@@ -44,8 +40,12 @@ export default [
     english: "singing",
   },
   {
-    german: "das Publikum, der Zuschauer",
-    english: "the public; the spectators, the audience",
+    german: "das Publikum",
+    english: "the public",
+  },
+  {
+    german: "der Zuschauer",
+    english: "the spectators, the audience",
   },
   {
     german: "das Pult",
@@ -73,7 +73,7 @@ export default [
   },
   {
     german: "die Vereinbarung",
-    english: "a chord",
+    english: "the chord",
   },
   {
     german: "der Verstärker",
@@ -81,15 +81,15 @@ export default [
   },
   {
     german: "der Bogen",
-    english: "a bow",
+    english: "the bow",
   },
   {
     german: "der Stab",
-    english: "a conductor's baton",
+    english: "the conductor's baton",
   },
   {
     german: "der Schlagmann",
-    english: "a drummer",
+    english: "the drummer",
   },
   {
     german: "Kopfhörer",
@@ -97,31 +97,31 @@ export default [
   },
   {
     german: "die cd",
-    english: "a cd",
+    english: "the cd",
   },
   {
     german: "das Konzert",
-    english: "a concert",
+    english: "the concert",
   },
   {
     german: "die Scheibe",
-    english: "a record",
+    english: "the record",
   },
   {
     german: "die Registrierung",
-    english: "a recording",
+    english: "the recording",
   },
   {
     german: "eine digitale Aufzeichnung",
-    english: "a digital recording",
+    english: "the digital recording",
   },
   {
     german: "das Discografie-Label",
-    english: "a record label",
+    english: "the record label",
   },
   {
     german: "der CD-Spieler",
-    english: "a cd player",
+    english: "the cd player",
   },
   {
     german: "der mp3-Player",
@@ -129,15 +129,15 @@ export default [
   },
   {
     german: "das Metronom",
-    english: "a metronome",
+    english: "the metronome",
   },
   {
     german: "das Mikrofon",
-    english: "a microphone",
+    english: "the microphone",
   },
   {
     german: "das Stück",
-    english: "a track",
+    english: "the track",
   },
   {
     german: "die Oper",
@@ -149,31 +149,31 @@ export default [
   },
   {
     german: "das Musikpult",
-    english: "a music stand",
+    english: "the music stand",
   },
   {
     german: "das Streichquartett",
-    english: "a string quartet",
+    english: "the string quartet",
   },
   {
     german: "das Solo",
-    english: "a solo",
+    english: "the solo",
   },
   {
     german: "die Show",
-    english: "a show",
+    english: "the show",
   },
   {
     german: "das Aufnahmestudio",
-    english: "a recording studio",
+    english: "the recording studio",
   },
   {
     german: "der Plattenspieler",
-    english: "a record player",
+    english: "the record player",
   },
   {
     german: "die Hi-Fi-Anlage",
-    english: "a hi-fi system",
+    english: "the hi-fi system",
   },
   {
     german: "die Stereoanlage",
@@ -181,59 +181,59 @@ export default [
   },
   {
     german: "das Lied",
-    english: "a song",
+    english: "the song",
   },
   {
     german: "die Zusammensetzung",
-    english: "a composition",
+    english: "the composition",
   },
   {
     german: "das Seil",
-    english: "a string",
+    english: "the string",
   },
   {
     german: "die Blaskapelle",
-    english: "a brass band",
+    english: "the brass band",
   },
   {
     german: "die falsche Note",
-    english: "a wrong note",
+    english: "the wrong note",
   },
   {
     german: "die Melodie",
-    english: "a melody, a tune",
+    english: "the melody, the tune",
   },
   {
     german: "die Rechnung",
-    english: "a note",
+    english: "the note",
   },
   {
     german: "die Teilung",
-    english: "a score",
+    english: "the score",
   },
   {
     german: "die Probe",
-    english: "a rehearsal",
+    english: "the rehearsal",
   },
   {
     german: "die Rhapsodie",
-    english: "a rhapsody",
+    english: "the rhapsody",
   },
   {
     german: "der Mixtisch",
-    english: "a mixing deck",
+    english: "the mixing deck",
   },
   {
     german: "die Taste",
-    english: "a key",
+    english: "the key",
   },
   {
     german: "die Runde",
-    english: "a tour",
+    english: "the tour",
   },
   {
     german: "das Weihnachtslied",
-    english: "a carol",
+    english: "the carol",
   },
   {
     german: "die Nationalhymne",
@@ -269,7 +269,7 @@ export default [
   },
   {
     german: "Lateinische Musik",
-    english: "latin/latino music",
+    english: "latin music",
   },
   {
     german: "Popmusik",
@@ -285,7 +285,7 @@ export default [
   },
   {
     german: "die Symphonie",
-    english: "a symphony",
+    english: "the symphony",
   },
   {
     german: "Techno",
@@ -329,11 +329,11 @@ export default [
   },
   {
     german: "Rock",
-    english: "rock'n'roll",
+    english: "rock",
   },
   {
-    german: "MUSIKINSTRUMENTE",
-    english: "MUSICAL INSTRUMENTS",
+    german: "Musikinstrumente",
+    english: "musical instruments",
   },
   {
     german: "der Becken",
@@ -400,8 +400,8 @@ export default [
     english: "the horn of harmony",
   },
   {
-    german: "das Didgeridoo (australisch)",
-    english: "the didgeridoo (Australian)",
+    german: "das Didgeridoo",
+    english: "the didgeridoo",
   },
   {
     german: "der Flötenspieler",
@@ -468,8 +468,12 @@ export default [
     english: "the piano",
   },
   {
-    german: "das Flügel-/Konzert-Klavier",
-    english: "the grand/concert piano",
+    german: "das Flügel",
+    english: "the grand",
+  },
+  {
+    german: "Konzert-Klavier",
+    english: "concert piano",
   },
   {
     german: "die Pikkoloflöte",
@@ -572,88 +576,88 @@ export default [
     english: "the harp",
   },
   {
-    german: "die Sitar (indisch)",
-    english: "la sitar (Indian)",
+    german: "die Sitar",
+    english: "the sitar",
   },
   {
     german: "die Trompete",
     english: "the trumpet",
   },
   {
-    german: "DIE MUSIKER",
-    english: "MUSICIANS",
-  },
-  {
-    german: "die (Rock-)Band",
-    english: "a (rock) band",
+    german: "die musiker",
+    english: "the musician",
   },
   {
     german: "die Oper",
     english: "the opera",
   },
   {
-    german: "der Künstler, der Darsteller",
-    english: "an artist, a performer",
+    german: "der Künstler",
+    english: "an artist",
+  },
+  {
+    german: "der Darsteller",
+    english: "the performer",
   },
   {
     german: "der Bariton",
-    english: "a baritone",
+    english: "the baritone",
   },
   {
     german: "der Bassist",
-    english: "a bassist / a bass player",
+    english: "the bassist",
   },
   {
     german: "die Sängerin",
-    english: "a singer",
+    english: "the singer",
   },
   {
     german: "der Dirigent",
-    english: "an orchestra leader / a conductor",
+    english: "the conductor",
   },
   {
     german: "der Chor",
-    english: "a chorus, a choir",
+    english: "the chorus, the choir",
   },
   {
     german: "der Keyboarder",
-    english: "a keyboard player",
+    english: "the keyboard player",
   },
   {
     german: "der Komponist",
-    english: "a composer",
+    english: "the composer",
   },
   {
-    german: "der dj (Diskjockey).",
-    english: "a dj (disk-jockey)",
+    german: "der dj",
+    english: "the dj",
   },
   {
     german: "das Duo",
-    english: "a duet",
+    english: "the duet",
   },
   {
     german: "die Gruppe",
-    english: "a band",
+    english: "the band",
   },
   {
     german: "die Popgruppe",
-    english: "a pop group",
+    english: "the pop group",
   },
   {
     german: "die Rockband",
-    english: "a rock band",
+    english: "the rock band",
   },
   {
     german: "die Theatergruppe",
-    english: "a stage band",
+    english: "the stage band",
   },
   {
     german: "der Gitarrist",
-    english: "a guitarist",
+    english: "the guitarist",
   },
   {
     german: "der Musiker",
-    english: "a musician",
+    english: "the musician",
   },
   {
     german: "das Orchester",
@@ -661,7 +665,7 @@ export default [
   },
   {
     german: "das Jazzorchester",
-    english: "a jazz band",
+    english: "the jazz band",
   },
   {
     german: "der Organist",
@@ -669,55 +673,55 @@ export default [
   },
   {
     german: "der Pianist",
-    english: "a pianist",
+    english: "the pianist",
   },
   {
     german: "der Rapper",
-    english: "a rapper",
+    english: "the rapper",
   },
   {
     german: "der Saxophonist",
-    english: "a saxophonist",
+    english: "the saxophonist",
   },
   {
     german: "der Solist",
-    english: "a soloist",
+    english: "the soloist",
   },
   {
     german: "die Sopranistin",
-    english: "a soprano",
+    english: "the soprano",
   },
   {
     german: "der Tenor",
-    english: "a tenor",
+    english: "the tenor",
   },
   {
     german: "der Posaunist",
-    english: "a trombonist",
+    english: "the trombonist",
   },
   {
     german: "der Trompeter",
-    english: "a trumpet player",
+    english: "the trumpet player",
   },
   {
     german: "der Cellist",
-    english: "a cellist",
+    english: "the cellist",
   },
   {
     german: "die Geigerin",
-    english: "a violinist",
+    english: "the violinist",
   },
   {
     german: "der Chor",
-    english: "a choir",
+    english: "the choir",
   },
   {
     german: "der Popstar",
-    english: "a pop star",
+    english: "the pop star",
   },
   {
     german: "schätzen",
-    english: "to appreciate / to enjoy",
+    english: "to appreciate, to enjoy",
   },
   {
     german: "gönnen",
@@ -725,7 +729,7 @@ export default [
   },
   {
     german: "zu einem Konzert gehen",
-    english: "to attend / to go to a concert",
+    english: "to go to the concert",
   },
   {
     german: "applaudieren",
@@ -738,10 +742,6 @@ export default [
   {
     german: "singen",
     english: "to sing",
-  },
-  {
-    german: "singen/falsch singen",
-    english: "to sing in/out of tune",
   },
   {
     german: "zusammenstellen",
@@ -777,7 +777,7 @@ export default [
   },
   {
     german: "in einer Band spielen",
-    english: "to play in a band",
+    english: "to play in the band",
   },
   {
     german: "wiederholen",
@@ -789,6 +789,6 @@ export default [
   },
   {
     german: "sich weiterentwickeln",
-    english: "to perfect, to improve",
+    english: "to improve",
   },
 ];

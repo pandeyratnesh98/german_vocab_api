@@ -44,8 +44,8 @@ export default [
     english: "the bus",
   },
   {
-    german: "der Bus, der Bus",
-    english: "the bus, the bus",
+    german: "der Bus",
+    english: "the bus",
   },
   {
     german: "die Seilbahn",
@@ -261,7 +261,7 @@ export default [
   },
   {
     german: "die Panzer",
-    english: "the (battle) tank",
+    english: "the tank",
   },
   {
     german: "der Tank",
@@ -324,10 +324,6 @@ export default [
     english: "UFO (unidentified flying object)",
   },
   {
-    german: "STICHWOR",
-    english: "USEFUL WORDS",
-  },
-  {
     german: "an Bord",
     english: "on board",
   },
@@ -352,53 +348,51 @@ export default [
     english: "broken",
   },
   {
-    german: "im Auto, im Flugzeug...",
-    english: "by car, by plane...",
+    german: "im Auto",
+    english: "in the car",
+  },
+  {
+    german: "im Flugzeug",
+    english: "on the plane",
   },
   {
     german: "Ruhe",
     english: "calm",
   },
   {
-    german: "tief/nicht tief",
-    english: "deep/ shallow",
+    german: "tief",
+    english: "deep",
+  },
+  {
+    german: "nicht tief",
+    english: "shallow",
   },
   {
     german: "betrunken",
     english: "drunk",
   },
   {
-    german: "erste Klasse / zweite Klasse",
-    english: "first class/ second class",
+    german: "erste Klasse",
+    english: "first class",
   },
   {
-    german: "der platte/geplatzte R",
-    english: "flat/flat tire",
+    german: "der platte",
+    english: "flat",
+  },
+
+  {
+    german: "der Hochgeschwindigkeitsflug",
+    english: "the high speed flight",
   },
   {
-    german: "free",
-    english: "eifen",
+    german: "sterblich",
+    english: "mortal",
   },
   {
-    german: "high speed flight",
-    english: "frei",
+    german: "der Arbeiten",
+    english: "of the work",
   },
-  {
-    german: "mortal",
-    english: "der Hochgeschwindigkeitsflug",
-  },
-  {
-    german: "of work",
-    english: "sterblich",
-  },
-  {
-    german: "offshore",
-    english: "der Arbeiten",
-  },
-  {
-    german: "on time/ late",
-    english: "auf hoher See",
-  },
+
   {
     german: "die Sicherheit der Fluggäste",
     english: "passenger safety",
@@ -700,8 +694,12 @@ export default [
     english: "the fuel",
   },
   {
-    german: "die Benzin-/Tankstelle",
-    english: "the gas/gas station",
+    german: "die Benzin",
+    english: "the gas",
+  },
+  {
+    german: "Tankstelle",
+    english: "gas station",
   },
   {
     german: "der Schalthebel",
@@ -849,7 +847,7 @@ export default [
   },
   {
     german: "der Passagier",
-    english: "the passenger/ the passenger",
+    english: "the passenger",
   },
   {
     german: "der Pilot",
@@ -996,8 +994,12 @@ export default [
     english: "the shock absorber",
   },
   {
-    german: "der Schock, die Beule",
-    english: "the shock, the bump",
+    german: "der Schock",
+    english: "the shock",
+  },
+  {
+    german: "die Beule",
+    english: "the bump",
   },
   {
     german: "das Signal",
@@ -1304,8 +1306,8 @@ export default [
     english: "miss",
   },
   {
-    german: "Flug verpassen / verpassen",
-    english: "miss/ miss flight",
+    german: "Flug verpassen",
+    english: "miss flight",
   },
   {
     german: "sich bewegen",
@@ -1388,9 +1390,14 @@ export default [
     english: "take off",
   },
   {
-    german: "Bus / U-Bahn / Zug nehmen",
-    english: "take the bus/ metro/ train",
+    german: "U-Bahn",
+    english: "metro, subway",
   },
+  {
+    german: "Zug nehmen",
+    english: "take train",
+  },
+
   {
     german: "schleppen",
     english: "tow",
@@ -1416,7 +1423,931 @@ export default [
     english: "troubleshoot",
   },
   {
-    german: "hinauf/absteigen",
-    english: "up/ down",
+    german: "hinauf",
+    english: "up",
+  },
+  {
+    german: "absteigen",
+    english: "get off, dismount",
+  },
+  {
+    german: "an Bord",
+    english: "on board",
+  },
+  {
+    german: "nach",
+    english: "to destination of",
+  },
+  {
+    german: "pünktlich",
+    english: "on time",
+  },
+  {
+    german: "Geldstrafe",
+    english: "a penalty fare",
+  },
+  {
+    german: "sitzend",
+    english: "seated",
+  },
+  {
+    german: "stehend",
+    english: "standing",
+  },
+  {
+    german: "die Treppe",
+    english: "the stairs",
+  },
+  {
+    german: "zwei Minuten Pause",
+    english: "two-minute stop",
+  },
+  {
+    german: "die zweite Klasse",
+    english: "the second class",
+  },
+  {
+    german: "der Alarm",
+    english: "the alarm",
+  },
+  {
+    german: "die Ankunftszeit",
+    english: "arrival time",
+  },
+  {
+    german: "Abfahrtszeit",
+    english: "the departure time",
+  },
+  {
+    german: "der Aufzug",
+    english: "a lift",
+  },
+  {
+    german: "den Verkehr",
+    english: "the traffic",
+  },
+  {
+    german: "die Economyklasse",
+    english: "the economic class",
+  },
+  {
+    german: "die automatische Anweisung",
+    english: "the automatic setpoint",
+  },
+  {
+    german: "der Bahnhof",
+    english: "the station",
+  },
+  {
+    german: "der Warteschlange",
+    english: "the queue",
+  },
+  {
+    german: "der Ausgang",
+    english: "the exit",
+  },
+  {
+    german: "das Kopfende",
+    english: "the head end",
+  },
+  {
+    german: "das Fundbüro",
+    english: "the lost and found office",
+  },
+  {
+    german: "das Auskunftsbüro",
+    english: "the Information Office",
+  },
+  {
+    german: "die Ticketkontrolle",
+    english: "the control of tickets",
+  },
+  {
+    german: "die Abreise",
+    english: "the departure",
+  },
+  {
+    german: "die Schalter",
+    english: "the window",
+  },
+  {
+    german: "die Bahnhofshalle",
+    english: "the station hall",
+  },
+  {
+    german: "der Motor",
+    english: "the engine",
+  },
+  {
+    german: "der Preis des Flugscheins",
+    english: "the price of the ticket",
+  },
+  {
+    german: "das Netz",
+    english: "the network",
+  },
+  {
+    german: "die Ankommenden",
+    english: "the arrived",
+  },
+  {
+    german: "das Gepäck",
+    english: "the baggage",
+  },
+  {
+    german: "die Betten",
+    english: "the berths",
+  },
+  {
+    german: "die Schalter",
+    english: "the counters",
+  },
+  {
+    german: "die Zeiten",
+    english: "the schedules",
+  },
+  {
+    german: "die Schienen",
+    english: "the rails",
+  },
+  {
+    german: "die Tarife, die Preise",
+    english: "the tariffs, the prices",
+  },
+  {
+    german: "die Reisenden",
+    english: "the travellers",
+  },
+  {
+    german: "die Eisenbahnlinie",
+    english: "the railway line",
+  },
+  {
+    german: "die U-Bahnlinie",
+    english: "the subway line",
+  },
+  {
+    german: "die Lokomotive",
+    english: "the locomotive",
+  },
+  {
+    german: "die erste Klasse",
+    english: "the first class",
+  },
+  {
+    german: "das Abonnement",
+    english: "the subscription",
+  },
+  {
+    german: "der Zugunfall",
+    english: "the train accident",
+  },
+  {
+    german: "eine einfache Fahrkarte",
+    english: "a one-way ticket",
+  },
+  {
+    german: "ein Hin- und Rückflug",
+    english: "the round trip",
+  },
+  {
+    german: "das Ende",
+    english: "the stop",
+  },
+  {
+    german: "das Ticket",
+    english: "the ticket",
+  },
+  {
+    german: "das vergünstigte Ticket",
+    english: "the reduced fare ticket",
+  },
+  {
+    german: "die Bahnfahrkarte",
+    english: "the train ticket",
+  },
+  {
+    german: "das Halbtax-Ticket",
+    english: "the half-fare ticket",
+  },
+  {
+    german: "das elektronische Ticket",
+    english: "the electronic ticket",
+  },
+  {
+    german: "der Wagen",
+    english: "the carriage",
+  },
+  {
+    german: "der Bahnhofsvorsteher",
+    english: "the station master",
+  },
+  {
+    german: "der Eisenbahner",
+    english: "the railwayman",
+  },
+  {
+    german: "das Abteil",
+    english: "the compartment",
+  },
+  {
+    german: "der Triebfahrzeugführer",
+    english: "the train driver",
+  },
+  {
+    german: "die Kontrolle",
+    english: "the control",
+  },
+  {
+    german: "der Kontrolleur",
+    english: "the controller",
+  },
+  {
+    german: "den Gang",
+    english: "the corridor",
+  },
+  {
+    german: "die Entgleisung",
+    english: "the derailment",
+  },
+  {
+    german: "Zeitungsstand",
+    english: "the newsstand",
+  },
+  {
+    german: "die Sitznummer",
+    english: "the seat number",
+  },
+  {
+    german: "die Anzeigetafel",
+    english: "the display panel",
+  },
+  {
+    german: "die Informationstafel",
+    english: "the information panel",
+  },
+  {
+    german: "Bahnübergang",
+    english: "the crossing",
+  },
+  {
+    german: "der U-Bahn-Plan",
+    english: "the metro map",
+  },
+  {
+    german: "der Gepäckträger",
+    english: "the luggage carrier",
+  },
+  {
+    german: "der Bahnsteig",
+    english: "the platform",
+  },
+  {
+    german: "die Rückzahlung",
+    english: "the reimbursement",
+  },
+  {
+    german: "die Verspätung",
+    english: "the delay",
+  },
+  {
+    german: "der Sitz",
+    english: "the seat",
+  },
+  {
+    german: "die Pfeife",
+    english: "the whistle",
+  },
+  {
+    german: "der Untergrund",
+    english: "the underground",
+  },
+  {
+    german: "der Notsitz",
+    english: "the folding seat",
+  },
+  {
+    german: "die Endstation",
+    english: "the terminus",
+  },
+  {
+    german: "die U-Bahn-Fahrkarte",
+    english: "the metro ticket",
+  },
+  {
+    german: "der Zug",
+    english: "the train",
+  },
+  {
+    german: "der Hochgeschwindigkeitszug",
+    english: "high-speed train",
+  },
+  {
+    german: "der Dampfzug",
+    english: "the steam train",
+  },
+  {
+    german: "der Güterzug",
+    english: "the freight train",
+  },
+  {
+    german: "der Expresszug",
+    english: "the express train",
+  },
+  {
+    german: "der Schnellzug",
+    english: "the fast train",
+  },
+  {
+    german: "die Fahrt",
+    english: "the route",
+  },
+  {
+    german: "der Reisende",
+    english: "the traveller",
+  },
+  {
+    german: "Der Fahrkartenautomat",
+    english: "ticket vending machine",
+  },
+  {
+    german: "der Fahrkartenhändler",
+    english: "the ticket seller, ticket office",
+  },
+  {
+    german: "die Abonnementskarte",
+    english: "the subscription card",
+  },
+  {
+    german: "die Eisenbahnkarte",
+    english: "the railway map",
+  },
+  {
+    german: "die Korrespondenz",
+    english: "the correspondence",
+  },
+  {
+    german: "das Etikett",
+    english: "the label",
+  },
+  {
+    german: "Streik",
+    english: "the strike",
+  },
+  {
+    german: "die Reservierung",
+    english: "the reservation",
+  },
+  {
+    german: "das Wartezimmer",
+    english: "the waiting room",
+  },
+  {
+    german: "der Koffer",
+    english: "the suitcase",
+  },
+  {
+    german: "die Eisenbahn",
+    english: "the railway track",
+  },
+  {
+    german: "die Reise",
+    english: "the trip",
+  },
+  {
+    german: "der Wagen",
+    english: "the car",
+  },
+  {
+    german: "der Schlafwagen",
+    english: "the sleeping car",
+  },
+  {
+    german: "der Speisewagen",
+    english: "the restaurant car",
+  },
+  {
+    german: "das Ticketbuch",
+    english: "the ticket book",
+  },
+  {
+    german: "umsteigen",
+    english: "to change trains",
+  },
+  {
+    german: "Platz reservieren",
+    english: "to book a seat",
+  },
+  {
+    german: "aussteigen",
+    english: "to get off the train",
+  },
+  {
+    german: "in den Zug steigen",
+    english: "to get on the train",
+  },
+  {
+    german: "verpassen",
+    english: "to miss the train",
+  },
+  {
+    german: "den Zuschlag zahlen",
+    english: "to pay a surcharge, an extra charge",
+  },
+  {
+    german: "Kompostieren",
+    english: "Composting",
+  },
+  {
+    german: "reisen",
+    english: "to travel",
+  },
+  {
+    german: "backbord",
+    english: "to port",
+  },
+  {
+    german: "an Bord",
+    english: "on board",
+  },
+  {
+    german: "steuerbord",
+    english: "to starboard",
+  },
+  {
+    german: "der Liegezeit",
+    english: "the stopover",
+  },
+  {
+    german: "der Besatzung",
+    english: "the crew",
+  },
+  {
+    german: "der Ozean",
+    english: "the ocean",
+  },
+  {
+    german: "die Stange",
+    english: "the bar",
+  },
+  {
+    german: "der Andockbitt",
+    english: "the mooring bitt",
+  },
+  {
+    german: "die Kabine",
+    english: "the cabin",
+  },
+  {
+    german: "der Laderaum",
+    english: "the hold",
+  },
+  {
+    german: "die Bordkarte",
+    english: "the boarding pass",
+  },
+  {
+    german: "den Bootskörper",
+    english: "the hull of the boat",
+  },
+  {
+    german: "die Küste",
+    english: "the coast",
+  },
+  {
+    german: "das Ziel",
+    english: "the destination",
+  },
+  {
+    german: "die Küstenwache",
+    english: "the Coast Guard",
+  },
+  {
+    german: "der Seegang",
+    english: "the swell",
+  },
+  {
+    german: "die Wasserlinie",
+    english: "the waterline",
+  },
+  {
+    german: "die Flut",
+    english: "the tide",
+  },
+  {
+    german: "das Meer",
+    english: "the sea",
+  },
+  {
+    german: "die Schifffahrt",
+    english: "the navigation",
+  },
+  {
+    german: "die Brücke",
+    english: "the bridge",
+  },
+  {
+    german: "das Tor",
+    english: "the gate, goal, door",
+  },
+  {
+    german: "das offene Meer",
+    english: "the open sea",
+  },
+  {
+    german: "der Kiel",
+    english: "the keel",
+  },
+  {
+    german: "das Rad",
+    english: "the wheel",
+  },
+  {
+    german: "die Durchquerung",
+    english: "the crossing",
+  },
+  {
+    german: "das Segel",
+    english: "the sail",
+  },
+  {
+    german: "das Rettungsboot",
+    english: "the rescue boat",
+  },
+  {
+    german: "der Umhang",
+    english: "the heading",
+  },
+  {
+    german: "der Kapitän",
+    english: "the captain",
+  },
+  {
+    german: "die Fähre",
+    english: "the ferry",
+  },
+  {
+    german: "das Ruder",
+    english: "the rudder",
+  },
+  {
+    german: "Seekrankheit",
+    english: "seasickness",
+  },
+  {
+    german: "der Mast",
+    english: "the mast",
+  },
+  {
+    german: "die Brücke",
+    english: "the bridge",
+  },
+  {
+    german: "das Unterdeck",
+    english: "the lower deck",
+  },
+  {
+    german: "das Oberdeck",
+    english: "the upper deck",
+  },
+  {
+    german: "der Hafen",
+    english: "the port",
+  },
+  {
+    german: "der Kai",
+    english: "the platform",
+  },
+  {
+    german: "die Totenwache",
+    english: "the wake",
+  },
+  {
+    german: "der Wind",
+    english: "the wind",
+  },
+  {
+    german: "die Wettervorhersage",
+    english: "the weather forecast",
+  },
+  {
+    german: "maritimer",
+    english: "maritime",
+  },
+  {
+    german: "stürmisch",
+    english: "stormy",
+  },
+  {
+    german: "über Bord",
+    english: "overboard",
+  },
+  {
+    german: "die Verankerung",
+    english: "the anchoring",
+  },
+  {
+    german: "das Schiff",
+    english: "the boat",
+  },
+  {
+    german: "das Dampfschiff",
+    english: "the steam boat",
+  },
+  {
+    german: "das Fischereifahrzeug",
+    english: "the fishing vessel",
+  },
+  {
+    german: "das Containerschiff",
+    english: "the container ship",
+  },
+  {
+    german: "das Kanu",
+    english: "the canoe",
+  },
+  {
+    german: "das Boot",
+    english: "the canoe",
+  },
+  {
+    german: "das Rettungsboot",
+    english: "the lifeboat",
+  },
+  {
+    german: "das Floß",
+    english: "the raft",
+  },
+  {
+    german: "der Katamaran",
+    english: "the catamaran",
+  },
+  {
+    german: "die Werft",
+    english: "the shipyard",
+  },
+  {
+    german: "der neigbare Sessel",
+    english: "the reclining chair",
+  },
+  {
+    german: "die Galeone",
+    english: "the galleon",
+  },
+  {
+    german: "die Schwimmweste",
+    english: "the life jacket",
+  },
+  {
+    german: "das Schnellboot",
+    english: "the outboard",
+  },
+  {
+    german: "das Logbuch",
+    english: "the logbook",
+  },
+  {
+    german: "das kajak",
+    english: "the kayak",
+  },
+  {
+    german: "der Seemann",
+    english: "the sailor",
+  },
+  {
+    german: "das Schiff",
+    english: "the ship",
+  },
+  {
+    german: "der Knoten",
+    english: "the node",
+  },
+  {
+    german: "der Sturm",
+    english: "the storm",
+  },
+  {
+    german: "der Passagier",
+    english: "the passenger",
+  },
+  {
+    german: "der Pavillon",
+    english: "the pavilion",
+  },
+  {
+    german: "der Leuchtturm",
+    english: "the lighthouse",
+  },
+  {
+    german: "der Segler",
+    english: "the boater",
+  },
+  {
+    german: "der Ponton",
+    english: "the pontoon",
+  },
+  {
+    german: "der Jachthafen",
+    english: "the marina",
+  },
+  {
+    german: "die Andockstation",
+    english: "the berth",
+  },
+  {
+    german: "das Floß",
+    english: "the raft",
+  },
+  {
+    german: "das Aufräumen",
+    english: "the storage",
+  },
+  {
+    german: "das Segelboot",
+    english: "the sailboat",
+  },
+  {
+    german: "die Jacht",
+    english: "the yacht",
+  },
+  {
+    german: "das Leuchtfeuer",
+    english: "the beacon",
+  },
+  {
+    german: "der Kahn",
+    english: "the barge",
+  },
+  {
+    german: "das Boot",
+    english: "the boat",
+  },
+  {
+    german: "der Liegestuhl",
+    english: "the chaise longue",
+  },
+  {
+    german: "die Kreuzfahrt",
+    english: "the cruise",
+  },
+  {
+    german: "die Küche",
+    english: "the kitchen",
+  },
+  {
+    german: "der Uferdamm",
+    english: "the dike",
+  },
+  {
+    german: "der Schoner",
+    english: "the schooner",
+  },
+  {
+    german: "die Gondel",
+    english: "the gondola",
+  },
+  {
+    german: "der Propeller",
+    english: "the propeller",
+  },
+  {
+    german: "der Pier",
+    english: "the pier",
+  },
+  {
+    german: "das unruhige Meer",
+    english: "the rough sea",
+  },
+  {
+    german: "das ruhige Meer",
+    english: "the calm sea",
+  },
+  {
+    german: "das starke Meer",
+    english: "the strong sea",
+  },
+  {
+    german: "das Paddel",
+    english: "the paddle",
+  },
+  {
+    german: "die Brücke",
+    english: "the bridge",
+  },
+  {
+    german: "die Prognose für den Versand",
+    english: "the shipping forecast",
+  },
+  {
+    german: "das Ruder",
+    english: "the oar",
+  },
+  {
+    german: "der Maschinenraum",
+    english: "the engine room",
+  },
+  {
+    german: "die Meerjungfrau",
+    english: "the mermaid",
+  },
+  {
+    german: "die Welle",
+    english: "the wave",
+  },
+  {
+    german: "die Wasserstraße",
+    english: "the waterway",
+  },
+  {
+    german: "windig",
+    english: "windy",
+  },
+  {
+    german: "vertäuen",
+    english: "to moor",
+  },
+  {
+    german: "fahren",
+    english: "to fly a country flag",
+  },
+  {
+    german: "kentern",
+    english: "to capsize",
+  },
+  {
+    german: "fließen",
+    english: "to sink",
+  },
+  {
+    german: "landen",
+    english: "to disembark",
+  },
+  {
+    german: "einschiffen",
+    english: "to embark",
+  },
+  {
+    german: "das Notsignal senden",
+    english: "to send a distress signal",
+  },
+  {
+    german: "an Bord sein",
+    english: "to be on board",
+  },
+  {
+    german: "treiben",
+    english: "to be adrift",
+  },
+  {
+    german: "andocken",
+    english: "be docked",
+  },
+  {
+    german: "anlaufen",
+    english: "make a stopover",
+  },
+  {
+    german: "schiffbrüchig machen",
+    english: "sinking",
+  },
+  {
+    german: "überfluten",
+    english: "flood",
+  },
+  {
+    german: "ankern",
+    english: "drop the anchor",
+  },
+  {
+    german: "losmachen",
+    english: "drop the moorings",
+  },
+  {
+    german: "einsteigen",
+    english: "board",
+  },
+  {
+    german: "navigieren",
+    english: "navigate",
+  },
+  {
+    german: "schleppen",
+    english: "tow",
+  },
+  {
+    german: "Tankfüllung",
+    english: "fill the fuel tank",
+  },
+  {
+    german: "andocken",
+    english: "dock",
+  },
+  {
+    german: "ertrinken",
+    english: "drown",
+  },
+  {
+    german: "erbrechen",
+    english: "vomit",
   },
 ];

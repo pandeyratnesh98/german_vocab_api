@@ -24,8 +24,8 @@ export default [
     english: "the banana",
   },
   {
-    german: "die Preiselbeere, die Preiselbeere",
-    english: "cranberries, cranberries and cranberries",
+    german: "die Preiselbeere",
+    english: "cranberries",
   },
   {
     german: "die Kirsche",
@@ -200,8 +200,8 @@ export default [
     english: "the mangoustan",
   },
   {
-    german: "der Händler / der Obstverkäufer",
-    english: "the fruit merchant/ seller",
+    german: "der Obstverkäufer",
+    english: "the fruit merchant, seller",
   },
   {
     german: "die Melone",
@@ -237,7 +237,7 @@ export default [
   },
   {
     german: "reif",
-    english: "ripe(e)",
+    english: "ripe",
   },
   {
     german: "verfault",
