@@ -221,8 +221,8 @@ export default [
     english: "the disturbance",
   },
   {
-    german: "die Start-/Landebahn",
-    english: "the take-off/landing runway",
+    german: "die Start",
+    english: "the take-off",
   },
   {
     german: "die Luftblase",
